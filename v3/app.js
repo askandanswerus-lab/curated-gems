@@ -440,9 +440,9 @@ function renderTags(list) {
     const isAll = t === allText;
     const tagValue = isAll ? 'all' : t;
     const isActive = activeTags.has(tagValue);
-    // TODO: 在这里添加标签数量显示逻辑
-    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">${esc(t)}</span>`;
-  }).join('');
+    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
+      ${esc(t)} <span class="tag-count">(${count})</span>
+    </span>`;
 }
 
 // 清除所有标签筛选
