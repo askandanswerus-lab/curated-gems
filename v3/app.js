@@ -194,8 +194,6 @@ function bind() {
     sortEl.addEventListener('change', applyAndRender);
   }
 
-
-
   // 清除所有筛选
   const clearBtn = $('#clear-filters');
   if (clearBtn) {
@@ -434,8 +432,8 @@ function renderTags(list) {
   const allText = lang === 'zh' ? '全部' : 'All';
   const tags = [allText, ...allTags];
   
-  // TODO: 学员任务 - 实现标签数量显示功能
   // 提示：需要在标签后面显示使用次数，格式如 "AI (15)"
+  const count = isAll ? list.length : (tagCounts[t] || 0);
   $('#tags').innerHTML = tags.map(t => {
     const isAll = t === allText;
     const tagValue = isAll ? 'all' : t;
