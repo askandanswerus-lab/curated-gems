@@ -349,4 +349,121 @@
     "summary_zh": "萨姆·阿尔特曼对OpenAI发展历程的反思，揭示了AI先驱者的挑战与成就。从研究到产品的快速转变，ChatGPT的意外成功，以及指数级增长带来的组织困境，无不体现创新的代价。他关于被解雇和治理改进的个人经历，凸显了多元视角在领导力中的重要性。文章还展望了AGI和超级智能，强调需要谨慎而有益的部署。阿尔特曼对同事和支持者的感激之情，为这场技术革命增添了人性化的笔触。",
     "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.",
     "best_quote_zh": "我们现在有信心按照我们传统的理解方式构建AGI。我们相信，到2025年，我们可能会看到第一批AI代理加入工作岗位，并对公司的产出产生实质性影响。"
+  },{
+    "id": 16,
+    "title": "Book of the month: Nauja Lynge",
+    "title_zh": "本月好书：Nauja Lynge",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/08/29/book-of-the-month-nauja-lynge/",
+    "tags": [
+      "update",
+      "writing-content",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-08-29",
+    "summary_en": "This review of Nauja Lynge's 'Ivalu's Color' offers a fascinating exploration of how Greenlandic literature challenges Western literary conventions. The book, a crime novel with political undertones, subverts traditional detective tropes by focusing more on broader societal forces than individual characters. Lynge's work, blending Greenlandic storytelling traditions with European literary structures, presents a unique perspective on Inuit culture and politics. The review acknowledges the book's challenging aspects, including its controversial portrayals, but ultimately values it as a thought-provoking work that expands our understanding of global literature. It serves as a reminder of the importance of approaching diverse narratives with openness and curiosity.",
+    "summary_zh": "这篇对Nauja Lynge《伊瓦卢的颜色》的评论，展现了格陵兰文学如何挑战西方文学传统。这部带有政治隐喻的犯罪小说，颠覆了传统侦探小说的套路，更关注社会力量而非个体。林格将格陵兰叙事传统与欧洲文学结构融合，呈现出独特的因纽特文化与政治视角。评论承认作品存在争议之处，但最终认为这是一部拓展全球文学理解的深刻之作。它提醒我们阅读多元叙事时需要保持开放心态。",
+    "best_quote_en": "It's almost as if there is a chapter in our common history missing. My major concern is that we open the doors to outsiders before we are ready to welcome them. Things take time. This applies to Greenland to such an extent that we might be better off seeing ourselves as a developing country, not co-opted immediately into the international economy.",
+    "best_quote_zh": "仿佛我们共有的历史中缺失了一章。我最担心的是我们在准备好迎接外界之前就打开了大门。事情需要时间。这对格陵兰来说如此重要，以至于我们可能更应该把自己看作发展中国家，而不是立即被纳入国际经济。"
+  },
+  {
+    "id": 17,
+    "title": "I spent months testing insomnia cures – then grieving for a pet made sleep impossible",
+    "title_zh": "我花了数月测试失眠疗法，然后宠物的离世让我无法入睡",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2025/sep/19/i-spent-months-testing-insomnia-cures",
+    "tags": [
+      "analyze",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "This deeply personal narrative explores the limitations of sleep aids in the face of emotional trauma. The author's journey from testing various insomnia cures to grappling with grief offers profound insights into how psychological factors can override physical sleep solutions. The piece highlights how even the most effective products (like mouldable silicone earplugs) become irrelevant when facing profound loss. It serves as a poignant reminder that some sleep disturbances require more than just practical fixes, touching on themes of companionship, memory, and emotional healing.",
+    "summary_zh": "这篇文章深刻描述了情感创伤下睡眠辅助的局限性。作者从测试各种失眠疗法到面对丧宠的痛苦，揭示了心理因素如何超越身体层面的睡眠问题。即使最有效的产品也无法弥补失去亲人的痛苦。提醒我们，有些睡眠问题需要超越实用解决方案，触及陪伴、记忆和情感疗愈的深层主题。",
+    "best_quote_en": "His purr was more soothing than any sounds on the SnoozeBand, and the smell of his fur more ambrosial than any lavender spray.",
+    "best_quote_zh": "他的喵喵声比任何睡眠带的声音都更令人安心，他的毛发气味比任何薰衣草喷雾都更芳香。"
+  },
+  {
+    "id": 18,
+    "title": "How to Think for Yourself",
+    "title_zh": "如何学会独立思考",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/think.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-05",
+    "summary_en": "This essay explores the critical importance of independent thinking across various professions, from science and investment to entrepreneurship and writing. The author argues that true innovation requires ideas that diverge from conventional wisdom, as merely being correct isn't sufficient when everyone else is correct too. The piece delves into the nature of independent-mindedness, suggesting it's more innate than learned, and offers strategies to cultivate it, such as surrounding oneself with like-minded individuals and practicing intellectual skepticism. The author also identifies three core components of independent thinking: fastidiousness about truth, resistance to being told what to think, and curiosity. The essay challenges readers to reflect on their own cognitive tendencies and consider whether their work environment nurtures or stifles original thought.",
+    "summary_zh": "这篇文章探讨了独立思考在各行各业中的重要性，从科学研究到投资，再到创业和写作。作者认为，真正的创新需要超越常规的想法，仅仅正确是不够的，因为当所有人都正确时，差异化的见解才具有价值。文章深入分析了独立思考的本质，认为它更多是天赋而非后天培养，并提出了一些培养独立思考的策略，比如结交志同道合的朋友和练习知识怀疑。作者还指出了独立思考的三个核心要素：对真理的严谨态度、抵制被他人左右的思想和好奇心。文章挑战读者思考自己的认知倾向，并考虑其工作环境是否鼓励或抑制原创思维。",
+    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
+    "best_quote_zh": "最好的发现新想法的地方，就是没有人在看的地方。"
+  },
+  {
+    "id": 19,
+    "title": "Can the Democrats Take Free Speech Back from the Right?",
+    "title_zh": "民主党能否从右翼手中夺回言论自由？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/can-the-democrats-take-free-speech-back-from-the-right",
+    "tags": [
+      "guide",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-03",
+    "summary_en": "This article explores the complex relationship between the Democratic Party and free speech in America. The author argues that while Democrats have historically championed First Amendment rights, recent trends show they've ceded this ground to the right. The piece examines how progressive stances on issues like trigger warnings and deplatforming have backfired, empowering conservative movements. It highlights the NOPE Act as a potential turning point but questions whether Democrats can authentically reclaim free speech advocacy, especially regarding the contentious issue of Gaza. The analysis suggests that without addressing this elephant in the room, Democratic efforts may ring hollow.",
+    "summary_zh": "文章探讨了民主党与言论自由之间的复杂关系。作者指出，尽管民主党历史上捍卫过第一修正案，但近年趋势显示他们已将这一立场拱手让给右翼。分析进步派在触发警告和取消平台等问题上的立场如何反噬，反而助长了保守势力。文中提到NOPE法案可能成为转折点，但质疑民主党能否真正重新掌握言论自由旗帜，尤其是在关于加沙问题的敏感话题上。分析认为，如果不正视这个关键问题，民主党的努力可能显得苍白无力。",
+    "best_quote_en": "The Party can't talk convincingly about free speech and the First Amendment while avoiding the issue that has prompted a wave of censorship and which, meanwhile, dominates social media.",
+    "best_quote_zh": "民主党在回避引发审查浪潮且主导社交媒体的问题时，无法令人信服地讨论言论自由和第一修正案。"
+  },
+  {
+    "id": 20,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "update",
+      "ai-research",
+      "ai-product",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "AI产品",
+      "未来预测"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "The announcement of GPT-4o highlights two key advancements: making cutting-edge AI widely accessible for free and introducing a revolutionary voice and video interface. The free availability of the best AI model aligns with OpenAI's mission to democratize powerful tools, creating a platform where others can innovate and benefit. The voice mode represents a significant leap in human-computer interaction, offering natural, fast, and expressive communication that feels cinematic. This development suggests a future where AI becomes deeply integrated into daily life, capable of understanding and acting on personal information. The announcement also underscores OpenAI's dual approach of offering free services while monetizing other aspects to sustain its mission.",
+    "summary_zh": "GPT-4o的发布聚焦两大突破：免费普惠最先进AI工具和推出革新性语音视频交互界面。免费提供顶级AI模型体现了OpenAI让强大工具普惠大众的使命，为他人创新提供平台。语音模式标志着人机交互的重大飞跃，实现了电影般流畅自然的对话体验。这一进展预示着AI深度融入日常生活的未来，能理解并处理个人信息。发布同时展现了OpenAI",
+    "best_quote_en": "Talking to a computer has never felt really natural for me; now it does.",
+    "best_quote_zh": "与电脑对话从未让我觉得自然，现在却是这样。"
   }]
