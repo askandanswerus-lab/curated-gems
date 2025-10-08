@@ -692,4 +692,117 @@
     "summary_zh": "这本指南评论为冒险探险者提供了丰富的旅行见解，重点介绍墨西哥和阿拉斯加。人民墨西哥指南以其数十年非主流旅行经验著称，强调文化沉浸和实际生存技能。它超越了普通旅游指南，提供可应用于任何旅行的智慧。阿拉斯加公路指南《里程碑》则为北方路线提供了关键的里程级信息，并附有季节性旅行建议，突显了该地区不可预测的天气。两本指南都是如何专业知识能改变旅行体验的典范，对追求真正冒险的旅行者而言不可或缺。",
     "best_quote_en": "It's the operating manual for people in Mexico.",
     "best_quote_zh": "这是墨西哥人的操作手册。"
+  },{
+    "id": 31,
+    "title": "Book of the month: Tahir Hamut Izgil",
+    "title_zh": "每月一书：塔伊尔·哈木特·伊兹吉尔",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/06/30/book-of-the-month-tahir-hamut-izgil/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2025-06-30",
+    "summary_en": "Tahir Hamut Izgil's memoir 'Waiting to Be Arrested at Night' offers a harrowing yet poetic account of Uyghur persecution in Xinjiang. The book's power lies in its stark portrayal of systemic oppression through everyday absurdities, like the 'List of Prohibited Names' and euphemisms for state violence. Izgil's poetry and lyrical prose humanize the refugee experience, making the political deeply personal. The memoir's Western publication raises important questions about whose stories gain visibility and why. While Izgil's narrative aligns with familiar Western critiques of China, this alignment may make it more accessible to English-speaking audiences, potentially broadening empathy for refugee experiences. The book's literary quality and emotional resonance make it both an important historical document and a moving personal story.",
+    "summary_zh": "塔伊尔·哈木特·伊兹吉尔的回忆录《夜间等待被捕》以乌尔都族人在新疆遭受迫害的真实经历，用诗意的语言描绘了系统性压迫的荒诞与残酷。书中那些禁止使用的姓名清单和掩盖暴力的委婉语，让读者感受到政治压迫对个人生活的侵蚀。伊兹吉尔的诗歌和流畅的散文将政治议题转化为个人叙事，使读者更能共情。这部回忆录的西方出版引发了关于哪些故事能获得关注的重要思考。虽然伊兹吉尔的叙事与西方对中国的批评相吻合，但这种相似性或许能让更多英语读者接纳这个故事，从而更深刻地理解难民的处境。",
+    "best_quote_en": "'A name is a person's most personal possession. If he cannot hold on to his own name, what hope does he have of keeping anything else?'",
+    "best_quote_zh": "“名字是一个人最私人的所有物。如果他连自己的名字都保不住，他还有什么希望保住别的东西呢？”"
+  },
+  {
+    "id": 32,
+    "title": "A moment that changed me: I stopped restraining myself – and found the love of my life",
+    "title_zh": "改变我生命的一刻：我停止压抑自己——并找到了我的真爱",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/08/a-moment-that-changed-me-i-stopped-restraining-myself-and-found-the-love-of-my-life",
+    "tags": [
+      "solve",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Francesca Hornak's personal narrative reveals profound insights about self-authenticity in relationships. Her story of shedding performative perfectionism highlights how societal expectations often shape our romantic behaviors. The moment she let out a primal roar after stubbing her toe became a turning point, revealing her partner's acceptance of her unfiltered self. This anecdote serves as a powerful reminder that vulnerability and authenticity are crucial for meaningful connections. The article challenges traditional gender norms and relationship 'rules', offering a refreshing perspective on how letting go of pretense can lead to deeper, more fulfilling partnerships. It's a compelling case study in emotional honesty and personal growth within romantic relationships.",
+    "summary_zh": "弗朗西丝卡·霍纳克的个人故事揭示了真实自我在爱情中的重要性。她放下完美主义包袋的经历，揭示了社会期望如何塑造我们的恋爱行为。那次撞到脚趾后发出的原始嚎叫成为转折点，展现了伴侣对她不加修饰的自我接纳。这个故事提醒我们，脆弱和真实是建立深厚关系的关键。文章挑战传统性别规范和恋爱准则，为我们呈现了放下伪装如何带来更深层次的爱情体验。这是情感真诚与个人成长在浪漫关系中的生动案例。",
+    "best_quote_en": "Slowly I let the unedited version of myself break free",
+    "best_quote_zh": "慢慢地，我让未经修饰的自己挣脱出来"
+  },
+  {
+    "id": 33,
+    "title": "The Four Quadrants of Conformism",
+    "title_zh": "服从主义的四象限",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/conformism.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "The Four Quadrants of Conformism presents a fascinating framework for understanding human behavior through the lens of conformity. By mapping people on two axes—conventional vs. independent thinking and passive vs. aggressive behavior—the author creates a compelling typology that reveals how different personalities engage with societal norms. The piece argues that independent thinkers, particularly the aggressively independent, are crucial for societal progress as they challenge norms and generate new ideas. The author expresses concern about recent erosion of free inquiry, particularly in academic institutions, and how social media has empowered aggressively conventional thinkers. While the future of intellectual freedom is uncertain, the author remains optimistic about the resilience of independent thinkers to adapt and create new protective institutions.",
+    "summary_zh": "《服从主义的四象限》通过服从程度和行为方式将人分为四类，揭示了不同人格如何对待社会规则。作者认为独立思考者尤其是积极独立者是社会进步的关键，而当前学术界和社交媒体正在削弱思想自由的环境。尽管前景不确定，作者仍对独立思考者的适应能力充满信心。这篇文章引发我们思考：在何种程度上我们的行为是独立选择而非社会塑造？",
+    "best_quote_en": "The aggressively conventional-minded aren't responsible for all the trouble in the world. Another big source of trouble is the sort of charismatic leader who gains power by appealing to them.",
+    "best_quote_zh": "积极服从主义者并非世上所有麻烦的源头。另一个大麻烦来源是通过迎合他们获取权力的那种魅力型领袖。"
+  },
+  {
+    "id": 34,
+    "title": "You Should Get a Reusable Mask",
+    "title_zh": "你应该准备一个可重复使用的口罩",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wXwjMbtiSqALMEw2g/you-should-get-a-reusable-mask",
+    "tags": [
+      "inspire",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "This article presents a compelling argument for investing in a high-quality reusable mask as a precaution against future pandemics. The author uses historical data and risk assessment to quantify the potential life-saving value of such an investment. By comparing COVID-19 mortality rates with the 1918 flu pandemic, they estimate a 0.02% annual risk of dying in a pandemic. A reusable mask could potentially halve this risk, making the $30-$60 investment worth it, especially when considering the long lifespan of the mask. The piece also addresses practical considerations like mask options and the importance of preparing ahead of time to avoid shortages. It's a thoughtful blend of data-driven analysis and practical advice, encouraging readers to take proactive measures for their safety.",
+    "summary_zh": "这篇文章以数据分析和风险评估为基础，建议人们投资高质量可重复使用的口罩以防范未来大流行病。作者通过比较新冠和1918年流感的死亡率，估算出每年面临大流行病的死亡风险约为0.02%。可重复使用的口罩可能将此风险减半，使得30-60美元的投资非常值得，尤其是考虑到口罩的长期使用寿命。文章还讨论了具体的口罩选择和提前准备的重要性。这是一个结合了数据分析和实用建议的深思熟虑的文章，鼓励读者为自身安全采取主动措施。",
+    "best_quote_en": "A reusable mask ('elastomeric respirator') would be really valuable to have, if things got really bad.",
+    "best_quote_zh": "如果情况真的恶化，可重复使用的口罩（弹性体呼吸器）会非常有价值。"
+  },
+  {
+    "id": 35,
+    "title": "The Sweetapolita Bakebook / Castro’s Cuba",
+    "title_zh": "甜心烘焙书 / 卡斯特罗的古巴",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-sweetapolita-bakebook-castros-cuba/",
+    "tags": [
+      "analyze",
+      "society",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "This dual review presents two distinct books that offer unique insights into their respective worlds. The Sweetapolita Bakebook transforms ordinary baking into edible art, showcasing Rosie Alyea's creative approach to confections. The book's value lies in its ability to inspire both novice and experienced bakers with visually stunning creations and practical techniques. Meanwhile, Castro's Cuba provides a historical perspective on Cuba under Fidel Castro's leadership through Lee Lockwood's photojournalism and interviews. It offers a nuanced look at Castro's vision and the societal changes he implemented, making it a valuable resource for those interested in political history and Cuban culture. Both books serve different purposes but excel in their respective domains, offering inspiration and education to their target audiences.",
+    "summary_zh": "这篇双书评介绍了两本风格迥异的书籍。甜心烘焙书将普通烘焙变成可食用的艺术品，展现了Rosie Alyea独特的创意烘焙理念。书中充满视觉震撼的创作和实用技巧，能激发初学者和资深烘焙爱好者的灵感。而卡斯特罗的古巴则通过Lee Lockwood的摄影报道和访谈，为我们呈现了卡斯特罗执政时期的古巴。书中详细记录了卡斯特罗的治国理念和社会变革，是研究政治历史和古巴文化的珍贵资料。两书虽各有侧重，但都在各自领域展现了卓越的价值，为读者提供了灵感与知识。",
+    "best_quote_en": "Her cookies transcend bakery staples into the realm of fine art.",
+    "best_quote_zh": "她的曲奇饼超越了普通烘焙食品，进入了美术品的领域。"
   }]
