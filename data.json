@@ -1263,4 +1263,121 @@
     "summary_zh": "这段对话展现了蒂姆·费里斯与诺贝尔经济学奖得主理查德·塞勒、企业家尼克·科科纳斯之间的精彩交流。塞勒以行为经济学研究著称，挑战了传统经济模型中关于人类行为完美理性和自私的假设。他分享了与亚历克斯·伊马斯合著的新书《赢家诅咒》中的洞见，重新审视并更新了经典的行为经济学异常现象。讨论涵盖了现实行为如何偏离经济理论，包括损失厌恶、禀赋效应和公平原则在经济决策中的重要性等例子。科科纳斯分享了他在餐厅业务中应用行为经济学原则的实际经验，展示了这些概念如何在现实场景中发挥作用。对话还探讨了将心理学洞见引入传统经济模型的挑战，同时保持严谨性。塞勒的趣闻轶事和实验，如腰果故事和咖啡杯实验，以生动易懂的方式阐释了关键的行为经济学原理。",
     "best_quote_en": "If you're doing business in the real world and you have customers and employees that are people, not agents, then you have to do things a bit differently. And that's the one-sentence summary of behavioral economics.",
     "best_quote_zh": "如果你在现实世界中经营业务，并且你的客户和员工是真实的人，而不是代理人，那么你必须做一些不同的事情。这就是行为经济学的一句总结。"
+  },{
+    "id": 56,
+    "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
+    "title_zh": "全球健康研究警告：青少年死亡率成为“新兴危机”",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
+    "tags": [
+      "analyze",
+      "medicine",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This comprehensive study reveals a troubling trend of rising death rates among teenagers and young adults worldwide, despite overall global health improvements. The research highlights preventable factors like alcohol, drugs, and mental health issues in developed regions, while infectious diseases and maternal health challenges persist in sub-Saharan Africa. The findings underscore the urgent need for targeted public health interventions and stronger health systems, particularly in low-income regions facing funding cuts. The study serves as a wake-up call to address both immediate crises and long-term systemic health challenges affecting youth populations.",
+    "summary_zh": "这项全球健康研究揭示了一个令人担忧的趋势：尽管全球整体健康状况有所改善，但青少年和年轻人群的死亡率却在上升。研究指出，发达地区的主要问题包括酒精、毒品和心理健康问题，而撒哈拉以南非洲则面临传染病和母婴健康等挑战。这些发现凸显了迫切需要针对性的公共卫生干预和更强大的卫生系统，尤其是面临资金削减的低收入地区。本次研究发出警示，呼吁我们应对青少年健康面临的紧迫危机和长期系统性挑战。",
+    "best_quote_en": "The evidence presented in the Global Burden of Disease study is a wake-up call, urging government and healthcare leaders to respond swiftly and strategically to the disturbing trends that are reshaping public health needs.",
+    "best_quote_zh": "全球疾病负担研究中的证据是一个警醒信号，促使政府和医疗卫生领导者迅速、战略性地应对重塑公共卫生需求的令人不安趋势。"
+  },
+  {
+    "id": 57,
+    "title": "Haters",
+    "title_zh": "Haters",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This insightful essay explores the psychological phenomenon of 'haters,' drawing a striking parallel between obsessive fans (fanboys) and obsessive critics. The author argues that haters are essentially fanboys with their admiration inverted to hatred. They create an exaggerated negative image of their targets, dismissing their achievements as fraudulent. The piece offers valuable insights into why haters behave this way - often stemming from feelings of frustrated talent or a sense of unfairness about others' success. The author suggests that understanding this dynamic makes it easier to deal with haters, recommending not to engage with them as one would with normal critics. This perspective provides a refreshing framework for understanding online criticism and fame culture.",
+    "summary_zh": "这篇文章深刻分析了“仇恨者”现象，将其与狂热粉丝（fanboys）进行了巧妙类比。作者指出，仇恨者本质上是狂热粉丝的镜像，将喜爱转化为仇恨。他们会夸大对象的负面形象，将其成就视为欺骗。文章探讨了仇恨者的心理动机，如才能受挫或对他人成功的不公感。作者建议以理解取代对抗，将仇恨者视为狂热粉丝的反面，避免与之纠缠。这种观点为我们理解网络批评和名声文化提供了全新视角。",
+    "best_quote_en": "Haters are just fanboys with the sign switched.",
+    "best_quote_zh": "仇恨者不过是狂热粉丝的符号反转版本。"
+  },
+  {
+    "id": 58,
+    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
+    "title_zh": "关于人口中的次线性效用及其他不常见功利主义",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
+    "tags": [
+      "inspire",
+      "science",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This thought-provoking piece explores an unconventional perspective on utilitarianism, particularly how utility scales with population. The author introduces the concept of 'sublinear utility' in human lives, suggesting that while more humans generally bring more value, this value increases at a decreasing rate. The discussion extends to simulations, duplicate experiences, and different species, challenging classical Effective Altruism (EA) approaches. The author's nuanced view considers the diversity of experiences and the diminishing marginal value of additional similar beings, while still acknowledging the worth of all sentient life. This analysis offers a fresh lens on moral philosophy, blending mathematical reasoning with ethical intuition.",
+    "summary_zh": "这篇文章提出了一个关于功利主义的独特观点，探讨了效用随着人口数量的变化规律。作者提出“次线性效用”概念，认为人类数量增加带来的价值是递减的。讨论延伸到模拟、重复体验和不同物种，挑战了经典有效利他主义的方法。作者从多样性体验和边际价值递减的角度出发，提出了富有启发性的道德哲学分析，将数学推理与伦理直觉相结合。",
+    "best_quote_en": "The value in simulations of people and their worlds comes from newly being able to observe those worlds, not from bringing them into existence in the first place.",
+    "best_quote_zh": "模拟人类及其世界的价值在于能够新鲜地观察这些世界，而非在于最初将它们带入存在。"
+  },
+  {
+    "id": 59,
+    "title": "The Indictment of Letitia James and the Collapse of Impartial Justice",
+    "title_zh": "莱蒂西娅·詹姆斯的起诉与公正司法的崩溃",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-indictment-of-letitia-james-and-the-collapse-of-impartial-justice",
+    "tags": [
+      "analyze",
+      "legal",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "法律法规",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This article critically examines the politically motivated prosecution of New York Attorney General Letitia James, arguing that her indictment represents a dangerous abuse of the justice system. The piece highlights the selective enforcement of laws against Trump's political opponents, contrasting it with the near-complete immunity granted to presidents. The author questions whether similar charges would be brought against any other defendant, suggesting this case exemplifies prosecutorial misconduct. The analysis also notes the trivial nature of the alleged fraud and the lack of precedent for such prosecutions, raising serious concerns about the erosion of impartial justice.",
+    "summary_zh": "本文批评纽约州总检察长莱蒂西娅·詹姆斯被起诉的政治动机，认为这是司法系统的危险滥用。文章对比了对特朗普政敌的选择性执法与总统享有的近乎完全豁免权，质疑是否会对其他被告提出类似指控。作者指出，此案中涉及的欺诈金额微不足道且缺乏先例，严重质疑了司法公正性的侵蚀。",
+    "best_quote_en": "The essence of impartial justice is treating like conduct alike—not identifying the target and then finding the crime.",
+    "best_quote_zh": "司法公正的本质在于平等对待类似行为，而非先确定目标再寻找罪名。"
+  },
+  {
+    "id": 60,
+    "title": "Favorite T-shirts/Design inspiration/How to become wiser",
+    "title_zh": "我的最爱T恤/设计灵感/如何变得更聪明",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/favorite-t-shirts-design-inspiration-how-to-become-wiser/",
+    "tags": [
+      "solve",
+      "design",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This eclectic collection offers practical recommendations and thought-provoking insights across diverse domains. From discovering high-quality T-shirt brands to appreciating traditional Japanese packaging design, the content blends consumer advice with cultural appreciation. The standout piece is the introspective exercise on wisdom, presenting 25 probing questions that encourage self-reflection and emotional regulation. The curated selection of digital artists introduces viewers to innovative art forms that challenge visual norms. The recommendations serve both practical needs (like internet speed testing) and spiritual connections (offline meditation space), demonstrating how thoughtful curation can inspire and educate simultaneously.",
+    "summary_zh": "这篇内容涵盖了从T恤推荐到传统日本包装设计的多元主题，既有实用性也有文化深度。尤其那25个关于智慧的提问值得反复思考，能帮助我们更好地认识自己。推荐的数字艺术家作品更展现了创新的视觉艺术形式。这些推荐既解决了实际需求，又提供了精神滋养，展现了精心策划的力量。",
+    "best_quote_en": "The beauty never gets old. If you are at all partial to product design, or any type of presentation, this is a classic research source, a motherlode of how to think different.",
+    "best_quote_zh": "这种美永不过时。如果你对产品设计或任何形式的呈现有丝毫偏好，这本书就是经典的研究来源，是如何不同思考的宝库。"
   }]
