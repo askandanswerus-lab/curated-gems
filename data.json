@@ -1380,4 +1380,121 @@
     "summary_zh": "这篇内容涵盖了从T恤推荐到传统日本包装设计的多元主题，既有实用性也有文化深度。尤其那25个关于智慧的提问值得反复思考，能帮助我们更好地认识自己。推荐的数字艺术家作品更展现了创新的视觉艺术形式。这些推荐既解决了实际需求，又提供了精神滋养，展现了精心策划的力量。",
     "best_quote_en": "The beauty never gets old. If you are at all partial to product design, or any type of presentation, this is a classic research source, a motherlode of how to think different.",
     "best_quote_zh": "这种美永不过时。如果你对产品设计或任何形式的呈现有丝毫偏好，这本书就是经典的研究来源，是如何不同思考的宝库。"
+  },{
+    "id": 61,
+    "title": "Orthodoxy and women in the Anglican church | Letters",
+    "title_zh": "安立甘宗教会中的正统与女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
+    "tags": [
+      "solve",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Rev Simon Jones challenges the perception that opposition to female leadership in the Anglican Church stems from misogyny, arguing instead that traditionalists are driven by theological convictions about ministry's representative nature before God. He criticizes the Church of England's growing intolerance of theological differences, suggesting that true renewal lies in fostering gracious, intellectually rigorous unity. Jones calls for protecting conscience and allowing disagreement, proposing that such an approach could demonstrate Christianity's intellectual depth and moral seriousness to younger generations.",
+    "summary_zh": "西蒙·琼斯牧师反驳了安立甘宗教会反对女性领导是出于性别偏见的说法，认为传统派的立场源于对圣职本质的神学信念。他批评教会近年对神学差异的不宽容，呼吁新任大主教以宽容和神学素养为基础促进团结。琼斯强调保护良心和允许分歧的重要性，认为这才是教会复兴的真正途径，也能向年轻一代展现基督教的智慧深度和道德严肃性。",
+    "best_quote_en": "What has damaged the Church of England most in recent years is not honest theological difference but the intolerance of it.",
+    "best_quote_zh": "近些年最伤害英格兰教会的不是诚实的神学分歧，而是对分歧的不宽容。"
+  },
+  {
+    "id": 62,
+    "title": "The Two Kinds of Moderate",
+    "title_zh": "两种类型的温和派",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mod.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This essay brilliantly dissects the two types of political moderates: intentional and accidental. Intentional moderates maintain a middle position by design, adjusting their views to stay centered as political winds shift. They're not truly independent thinkers, as their opinions are collectively determined. Accidental moderates, however, arrive at the middle through genuine independent thought, often ignoring issues that extremes fixate on. The author argues these accidental moderates are the most courageous, facing criticism from both sides without the comfort of ideological groups. The piece also explores how ideological purity can hinder excellence in fields where ideas intersect with politics, suggesting true innovation requires intellectual independence.",
+    "summary_zh": "这篇文章深刻剖析了两种政治温和派：刻意和非刻意。刻意温和派通过调整观点保持中立，实则缺乏独立思考。非刻意温和派通过真正独立思考到达中间立场，常忽略极端关注的问题。作者认为他们最具勇气，面对双方批评却无意识形态群体庇护。文章还探讨了意识形态纯粹主义如何阻碍创新，强调思想独立对创新的重要性。",
+    "best_quote_en": "Nearly all the most impressive people I know are accidental moderates.",
+    "best_quote_zh": "我认识的最令人印象深刻的人几乎都是非刻意的温和派。"
+  },
+  {
+    "id": 63,
+    "title": "Current Language Models Struggle to Reason in Ciphered Language",
+    "title_zh": "当前语言模型难以在密码语言中进行推理",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/Lz8cvGskgXmLRgmN4/current-language-models-struggle-to-reason-in-ciphered",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This study explores the limitations of large language models (LLMs) in performing reasoning tasks when information is encoded in various ciphers. The researchers fine-tuned and few-shot prompted models from Qwen 2.5 and GPT-4.1 families using math reasoning problems encoded in simple ciphers like base64, rot13, and others. Surprisingly, they found that LLMs only showed performance improvements for very simple ciphers, with no uplift for intermediate-difficulty ciphers they could translate back to English. This suggests that LLMs struggle with reasoning in encodings uncommon in their pretraining data. The research has important implications for understanding LLM capabilities, particularly in relation to cipher-based jailbreaks and the nature of their reasoning processes. It challenges the assumption that translation abilities equate to reasoning capabilities and highlights that current LLMs likely rely heavily on human-understandable content for their reasoning.",
+    "summary_zh": "该研究探讨了大型语言模型（LLMs）在处理密码编码信息时的推理能力限制。研究人员对Qwen 2.5和GPT-4.1系列模型进行了微调和少样本提示，使用base64、rot13等简单密码编码的数学推理问题。令人惊讶的是，他们发现LLMs仅在非常简单的密码中表现出性能提升，而在中等难度的密码中无法提升，即使它们能将密码解码回英语。这表明LLMs在预训练数据中不常见的编码中难以进行推理。该研究对理解LLMs能力具有重要意义，特别是关于基于密码的越狱和它们的推理过程本质。它挑战了翻译能力等同于推理能力的假设，并强调当前LLMs在推理中可能高度依赖人类可理解的内容。",
+    "best_quote_en": "Just because you see that models can translate from and to base64 or end-speak doesn’t mean you should be worried about CoT monitorability breaking.",
+    "best_quote_zh": "仅仅因为模型能够翻译base64或end-speak，并不意味着你应该担心CoT监控能力失效。"
+  },
+  {
+    "id": 64,
+    "title": "Why María Corina Machado Says That Trump Deserves Her Nobel Peace Prize",
+    "title_zh": "为什么玛丽亚·科里娜·马查多说特朗普应该获得她的诺贝尔和平奖",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-maria-corina-machado-says-that-donald-trump-deserves-her-peace-prize",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This article explores the complex geopolitical dynamics between the US and Venezuela under Trump's administration, focusing on Machado's controversial Nobel Peace Prize win. It reveals the irony of Trump's simultaneous aggressive military actions and peace prize lobbying, while highlighting Machado's alignment with Trump's interventionist policies. The piece offers a nuanced look at Latin American politics, questioning the Nobel Committee's decision and the implications for regional stability. Machado's evangelical vision for post-Maduro Venezuela suggests a potential shift in the political landscape, though her alliance with Trump's controversial policies raises ethical concerns about the means versus the ends of achieving democratic change.",
+    "summary_zh": "这篇文章剖析了特朗普执政期间美委关系的复杂动态，聚焦马查多诺奖得主身份背后的矛盾。它揭示了特朗普军事强硬与和平奖追求的并存，以及马查多与其干预政策的不谋而合。文章深入探讨了拉美政治格局，质疑诺奖委员会的决定及其对地区稳定的影响。马查多对后马杜罗时代的热情愿景暗示政治变革可能性，但其与特朗普争议性政策的结盟，却让人质疑民主变革的道德代价。",
+    "best_quote_en": "The regime has committed a lot of errors. I feel that they have a disconnection with the reality of the country.",
+    "best_quote_zh": "政权犯了很多错误。我认为他们与国家现实脱节。"
+  },
+  {
+    "id": 65,
+    "title": "Kayaks",
+    "title_zh": "皮划艇",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/kayaks/",
+    "tags": [
+      "learn",
+      "education",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This article presents a comprehensive exploration of kayak building and usage, featuring two distinct approaches: the Pygmy Coho stitch-and-glue plywood kayak and the Advanced Elements inflatable kayak. The first section details the author's experience building a Coho kayak, highlighting its precision-cut parts, elegant design, and stability. The second section showcases an inflatable kayak that offers convenience and portability without sacrificing performance. Additionally, the article includes a detailed guide to constructing Coho boats, emphasizing the importance of a well-organized workspace and efficient building techniques. The content provides valuable insights for both novice and experienced kayak builders, offering practical advice on materials, tools, and construction methods.",
+    "summary_zh": "这篇文章详细介绍了两种皮划艇的制作和使用体验：精密切割的科霍锁边胶合木皮划艇和便携的充气皮划艇。作者分享了自己制作科霍皮划艇的过程，赞赏其精确的部件和稳定的设计。充气皮划艇则以其便捷性和灵活性吸引人。此外，文章还提供了详细的皮划艇制作指南，强调了工作台的重要性和高效的建造技巧。内容为初学者和有经验的皮划艇制作者提供了宝贵的实用建议，涵盖材料、工具和建造方法。",
+    "best_quote_en": "The eight panels in the hull of the Coho make it a multi-chine boat, sort of halfway between a strip construction and a four-panel hull.",
+    "best_quote_zh": "科霍皮划艇的船体由八块板组成，使其成为一种介于条形结构和四板船体之间的多舷型船。"
   }]
