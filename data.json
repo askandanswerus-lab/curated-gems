@@ -1848,4 +1848,119 @@
     "summary_zh": "伯森博士与哈伯曼的对话深入浅出地揭示了神经科学的奇妙世界。光感受细胞的发现不仅改变了我们对视觉的理解，更揭示了光对生物钟的调控作用。最令人震撼的是视觉皮层的可塑性研究，为中风患者带来了康复希望。这些科学发现不仅深化了我们对大脑的认知，更为日常生活提供了实用建议，如如何调节光照以改善睡眠、如何避免晕动症。这不仅是知识的传播，更是科学与生活智慧的完美结合。",
     "best_quote_en": "The discovery of melanopsin fundamentally changed our understanding of how light affects not just vision, but our entire circadian system.",
     "best_quote_zh": "黑素素的发现彻底改变了我们对光如何影响不仅仅是视觉，而是整个生物钟系统的理解。"
+  },{
+    "id": 81,
+    "title": "Where do babies come from? Robert F Kennedy Jr doesn’t seem to know | Arwa Mahdawi",
+    "title_zh": "罗伯特·F·肯尼迪朱尼尔似乎不知道婴儿从哪里来 | 阿尔瓦·马哈威",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/15/where-do-babies-come-from-robert-f-kennedy-jr-doesnt-seem-to-know",
+    "tags": [
+      "solve",
+      "politics",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This opinion piece critiques the alarming lack of scientific literacy among some US politicians, particularly those influencing women's health policies. Arwa Mahdawi highlights Robert F Kennedy Jr's recent claim that fetuses develop in the placenta, demonstrating a fundamental misunderstanding of human biology. The article connects this to a broader pattern of Republican lawmakers making medically inaccurate statements about women's bodies, often while advocating for restrictive reproductive policies. The piece serves as a stark reminder of the dangers of science denial in politics and the importance of evidence-based policymaking.",
+    "summary_zh": "阿尔瓦·马哈威的评论文章揭露了美国部分政客对女性健康问题的无知。罗伯特·F·肯尼迪朱尼尔声称胎儿在胎盘中发育，暴露了其生物学知识的严重缺陷。文章将这一事件与共和党议员长期以来对女性身体的无知联系起来，这些议员经常在推动限制生育权的政策时发表医学错误言论。这篇文章警示我们，科学否定主义在政治中的危害，以及证据基础政策制定的重要性。",
+    "best_quote_en": "Foetuses, of course, develop in the uterus, not the placenta. It's possible, if we are being generous, that Kennedy misspoke.",
+    "best_quote_zh": "当然，胎儿是在子宫里发育，而不是在胎盘里。如果我们宽宏大量地认为，肯尼迪可能只是说错了。"
+  },
+  {
+    "id": 82,
+    "title": "Novelty and Heresy",
+    "title_zh": "新颖与异端",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nov.html",
+    "tags": [
+      "solve",
+      "startup-strategy"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "This essay explores the inevitable tension between innovation and established beliefs, suggesting that truly novel discoveries often challenge deeply held assumptions. The author argues that meaningful progress requires confronting 'heresies' - ideas that contradict popular but mistaken convictions. The piece presents a compelling framework for understanding resistance to new ideas while offering a practical approach to uncovering innovative thinking by examining what's currently dismissed as heretical. It's a thought-provoking examination of how cultural and organizational attitudes toward unconventional ideas can either stifle or stimulate progress.",
+    "summary_zh": "这篇文章探讨了创新与既有信念之间的必然张力，指出真正的新发现往往挑战根深蒂固的假设。作者认为，有意义的进步需要面对“异端”-那些与流行但错误的信念相矛盾的观点。文中提供了一个理解对新思想抵制的框架，同时提出了通过探索当前被视为异端的观点来发现新思想的实际方法。这是一篇关于文化和组织对非传统思想态度如何阻碍或促进进步的深刻分析。",
+    "best_quote_en": "When you suppress heresies, you don't just prevent people from contradicting the mistaken assumption you're trying to protect. You also suppress any idea that implies indirectly that it's false.",
+    "best_quote_zh": "当你压制异端时，你不仅阻止人们反驳你试图保护的错误假设，还压制了任何暗示它是错误的观点。"
+  },
+  {
+    "id": 83,
+    "title": "Russell Vought, Donald Trump’s Deep-State Wrecking Ball",
+    "title_zh": "唐纳德·特朗普的深层政府破坏者：拉塞尔·沃特",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/27/russell-vought-profile-donald-trump",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "This in-depth profile of Russell Vought reveals a technocrat with an ideological mission to dismantle the federal bureaucracy from within. As Trump's budget director, Vought has wielded unprecedented power to freeze spending, fire civil servants, and dismantle agencies, testing constitutional limits of executive authority. His actions during the government shutdown and his expansion of presidential power through impoundment tactics have sparked legal challenges and bipartisan criticism. Vought's Christian nationalist ideology and collaboration with Elon Musk's Department of Government Efficiency demonstrate a radical approach to governance that challenges traditional checks and balances. The article raises critical questions about the future of democratic institutions and the rule of law under Vought's influence.",
+    "summary_zh": "本文深入剖析了拉塞尔·沃特这一特朗普政府的幕后推手。他凭借预算办公室主任一职，以极端手段冻结政府资金、解雇公务员、拆分机构，挑战宪法赋予总统的权力边界。其在政府关闭期间的强硬举措和通过拖延战术扩大行政权力的做法，引发了法律挑战和两党批评。沃特的基督教民族主义意识形态与埃隆·马斯克的政府效率部门合作，展现了对传统制衡体系的彻底颠覆。这篇报道让人深思：在沃特的影响下，民主制度和法治的未来将走向何方？",
+    "best_quote_en": "Either this is the scene of a horrific crime or someone recently de-seeded a pomegranate.",
+    "best_quote_zh": "要么这里发生了可怕的犯罪，要么有人刚剥了颗石榴。"
+  },
+  {
+    "id": 84,
+    "title": "The Strength of Being Misunderstood",
+    "title_zh": "被误解的力量",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
+    "tags": [
+      "solve",
+      "ai-research",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2020-12-01",
+    "summary_en": "This piece explores the nuanced relationship between personal perception and public opinion, challenging the notion of complete indifference. The author argues that caring about opinions is necessary but should be strategically focused on specific people and long-term perspectives. The most impressive individuals, according to the author, balance short-term misunderstanding with long-term validation, often achieving greatness through unconventional bets. The key insight is that being misunderstood can be a strength, providing space for innovative problem-solving that might otherwise be overlooked. The article blends psychological insight with practical advice for navigating social dynamics, particularly relevant for entrepreneurs and leaders.",
+    "summary_zh": "这篇文章探讨了个人与公众看法之间的微妙关系，质疑了完全不在意他人评价的观点。作者认为，关注他人意见是必要的，但应有策略地集中在特定人群和长期视角上。最令人印象深刻的人往往能平衡短期误解与长期认可，通过非主流的判断获得成功。核心观点是，被误解可能是一种优势，为创新解决问题提供空间。文章结合心理学洞察与实用建议，尤其适合创业者和领导者。",
+    "best_quote_en": "The most impressive people I know care a lot about what people think, even people whose opinions they really shouldn’t value... what makes them unusual is that they generally care about other people’s opinions on a very long time horizon—as long as the history books get it right, they take some pride in letting the newspapers get it wrong.",
+    "best_quote_zh": "我认识的最令人印象深刻的人非常在意他人看法，即使那些他们本不该在意的人... 但他们不同寻常之处在于，他们通常在意他人意见的长期影响——只要历史书写正确，他们甚至以让报纸误解为荣。"
+  },
+  {
+    "id": 85,
+    "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+    "title_zh": "保护和改善听力与大脑健康 | 斯坦科维奇博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/protect-improve-your-hearing-brain-health-konstantina-stankovic",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "This episode with Dr. Konstantina Stankovic reveals the profound connection between hearing health and cognitive function, addressing a global issue affecting over 1.5 billion people. The discussion goes beyond basic hearing loss prevention, exploring how biological factors like menopause and environmental toxins contribute to auditory decline. Particularly insightful are the science-backed protocols for protecting hearing, such as using magnesium threonate and avoiding regular NSAID use. The conversation also delves into the emotional aspects of hearing, including tinnitus and hyperacusis, offering practical solutions. What stands out is the emphasis on auditory plasticity and the potential for recovery, challenging the notion that hearing loss is irreversible. The episode serves as both an educational resource and a call to action for proactive hearing care.",
+    "summary_zh": "斯坦科维奇博士的访谈揭示了听力健康与认知功能之间的深刻关联，解决了影响全球15亿人的听力问题。讨论超越了基本的听力保护，探讨了如更年期和环境毒素等生物因素如何导致听力下降。尤其值得关注的是，针对听力保护的科学方法，如使用磷酸镁和避免经常使用NSAID类药物。对话还深入探讨了听力的情感方面，包括耳鸣和过度敏感，提供了实用解决方案。令人惊讶的是，对听力可塑性的强调以及康复的可能性，挑战了听力损失不可逆的观念。该节目既是教育资源，也是对积极听力护理的号召。",
+    "best_quote_en": "Hearing loss isn't just about missing sounds—it's about losing connections to people and the world around us.",
+    "best_quote_zh": "听力下降不仅仅是错过声音，更是失去与他人和周围世界的联系。"
   }]
