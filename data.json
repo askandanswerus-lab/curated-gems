@@ -2082,4 +2082,121 @@
     "summary_zh": "这期Huberman Lab Essentials探讨了生物节律、神经化学与时间感知的复杂关系。Huberman博士解释了我们的身体如何通过光周期调节激素影响能量与情绪，并提供了提升专注力与生产力的实用工具。节目涵盖了多巴胺与血清素如何影响时间感知，以及新鲜感与情绪如何塑造我们对时间的体验与记忆。提供了优化工作间隔、运动时间与光照管理的实用策略，是任何希望提升认知表现与时间理解的人的宝贵资源。",
     "best_quote_en": "Novelty, emotion, and routine profoundly impact how we experience and recall time.",
     "best_quote_zh": "新鲜感、情绪和习惯深刻影响我们对时间的体验与记忆。"
+  },{
+    "id": 91,
+    "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
+    "title_zh": "卫报观点：关于分娩和医疗疏忽的问题：赔偿金上升凸显产科改进的紧迫性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "This Guardian editorial highlights the alarming rise in medical negligence cases in UK maternity services, with a particular focus on the quadrupling of negligence liabilities in just two decades. The piece critically examines systemic failures in maternity care, including poor collaboration among clinicians, weak leadership, and inadequate staffing. It notes that despite numerous reports and recommendations, significant improvements have yet to materialize. The editorial emphasizes the urgent need for action, as current targets for reducing maternal and neonatal deaths are likely to be missed. It also raises concerns about the effectiveness of upcoming reviews, hoping they will lead to meaningful change rather than just another set of unfulfilled recommendations.",
+    "summary_zh": "卫报这篇社论揭露了英国产科服务中医疗疏忽案件的惊人增加，尤其是20年内赔偿责任金额翻了四倍。文章深入分析了产科护理中的系统性失败，包括临床医生之间的合作不足、领导力薄弱和人员配置不足。尽管有多次报告和建议，但重大改进仍未实现。社论强调了行动的紧迫性，因为当前降低产妇和新生儿死亡率的目标可能无法实现。它还对即将进行的审查的有效性表示担忧，希望这些审查能带来真正的变革，而不是又一份无法兑现的建议清单。",
+    "best_quote_en": "\"poor care is all-too-frequently tolerated as normal, and women are treated as an inconvenience\"",
+    "best_quote_zh": "“差劲的护理被过于频繁地视为正常现象，而妇女被视为麻烦”"
+  },
+  {
+    "id": 92,
+    "title": "The Bus Ticket Theory of Genius",
+    "title_zh": "公交车票理论与天才",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/genius.html",
+    "tags": [
+      "solve",
+      "education",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "The 'Bus Ticket Theory of Genius' proposes that great work requires three elements: natural ability, determination, and an obsessive interest in a seemingly pointless topic. The author argues that this disinterested obsession is crucial for discovery, as it allows individuals to explore unpromising paths that others ignore. The theory suggests that interest acts as a proxy for ability and a substitute for determination, making the work feel less like a chore. The article explores how this concept applies to historical figures like Darwin and Ramanujan, and discusses the implications for education and personal development. It also highlights the uncertainty of which paths will lead to great work, emphasizing the importance of taking risks and following genuine interests.",
+    "summary_zh": "公交车票理论提出，伟大的工作需要天赋、毅力和对看似无聊话题的狂热兴趣。这种无私的执着是发现的关键，因为它让人探索他人忽视的看似无望的道路。兴趣既是能力的代理，也是毅力的替代品，让工作不再像苦差事。文章探讨了达尔文和拉马努金等历史人物的例子，并分析了这一理论对教育和个人发展的启示，强调跟随真正兴趣的重要性。",
+    "best_quote_en": "To have a disinterested obsession with something that matters.",
+    "best_quote_zh": "对重要的事物保持无私的狂热兴趣。"
+  },
+  {
+    "id": 93,
+    "title": "A “New Middle East” Is Easier to Declare Than to Achieve",
+    "title_zh": "一个“新中东”更容易宣告而难以实现",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/27/a-new-middle-east-is-easier-to-declare-than-to-achieve",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "David Remnick's analysis of Trump's Middle East peace efforts reveals a transactional approach lacking in strategic vision or empathy. While the ceasefire in Gaza offers relief, the article critiques the superficiality of declaring a 'new Middle East' without addressing deeper issues. The piece contrasts this with historical peace efforts like the Camp David Accords, highlighting the need for sustained effort and genuine diplomacy. Remnick questions the sustainability of Trump's real-estate-inspired rhetoric and Netanyahu's triumphalist vision, arguing that true progress requires long-term commitment to justice and stability.",
+    "summary_zh": "大卫·雷尼克分析特朗普中东和平努力，揭示其缺乏战略眼光和同理心的交易式方法。尽管加沙停火带来慰藉，文章却批判了宣告“新中东”却不解决深层问题的表面性。文中对比了历史上的和平努力如戴维营协议，强调需要持续的努力和真诚的外交。雷尼克质疑特朗普房地产式的修辞和内塔尼亚胡的胜利主义视野，认为真正的进展需要对正义和稳定的长期承诺。",
+    "best_quote_en": "The work of justice, as ever, falls not to those who proclaim history's dawn and move on but to those who must push through its long and gruelling day.",
+    "best_quote_zh": "正义的工作，始终落在不宣告历史曙光就匆匆离去的人身上，而落在必须推进其漫长而艰苦的一天的人们身上。"
+  },
+  {
+    "id": 94,
+    "title": "How to Overcome Inner Resistance | Steven Pressfield",
+    "title_zh": "如何克服内在阻力 | 史蒂芬·普莱斯菲尔德",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/overcome-inner-resistance-steven-pressfield",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Steven Pressfield's insights on overcoming 'resistance' - that inner force that sabotages our most important work - are both profound and actionable. His military background informs a concrete approach to discipline and focus, far removed from mere motivational speak. The interview reveals practical strategies like structuring work sessions, embracing imperfection through multiple drafts, and even physical training as tools for mental focus. Pressfield's perspective on turning professional (vs amateur) habits and the necessity of taking oneself seriously offers valuable guidance for anyone struggling with creative blocks or procrastination. His age-defying vitality at 82 serves as testament to these principles' effectiveness.",
+    "summary_zh": "史蒂芬·普莱斯菲尔德关于克服内在阻力的见解既深刻又实用。作为前军人，他提出的方法论远超于简单的激励言论。访谈中分享的结构化工作方式、多稿修改法和体能训练等实用技巧，为抗拒创造力阻力的人提供了切实可行的解决方案。他对专业习惯与业余习惯区别的洞察，以及严肃对待自己的必要性，为那些在拖延和创作阻塞中挣扎的人提供了宝贵指导。82岁的他仍保持旺盛精力，正是这些原则有效性的证明。",
+    "best_quote_en": "Resistance is the most toxic force on the planet. It doesn't just prevent us from doing our work, it destroys our happiness and self-respect.",
+    "best_quote_zh": "阻力是地球上最有毒的力量。它不仅阻止我们做事，还摧毁我们的幸福感和自我尊重。"
+  },
+  {
+    "id": 95,
+    "title": "Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "title_zh": "诺贝尔经济学奖得主理查德·塞勒与尼克·科科纳斯：现实经济学、避免赢家诅咒、诱惑捆绑及反传统",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/10/richard-thaler/",
+    "tags": [
+      "analyze",
+      "business-model",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "商业模式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This podcast episode features a fascinating conversation between Nobel Prize-winning economist Richard Thaler and entrepreneur Nick Kokonas. Thaler, known for pioneering behavioral economics, challenges traditional economic assumptions of perfect rationality, instead exploring how human psychology influences economic decisions. The discussion covers key concepts like loss aversion, the endowment effect, and the winner's curse, illustrated through engaging anecdotes and real-world applications. Thaler's pragmatic approach to economics, emphasizing human behavior over abstract models, offers valuable insights for both professionals and laypeople. Kokonas contributes his entrepreneurial perspective, particularly on implementing behavioral insights in business. The episode also highlights the importance of storytelling in understanding complex economic concepts, making it accessible and engaging for a wide audience.",
+    "summary_zh": "本期播客节目中，诺贝尔经济学奖得主理查德·塞勒与企业家尼克·科科纳斯展开了一场引人入胜的对话。塞勒以行为经济学闻名，挑战了传统经济学中关于人类完全理性的假设，探讨了心理学如何影响经济决策。访谈中涵盖了损失厌恶、禀赋效应和赢家诅咒等关键概念，通过生动的轶事和现实案例进行阐释。塞勒实用主义的经济学观，强调人类行为而非抽象模型，为专业人士和普通民众都提供了宝贵的见解。科科纳斯则从企业家角度分享了将行为经济学见解应用于商业的经验。节目还强调了通过故事理解复杂经济概念的重要性，使其对广泛受众都具有吸引力和可理解性。",
+    "best_quote_en": "\"Economics is really two things. It's people interacting in markets, and then what are those people doing?\"",
+    "best_quote_zh": "\"经济学实际上涉及两个方面：人们在市场中的互动，以及他们在做什么？\""
   }]
