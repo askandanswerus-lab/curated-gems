@@ -1,121 +1,5 @@
 [
   {
-    "id": 6,
-    "title": "Book of the month: Ning Ken",
-    "title_zh": "本月图书：宁肯",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/09/25/book-of-the-month-ning-ken/",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This analysis of Ning Ken's novel, \"Tibetan Sky,\" delves into its profound exploration of cultural clashes, the nature of reality, and the human search for meaning. The reviewer highlights how the book challenges Western norms through its unique narrative structure, which includes authorial interruptions and philosophical disquisitions. I found the discussion of how language shapes perception and the Tibetan concept of 'not-knowing' particularly insightful, suggesting a deeper path to understanding beyond conventional frameworks. The novel also critically examines the impact of globalization on traditional cultures, even touching on sensitive political themes within China, which the reviewer reflects on with genuine curiosity. This piece effectively conveys the novel's intellectual depth and its capacity to provoke readers into questioning their own assumptions about life, death, and cultural understanding.",
-    "summary_zh": "宁肯的《藏海》是一部引人深思的作品，它巧妙地颠覆了西方叙事规范，通过作者的介入和对“不知”境界的探索，展现了文化碰撞与存在意义的深刻追问。我特别欣赏文章中对语言如何塑造世界观的探讨，以及小说对全球化影响下文化混杂现象的敏锐洞察。这不仅仅是对一部小说的评论，更是一次关于阅读如何挑战我们固有认知、引导我们反思文化与政治界限的智性旅程。它促使我们思考，在多元文化交织的世界中，如何保持开放与好奇。",
-    "best_quote_en": "While fiction is, of course, made up, we should think of it as the art form of the exploration of the possible, fiction imagines different possible lives.",
-    "best_quote_zh": "小说固然是虚构的，但我们应该将其视为探索可能性的艺术形式，小说描绘了各种可能的生活。"
-  },
-  {
-    "id": 7,
-    "title": "A mastectomy broke my body. CrossFit reminded me I was still alive",
-    "title_zh": "乳房切除术摧毁了我的身体，CrossFit 让我重拾生命活力",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2025/sep/25/breast-cancer-recovery-weightlifting-crossfit",
-    "tags": [
-      "solve",
-      "education",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "This deeply personal essay explores the author's journey of physical and emotional recovery after a double mastectomy. Far from a typical fitness testimonial, it delves into the profound psychological impact of bodily trauma and the unexpected solace found in CrossFit. The author candidly shares her initial struggles, past aversion to exercise, and the unique community aspect of CrossFit that fostered a sense of belonging and self-competition rather than external judgment. It's a powerful narrative about reclaiming agency over one's body, confronting vulnerability, and redefining strength in the face of life-altering health challenges. The piece compellingly argues for the holistic benefits of strength training in recovery, extending beyond physical rehabilitation to mental and emotional well-being.",
-    "summary_zh": "这篇文章深刻剖析了乳房切除术后身体与精神的双重重建。作者真诚地分享了她从身体创伤到在CrossFit中找到力量的历程。它不仅仅是关于健身，更是关于如何在脆弱中重新掌控身体，重塑自我认知。CrossFit的社群氛围和强调自我超越的文化，为她提供了一个安全的港湾。这是一个关于韧性、社群支持和通过运动疗愈身心的动人故事，让人不禁思考，真正的力量往往在最意想不到的地方被唤醒。",
-    "best_quote_en": "The thing that I like most about CrossFit is that I have never felt as if I am trying to compete against anyone else in the gym. Everyone is on the same team, competing against themselves.",
-    "best_quote_zh": "我最喜欢CrossFit的一点是，我从未觉得自己在健身房里与任何人竞争。每个人都在同一支队伍里，与自己竞争。"
-  },
-  {
-    "id": 8,
-    "title": "Billionaires Build",
-    "title_zh": "亿万富翁的打造之道",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ace.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This insightful essay debunks the myth that billionaires achieve wealth through exploitation, arguing instead that true, sustainable billionaire status is built by genuinely 'making something people want.' The author, drawing on experience from Y Combinator, explains that successful founders are deeply attuned to user needs, often living 'in the future' and building solutions for problems they themselves experience. The piece offers practical advice for YC interviews, emphasizing honesty, deep user understanding, and a clear path to a large (even if initially larval) market, rather than a polished pitch. It critically examines the motivations of founders, distinguishing between those driven by genuine interest and those solely by money or coolness, and asserts that the former are the ones who build enduring, massively successful companies. This analysis challenges conventional wisdom about wealth creation and startup success, offering a compelling perspective on authentic entrepreneurship.",
-    "summary_zh": "这篇文章深刻驳斥了亿万富翁通过剥削致富的常见误解，强调真正的财富源于“创造人们真正需要的东西”。作者结合Y Combinator的经验，揭示了成功创始人往往能洞察用户痛点，甚至超前感知未来需求。文章不仅为Y Combinator面试提供了实用建议，更是一次对创业本质的深度思考：与其追求华丽的融资技巧，不如专注于用户价值和解决实际问题。我尤其欣赏其对创始人动机的剖析，指出真诚的热情而非单纯的金钱驱动，才是构建伟大企业的基石。这不仅仅是创业指南，更是对社会财富观的一次有力校正。",
-    "best_quote_en": "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want. Newly started startups have no choice but to delight users, or they'll never even get rolling.",
-    "best_quote_zh": "成为亿万富翁最可靠的方法是创办一家快速成长的公司，而快速成长的方法就是制造用户想要的东西。新成立的初创公司别无选择，只能取悦用户，否则它们永远无法启动。"
-  },
-  {
-    "id": 9,
-    "title": "What Happens to School Lunches in the MAHA Era?",
-    "title_zh": "MAHA时代，学校午餐会发生什么？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-happens-to-school-lunches-in-the-maha-era",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-04",
-    "summary_en": "This article critically examines the paradox between the 'Make America Healthy Again' (MAHA) movement's stated goals of improving child nutrition and the Trump Administration's actions, which appear to undermine these very objectives. By cutting federal funding for farm-to-school programs and SNAP, the administration jeopardizes small farmers and access to fresh, local food for millions of children, particularly those from low-income families. The piece highlights the struggles of farmers like Harrison Bardwell and the innovative efforts of school nutrition professionals like Aimee Haag and Patrick Sterling, who strive to provide nutritious, appealing meals despite significant financial and regulatory hurdles. It also touches on the enduring influence of figures like Alice Waters and the often-overlooked benefits of school meals, challenging the narrative that school lunches are inherently 'poisonous.' Ultimately, the article underscores the complex interplay of policy, economics, and practical challenges in delivering healthy school meals, questioning the sincerity and efficacy of the MAHA era's approach to public health.",
-    "summary_zh": "这篇深度分析揭示了“让美国再次健康”运动在学校午餐问题上的内在矛盾。尽管RFK Jr.承诺改善儿童饮食，特朗普政府却削减了支持农场到学校项目的资金，这不仅让小农场主陷入困境，也威胁到数百万儿童获取新鲜食物的机会。文章通过生动的案例，展现了基层营养工作者在资金和法规限制下的创新与坚守，以及学校午餐对儿童营养的积极作用。这种政策与实践的脱节，令人深思：当政治口号与实际行动背道而驰时，谁将真正为公共健康买单？",
-    "best_quote_en": "“It’s extremely frustrating when you have R.F.K., Jr., saying that school lunches are poison, because it stigmatizes eating school meals.”",
-    "best_quote_zh": "“当R.F.K., Jr.说学校午餐有毒时，这非常令人沮丧，因为它给吃学校餐的孩子打上了耻辱的烙印。”"
-  },
-  {
-    "id": 10,
-    "title": "Three Observations",
-    "title_zh": "三点观察",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/three-observations",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-02-09",
-    "summary_en": "This article offers a compelling, future-focused perspective on Artificial General Intelligence (AGI), moving beyond sensationalism to provide three economic observations: the logarithmic relationship between AI intelligence and resources, the unprecedented 10x annual cost reduction of AI capabilities, and the super-exponential socioeconomic value of linearly increasing intelligence. It posits AGI as a transformative tool akin to the transistor, predicting a future where individual human agency is amplified, not diminished, by virtual co-workers and widespread AI access. The authors thoughtfully address potential societal shifts, from the redefinition of work and wealth distribution to the critical role of public policy in ensuring equitable access and preventing authoritarian misuse. This piece is a must-read for anyone grappling with the profound implications of AGI, urging us to consider both the technological trajectory and the ethical frameworks needed for a beneficial future.",
-    "summary_zh": "这篇文章对通用人工智能（AGI）的未来进行了深刻而富有启发性的洞察，超越了肤浅的炒作，提出了三个关键的经济学观察。它不仅预测了AGI将像晶体管一样渗透到经济的每个角落，还强调了其对个人能动性和社会财富分配的巨大影响。我特别欣赏作者对技术进步与社会公平之间张力的思考，以及对公共政策在塑造AGI未来中关键作用的强调。这不仅是一篇技术预测，更是一份对人类如何驾驭这一巨变、确保其普惠性的深思熟虑的呼吁，读后令人对未来既充满期待又深感责任。",
-    "best_quote_en": "In a decade, perhaps everyone on earth will be capable of accomplishing more than the most impactful person can today.",
-    "best_quote_zh": "在十年内，也许地球上的每个人都能比当今最有影响力的人完成更多的事情。"
-  },
-  {
     "id": 11,
     "title": "*Give away* The Gifts of Reading for the Next Generation",
     "title_zh": "将阅读的礼物传递给下一代",
@@ -2328,5 +2212,121 @@
     "summary_zh": "这篇文章探讨了顶尖研究者与创业者的共同特质，揭示了高效人士的关键素质。两者均善于思考哈明问题——识别并解决领域内最重要的问题，展现出其解决问题的导向和未来思维。他们兼具专注当下与长远愿景的平衡，这是难得的特质。坚持不懈和努力工作是必备品质，他们行动力强且能客观评估结果。创造力使其源源不断产生新想法，他们重视自主性，拒绝无意义的规则。更深层次的动机往往是真正的好奇心驱动。这篇文章为理解不同领域高成就者的思维模式提供了宝贵见解。",
     "best_quote_en": "The best people in both groups spend a lot of time reflecting on some version of the Hamming question—'what are the most important problems in your field, and why aren’t you working on them?'",
     "best_quote_zh": "最优秀的人都在反复思考哈明问题——'你的领域中最重要的问题是什么，为什么你没有去解决它们？'"
+  },
+  {
+    "id": 106,
+    "title": "News: São Tomé and Príncipe collection published after 13 years",
+    "title_zh": "新闻：圣多美和普林西比短篇故事集13年后出版",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/10/22/news-sao-tome-and-principe-collection-published-after-13-years/",
+    "tags": [
+      "update",
+      "writing-content",
+      "leadership"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "领导管理"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article highlights the remarkable journey of bringing Santomean literature to an English-speaking audience. What began as a personal quest to read a book from every country led to an extraordinary collective effort to translate Olinda Beja's 'The Shepherd's House' in 2012. Now, 13 years later, this collection has finally been officially published by Arquipélago Press, edited by Margaret Jull Costa. The story serves as a powerful testament to the unifying power of literature and the dedication of translators. It's particularly noteworthy for its celebration of cultural exchange and the persistence required to make literature from lesser-known regions accessible to global audiences. The article also touches on the challenges of discovering literature from small nations and the importance of independent presses in preserving literary diversity.",
+    "summary_zh": "这篇文章讲述了圣多美普林西比文学英译的非凡旅程。2012年，作者为读遍世界各国书籍而发起的个人行动，最终激发了九位志愿者联合翻译奥琳达·贝热的短篇故事集《牧师的房子》。13年后，这部作品终于由阿尔基佩拉戈出版社正式出版，由玛格丽特·朱尔·科斯塔编辑。这个故事生动展现了文学的凝聚力和翻译者的奉献精神，尤其值得关注的是它如何推动文化交流，以及小国文学的全球化传播所面临的挑战与机遇。",
+    "best_quote_en": "'Every so often, I receive a message asking if the collection of stories I read for São Tomé and Príncipe back in 2012 is available to buy in English. It is now my great joy to be able to answer: Yes, here it is.'",
+    "best_quote_zh": "每隔一段时间，我就会收到有人问是否可以购买到2012年我为圣多美和普林西比阅读的那个故事集的英文版。现在，我终于可以欣喜地回答：是的，就在这里。"
+  },
+  {
+    "id": 107,
+    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
+    "title_zh": "公众视野中的孕妇形象：为什么她们必须如此完美？| 科科·卡汉",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This opinion piece critically examines the representation of pregnant women in media, particularly through the lens of Victoria's Secret's recent decision to feature a heavily pregnant model. The author argues that while increased visibility of pregnant bodies is positive, the industry's focus on glamorous, thin women perpetuates unrealistic standards. The article explores the disconnect between societal recognition of childbirth's miraculous nature and the persistent body image struggles postpartum women face. It questions whether such representations truly empower or merely reinforce narrow beauty ideals. The author's personal reflections add depth, suggesting that while visibility matters, the quality and authenticity of these representations need reevaluation.",
+    "summary_zh": "本文批判性地探讨了媒体中孕妇形象的呈现，特别是维多利亚的秘密最近让一位孕期较晚的模特走秀。作者认为，虽然增加孕妇形象的曝光度很重要，但行业对时尚、瘦削女性的过度关注却强化了不切实际的审美标准。文章探讨了社会对分娩奇迹的认可与产后女性实际面临的身体形象挣扎之间的矛盾。作者质疑这样的形象是否真正赋予了力量，还是仅仅强化了狭隘的美丽标准。她的个人反思为文章增添了深度，暗示曝光率固然重要，但这些形象的质量与真实性需要重新审视。",
+    "best_quote_en": "We need more than just images of hot mums – glamorous, rich, thin women whose pregnancies appear to be just convenient little bumps, rather than metamorphoses that seem to affect every single organ and limb.",
+    "best_quote_zh": "我们需要的不仅仅是漂亮妈妈的形象——那些时尚、富有、瘦削的女性，她们的孕期看起来只是方便的小肚子，而非影响每一个器官和肢体的蜕变。"
+  },
+  {
+    "id": 108,
+    "title": "The Risk of Discovery",
+    "title_zh": "发现的风险",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disc.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This essay challenges our perception of scientific discovery by examining how biographies distort our understanding of risk-taking in science. By focusing on Newton's work in physics while downplaying his pursuits in alchemy and theology, we create a misleading narrative of infallible genius. The author argues that these seemingly disparate fields were equally promising in Newton's time, highlighting how hindsight biases our view of risk. The key insight is that groundbreaking discoveries often come from betting on uncertain paths, and what appears as 'crazy' today might be the 'huge, if true' opportunities of our time. This perspective encourages us to reconsider how we evaluate risky ventures in science and beyond.",
+    "summary_zh": "这篇文章挑战了我们对科学发现的认知，揭示了传记如何扭曲我们对科学冒险精神的理解。通过聚焦牛顿的物理研究而忽略其炼金术和神学探索，我们构建了一个完美天才的虚假叙事。作者指出，这些看似截然不同的领域在牛顿时代同样充满希望，凸显了后见之明如何扭曲我们对风险的评估。核心观点是，突破性发现往往来自于在不确定道路上的投注，今天看似荒谬的事物可能正是我们时代的'如果成立则意义重大'的机遇。这一视角促使我们重新审视如何评估科学及其他领域中的冒险行为。",
+    "best_quote_en": "But maybe there is a simpler explanation. Maybe the smartness and the craziness were not as separate as we think.",
+    "best_quote_zh": "但或许有一个更简单的解释。或许聪明与疯狂并不像我们想象的那么分离。"
+  },
+  {
+    "id": 109,
+    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
+    "title_zh": "保护房屋免受灾难性火灾的新范式",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This article explores the complex science of wildland-urban interface fires and challenges conventional wisdom about fire prevention. It reveals that most surviving homes owe their survival to firefighter actions rather than design choices. The piece highlights the critical role of embers in spreading fires and the need for comprehensive home hardening measures. Experts argue that partial fireproofing is ineffective, as even one unprotected element can lead to total destruction. The article also examines the cultural and practical challenges of implementing these measures, including the need for community-wide cooperation and government support. It offers a sobering look at the financial and emotional burden on homeowners trying to protect their properties in fire-prone areas.",
+    "summary_zh": "这篇文章深入探讨了野地-城市接合部火灾的复杂科学，并挑战了关于火灾预防的传统观点。它揭示了，大多数幸存的房屋得以保全更多是因为消防员的行动，而非设计选择。文章强调了火星在火灾蔓延中的关键作用，以及对全面加固房屋的必要性。专家认为，部分防火措施无效，因为任何一个未受保护的元素都可能导致整个房屋毁灭。该文还探讨了实施这些措施的文化和实际挑战，包括需要全社区合作和政府支持。它以一种严肃的方式，展示了火灾易发区的房主在保护财产时面临的财务和情感负担。",
+    "best_quote_en": "You cannot pick and choose. The science tells us you have to do everything.",
+    "best_quote_zh": "你不能挑挑拣拣。科学告诉我们，你必须做好所有事情。"
+  },
+  {
+    "id": 110,
+    "title": "What’s in my NOW? — Aishwarya Goel",
+    "title_zh": "我的现在是什么？ — 艾什瓦里娅·戈尔",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
+    "tags": [
+      "update",
+      "design",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "This personal essay by Aishwarya Goel offers a refreshing glimpse into the tools and habits that shape her daily life. By categorizing her essentials into physical, digital, and invisible elements, she creates a framework for self-improvement that's both practical and inspiring. The physical items like the Philips Signe lamp and Uniqlo hoodie reveal her appreciation for thoughtful design that enhances both functionality and mood. The digital tools, particularly MyNetDiary and Bear Blog, demonstrate her commitment to health tracking and writing consistency. The inclusion of James Dyson's quote about excellence as the capacity to endure pain adds a profound layer to her philosophy. What makes this piece particularly valuable is how it transforms personal preferences into universal insights about productivity, well-being, and personal growth.",
+    "summary_zh": "艾什瓦里娅·戈尔的这篇个人随笔，以独特的视角展示了塑造她日常生活的工具和习惯。通过将必需品分为物理、数字和隐形三类，她构建了一个既实用又富有启发的自我提升框架。物理物品如菲利浦灯和优衣库卫衣，体现了她对提升功能性和情绪的精心设计的欣赏。数字工具特别是MyNetDiary和Bear Blog，展示了她对健康追踪和写作持续性的承诺。詹姆斯·迪森关于卓越是承受痛苦能力的名言，为她的哲学增添了深刻内涵。这篇文章的独特价值在于，如何将个人偏好转化为关于生产力、幸福和个人成长的普遍见解。",
+    "best_quote_en": "Excellence is the capacity to take pain.",
+    "best_quote_zh": "卓越的能力在于承受痛苦。"
   }
 ]
