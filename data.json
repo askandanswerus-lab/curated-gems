@@ -1,123 +1,5 @@
 [
   {
-    "id": 11,
-    "title": "*Give away* The Gifts of Reading for the Next Generation",
-    "title_zh": "将阅读的礼物传递给下一代",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/09/18/give-away-the-gifts-of-reading-for-the-next-generation/",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "This heartwarming piece highlights the global enthusiasm for reading among young people, supported by statistics showing that nearly half of translated fiction purchases in the UK come from under-35 buyers. The author shares their personal experience with young readers and discusses a new anthology celebrating children's literature. The collection, inspired by Robert Macfarlane's essay, features contributions from renowned authors and supports literacy initiatives like Room to Read and U-Go. The article concludes with an offer to give away a signed copy, encouraging readers to share their own stories about meaningful books. This reflects a broader cultural appreciation for literature's transformative power and its role in education and personal growth.",
-    "summary_zh": "这篇文章温馨地展现了全球年轻人对阅读的热情，统计数据显示英国翻译文学购买者中48.2%来自35岁以下群体。作者分享了与年轻读者的互动经历，并介绍了一本新出版的儿童文学合集，该书由著名作家撰稿并捐赠收益给读写教育机构。结尾处的签名书赠送活动，呼应了阅读如何塑造人生的核心主题。",
-    "best_quote_en": "book buyers under the age of 35 account for almost half (48.2%) of all translated fiction purchases in the UK",
-    "best_quote_zh": "英国翻译文学购买者中48.2%来自35岁以下群体"
-  },
-  {
-    "id": 12,
-    "title": "Jess Cartner-Morley on fashion: how to do hourglass without the tradwife overtones",
-    "title_zh": "杰斯·卡特纳-莫利关于时尚：如何在没有传统家庭主妇色彩的情况下穿出沙漏体型",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/sep/24/jess-cartner-morley-on-fashion-how-to-do-hourglass-without-the-tradwife-overtones",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-09-24",
-    "summary_en": "This article explores the resurgence of the hourglass silhouette in fashion, navigating its feminist implications while offering practical styling advice. The author acknowledges the cultural baggage of this shape, associating it with outdated gender norms, yet finds modern ways to embrace it without falling into 'tradwife' tropes. The piece provides actionable tips for incorporating hourglass elements through non-traditional feminine pieces like trouser suits and belted jeans, emphasizing comfort and personal style. It serves as both a fashion guide and a cultural commentary, blending personal experience with broader societal observations about body image and self-expression.",
-    "summary_zh": "文章探讨沙漏体型在时尚界的回归，既指出其女性主义争议，又提供现代穿搭建议。作者承认这种体型的文化包袱，但通过非传统女性服饰如西装裤和系腰牛仔裤，展示如何以舒适且个性化的方式穿出沙漏体型。既是穿搭指南，也是文化评论，融合个人体验与对身体形象和自我表达的社会观察。",
-    "best_quote_en": "The silhouette is unmistakably womanly... But because this outfit is a trouser suit, the hourglass shape reads in a very different way.",
-    "best_quote_zh": "这套装的剪裁无可辩驳地女性化... 但因为这是一套西装裤，沙漏体型的解读方式就完全不同了。"
-  },
-  {
-    "id": 13,
-    "title": "The Airbnbs",
-    "title_zh": "The Airbnbs",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/airbnbs.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This reflection on Airbnb's early days offers profound insights into startup resilience and the power of authentic passion. The founders' relentless energy and genuine connection with their initial hosting experience kept them going despite overwhelming odds. Their story reveals how extreme conditions can reveal true character and purpose. The focus on ramen profitability as a critical milestone and their strategic decision to concentrate on New York's most urgent market needs demonstrate smart, focused execution. Most importantly, the piece highlights how personal experience can fuel a vision that transforms an industry.",
-    "summary_zh": "这篇关于Airbnb早期发展的文章揭示了初创企业的韧性和真诚热情的力量。创始人们的无尽活力和与最初寄宿体验的真实联结使他们克服了重重困难。他们的故事表明，极端条件能揭示真正的品格与使命。聚焦于拉面可持续为关键里程碑，以及他们战略性地集中于纽约最迫切的市场需求，展现了智慧而专注的执行力。最重要的，这篇文章突显了个人经历如何能够激发改变行业的愿景。",
-    "best_quote_en": "They're still like that. Brian took a page of notes about ideas for new things Airbnb could do.",
-    "best_quote_zh": "他们依然如此。布莱恩记满了一页关于Airbnb可以做的新事物的点子。"
-  },
-  {
-    "id": 14,
-    "title": "The Complexities of Trans Gun Ownership",
-    "title_zh": "跨性别者持枪权的复杂性",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-complexities-of-trans-gun-ownership",
-    "tags": [
-      "solve",
-      "cybersecurity",
-      "psychology",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "网络安全",
-      "心理学",
-      "新手友好"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "This article explores the nuanced intersection of trans rights and gun ownership in America, revealing how trans individuals increasingly turn to firearms for self-defense amid rising threats. It highlights the hypocrisy within gun rights movements that exclude trans people, despite claiming to defend Second Amendment rights for all. The piece also contextualizes this debate within historical struggles for minority gun ownership, particularly among Black communities. Trans gun owners express their complex motivations—ranging from necessity due to harassment to a form of gender affirmation—and the challenges they face in gun culture. The analysis underscores how the debate reflects broader societal tensions around gun control, mental health, and trans rights, ultimately calling for better material conditions to ensure safety without the need for arms.",
-    "summary_zh": "这篇文章探讨了跨性别者持枪权的复杂性，揭示了在面临威胁时，越来越多跨性别者为了自卫而选择持枪。它揭露了枪支权利运动中的双重标准，尽管声称捍卫第二修正案，却排斥跨性别者。文章还将这一争论置于少数族裔持枪历史背景下，特别是黑人社区。跨性别持枪者表达了他们复杂的动机——从应对骚扰的必要性到性别认同的一种形式——以及他们在枪支文化中面临的挑战。分析指出，这一争论反映了更广泛的社会紧张局势，涉及枪支管制、心理健康和跨性别者权利，最终呼吁创造更好的物质条件，使人们不必依赖武装来保证安全。",
-    "best_quote_en": "It’s not about gun control. It’s about removing trans people’s autonomy.",
-    "best_quote_zh": "这不是关于控枪。这是关于剥夺跨性别者的自主权。"
-  },
-  {
-    "id": 15,
-    "title": "Reflections",
-    "title_zh": "反思",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/reflections",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2025-01-06",
-    "summary_en": "Sam Altman's reflective piece on OpenAI's journey offers profound insights into the challenges and triumphs of pioneering AI development. The post highlights the rapid evolution from research to product, the unexpected success of ChatGPT, and the organizational struggles that come with exponential growth. Altman's personal reflections on being fired and the subsequent governance improvements underscore the importance of diverse perspectives in leadership. The piece also looks ahead to AGI and superintelligence, emphasizing the need for careful, beneficial deployment. Altman's gratitude toward colleagues and supporters adds a human touch to this visionary account of technological revolution.",
-    "summary_zh": "萨姆·阿尔特曼对OpenAI发展历程的反思，揭示了AI先驱者的挑战与成就。从研究到产品的快速转变，ChatGPT的意外成功，以及指数级增长带来的组织困境，无不体现创新的代价。他关于被解雇和治理改进的个人经历，凸显了多元视角在领导力中的重要性。文章还展望了AGI和超级智能，强调需要谨慎而有益的部署。阿尔特曼对同事和支持者的感激之情，为这场技术革命增添了人性化的笔触。",
-    "best_quote_en": "We are now confident we know how to build AGI as we have traditionally understood it. We believe that, in 2025, we may see the first AI agents 'join the workforce' and materially change the output of companies.",
-    "best_quote_zh": "我们现在有信心按照我们传统的理解方式构建AGI。我们相信，到2025年，我们可能会看到第一批AI代理加入工作岗位，并对公司的产出产生实质性影响。"
-  },
-  {
     "id": 16,
     "title": "Book of the month: Nauja Lynge",
     "title_zh": "本月好书：Nauja Lynge",
@@ -2328,5 +2210,121 @@
     "summary_zh": "艾什瓦里娅·戈尔的这篇个人随笔，以独特的视角展示了塑造她日常生活的工具和习惯。通过将必需品分为物理、数字和隐形三类，她构建了一个既实用又富有启发的自我提升框架。物理物品如菲利浦灯和优衣库卫衣，体现了她对提升功能性和情绪的精心设计的欣赏。数字工具特别是MyNetDiary和Bear Blog，展示了她对健康追踪和写作持续性的承诺。詹姆斯·迪森关于卓越是承受痛苦能力的名言，为她的哲学增添了深刻内涵。这篇文章的独特价值在于，如何将个人偏好转化为关于生产力、幸福和个人成长的普遍见解。",
     "best_quote_en": "Excellence is the capacity to take pain.",
     "best_quote_zh": "卓越的能力在于承受痛苦。"
+  },
+  {
+    "id": 111,
+    "title": "UK women in tech: we would like to hear from you",
+    "title_zh": "英国女性在科技领域：我们想听到你们的声音",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
+    "tags": [
+      "analyze",
+      "leadership",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The Lovelace Report 2025 highlights a critical issue in the UK tech sector: an annual loss of 40,000-60,000 women, costing the economy £2-3.5 billion. The exodus stems from career stagnation (25%), lack of recognition (17%), and pay inequity (15%). This exodus represents a significant loss of talent and economic potential. The Guardian seeks to amplify these voices, inviting women in tech to share their experiences. This call for participation offers a platform for women to voice their challenges and solutions, potentially influencing industry change. The report's findings underscore the urgent need for systemic changes to retain and advance women in tech.",
+    "summary_zh": "拉夫莱斯报告2025揭示了英国科技行业的严峻问题：每年流失4-6万女性，造成20-35亿英镑的经济损失。离职原因包括职业发展受限（25%）、缺乏认可（17%）和薪酬不公（15%）。这场人才流失不仅影响行业发展，也凸显性别平等的紧迫性。卫报的倾听倡议为女性提供了表达的平台，或许能推动行业改变。报告数据警示我们，必须系统性地解决女性在科技领域的发展障碍。",
+    "best_quote_en": "Between 40,000 and 60,000 women leave the UK's tech sector every year, costing the economy an estimated £2 billion to £3.5 billion annually.",
+    "best_quote_zh": "英国科技行业每年流失4万-6万女性，造成每年20亿-35亿英镑的经济损失。"
+  },
+  {
+    "id": 112,
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "title_zh": "如何将匹兹堡打造成创业中心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pgh.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This insightful talk explores Pittsburgh's potential to become a startup hub by leveraging its unique advantages. The author, with personal connections to both Pittsburgh and Silicon Valley, identifies key factors like attracting young talent, preserving historic architecture, and fostering a tolerant culture. The analysis highlights Pittsburgh's youth-driven food boom as a promising indicator, suggesting that the city's affordability and charm make it an attractive destination for 25-29 year olds - the demographic most likely to found startups. The talk emphasizes the importance of organic growth, suggesting that Pittsburgh should focus on being an excellent place to live while startups naturally emerge. The author also notes the crucial role of Carnegie Mellon University and the need for a more robust investor community, though acknowledges that this will take time to develop. Ultimately, the piece presents an optimistic vision for Pittsburgh's future as a startup hub, rooted in its authentic strengths.",
+    "summary_zh": "这篇演讲深入分析了匹兹堡成为创业中心的潜力，作者以亲身经历为基础，指出年轻人涌入、保护历史建筑和包容文化是关键因素。文章以匹兹堡的年轻人主导的餐饮热潮为例，说明这座城市对25-29岁人群的吸引力，这一群体正是创业的主力军。作者建议匹兹堡应当以提升生活质量为核心，让创业自然涌现。同时强调卡内基梅隆大学的重要性，并指出需要培养投资者社区。文章最终以乐观的基调展望了匹兹堡成为创业中心的未来。",
+    "best_quote_en": "Imagine what it must have been like here a hundred years ago, when people were pouring in from twenty different countries. Tolerance was the only option.",
+    "best_quote_zh": "想象一百年前这里是什么样子，人们从二十个不同国家涌入。包容是唯一的选择。"
+  },
+  {
+    "id": 113,
+    "title": "Plan 1 and Plan 2",
+    "title_zh": "计划1和计划2",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/7xCxz36Jx3KxqYrd9/plan-1-and-plan-2",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "The author critiques Max Tegmark's binary division of AI safety advocates into two camps, arguing this oversimplification is counterproductive. Instead, they propose a more nuanced framework with Plan 1 (international coordination to stop the AI race) and Plan 2 (making the transition to superintelligence safer if the race continues). The analysis highlights funding disparities between these approaches and warns against polarization. The author emphasizes the importance of productive dialogue between different factions, noting psychological factors that drive people to cluster around similar views. They express interest in 'model syncing' with Type 2 optimists and invite discussion about the relative merits of each plan.",
+    "summary_zh": "作者批判了特格马克将AI安全倡导者分为两个阵营的二元框架，认为这种简化不利于进步。提出更细致的方案1（国际协调阻止AI竞赛）和方案2（在竞赛继续的情况下确保过渡安全）。分析指出资金分配失衡，警惕两极化风险。强调不同阵营间建设性对话的重要性，指出心理因素导致观点聚集。作者希望与乐观派进行模型同步，并欢迎讨论各方案优劣。",
+    "best_quote_en": "We all want as many people as possible to have as accurate beliefs as possible. Let us try to engage in productive rational discussion with people who disagree with us, so we may destroy falsehoods within ourselves and become better able to achieve our goals.",
+    "best_quote_zh": "我们都希望尽可能多的人拥有尽可能准确的信念。让我们尝试与持不同意见的人进行建设性理性讨论，这样我们才能摒弃自身的谬误，更好地实现我们的目标。"
+  },
+  {
+    "id": 114,
+    "title": "Andrew Cuomo’s Long Goodbye",
+    "title_zh": "安德鲁·库默的漫长告别",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This article dissects Andrew Cuomo's failed mayoral campaign, revealing a desperate attempt to cling to relevance. The piece highlights Cuomo's cynical tactics, from name-calling to baseless smears against opponent Zohran Mamdani. What's most revealing is how Cuomo has had to adopt Mamdani's progressive strategies to remain competitive, showing the former governor's political irrelevance. The article also exposes Cuomo's hypocrisy in blaming policies he himself enacted for the city's problems. This is less about Cuomo's campaign and more about the political exhaustion with his brand of power politics and the emergence of a new progressive movement in New York.",
+    "summary_zh": "这篇文章解剖了安德鲁·库默失败的市长竞选，揭示了他试图重返政坛的可悲尝试。文章突出了库默的狡辩策略，从辱骂到对对手Zohran Mamdani的恶意中伤。最引人深思的是，库默不得不借用Mamdani的进步政策来保持竞争力，这暴露了这位前州长的政治无能。文章还揭露了库默在指责自己曾推行的政策破坏了这座城市方面的虚伪。这不仅仅是关于库默竞选的故事，更是关于人们对权力政治疲惫的写照，以及纽约新进步运动的崛起。",
+    "best_quote_en": "Who was leading the state?",
+    "best_quote_zh": "是谁在领导这个州？"
+  },
+  {
+    "id": 115,
+    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
+    "title_zh": "数字入境欧洲/短信诈骗/孟买第二机场",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
+    "tags": [
+      "update",
+      "cybersecurity",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "This article presents four distinct global developments with practical travel implications. The introduction of Europe's EES border system promises faster immigration but raises privacy concerns. The exposé on 'pig butchering' scams reveals the alarming scale of cryptocurrency fraud, with a $15 billion Bitcoin seizure highlighting the need for digital vigilance. Mumbai's new airport offers relief to overwhelmed travelers, while Time Out's neighborhood list provides cultural insights for digital nomads. The content balances practical information with thought-provoking perspectives on modern travel challenges and opportunities.",
+    "summary_zh": "这篇文章涵盖了四个全球性的最新动态，对旅行者具有实用价值。欧洲的EES入境系统虽然加快了通关速度，却引发了隐私担忧。关于“杀猪盘”诈骗的揭露，揭示了加密货币诈骗的惊人规模，150亿美元比特币被扣押凸显了数字安全的重要性。孟买的新机场为旅行者提供了新选择，而Time Out的邻里名单为数字游牧者提供了文化洞察。内容兼顾实用信息与对现代旅行挑战的深刻思考。",
+    "best_quote_en": "places that represent the soul of our cities, while maintaining their own unique local character that draws people in to live, work and play",
+    "best_quote_zh": "这些地方体现了城市的灵魂，同时保持着独特的本地特色，吸引人们前来生活、工作和游玩"
   }
 ]
