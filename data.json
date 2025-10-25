@@ -1,123 +1,5 @@
 [
   {
-    "id": 16,
-    "title": "Book of the month: Nauja Lynge",
-    "title_zh": "本月好书：Nauja Lynge",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/08/29/book-of-the-month-nauja-lynge/",
-    "tags": [
-      "update",
-      "writing-content",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-08-29",
-    "summary_en": "This review of Nauja Lynge's 'Ivalu's Color' offers a fascinating exploration of how Greenlandic literature challenges Western literary conventions. The book, a crime novel with political undertones, subverts traditional detective tropes by focusing more on broader societal forces than individual characters. Lynge's work, blending Greenlandic storytelling traditions with European literary structures, presents a unique perspective on Inuit culture and politics. The review acknowledges the book's challenging aspects, including its controversial portrayals, but ultimately values it as a thought-provoking work that expands our understanding of global literature. It serves as a reminder of the importance of approaching diverse narratives with openness and curiosity.",
-    "summary_zh": "这篇对Nauja Lynge《伊瓦卢的颜色》的评论，展现了格陵兰文学如何挑战西方文学传统。这部带有政治隐喻的犯罪小说，颠覆了传统侦探小说的套路，更关注社会力量而非个体。林格将格陵兰叙事传统与欧洲文学结构融合，呈现出独特的因纽特文化与政治视角。评论承认作品存在争议之处，但最终认为这是一部拓展全球文学理解的深刻之作。它提醒我们阅读多元叙事时需要保持开放心态。",
-    "best_quote_en": "It's almost as if there is a chapter in our common history missing. My major concern is that we open the doors to outsiders before we are ready to welcome them. Things take time. This applies to Greenland to such an extent that we might be better off seeing ourselves as a developing country, not co-opted immediately into the international economy.",
-    "best_quote_zh": "仿佛我们共有的历史中缺失了一章。我最担心的是我们在准备好迎接外界之前就打开了大门。事情需要时间。这对格陵兰来说如此重要，以至于我们可能更应该把自己看作发展中国家，而不是立即被纳入国际经济。"
-  },
-  {
-    "id": 17,
-    "title": "I spent months testing insomnia cures – then grieving for a pet made sleep impossible",
-    "title_zh": "我花了数月测试失眠疗法，然后宠物的离世让我无法入睡",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter/2025/sep/19/i-spent-months-testing-insomnia-cures",
-    "tags": [
-      "analyze",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-09-22",
-    "summary_en": "This deeply personal narrative explores the limitations of sleep aids in the face of emotional trauma. The author's journey from testing various insomnia cures to grappling with grief offers profound insights into how psychological factors can override physical sleep solutions. The piece highlights how even the most effective products (like mouldable silicone earplugs) become irrelevant when facing profound loss. It serves as a poignant reminder that some sleep disturbances require more than just practical fixes, touching on themes of companionship, memory, and emotional healing.",
-    "summary_zh": "这篇文章深刻描述了情感创伤下睡眠辅助的局限性。作者从测试各种失眠疗法到面对丧宠的痛苦，揭示了心理因素如何超越身体层面的睡眠问题。即使最有效的产品也无法弥补失去亲人的痛苦。提醒我们，有些睡眠问题需要超越实用解决方案，触及陪伴、记忆和情感疗愈的深层主题。",
-    "best_quote_en": "His purr was more soothing than any sounds on the SnoozeBand, and the smell of his fur more ambrosial than any lavender spray.",
-    "best_quote_zh": "他的喵喵声比任何睡眠带的声音都更令人安心，他的毛发气味比任何薰衣草喷雾都更芳香。"
-  },
-  {
-    "id": 18,
-    "title": "How to Think for Yourself",
-    "title_zh": "如何学会独立思考",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/think.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This essay explores the critical importance of independent thinking across various professions, from science and investment to entrepreneurship and writing. The author argues that true innovation requires ideas that diverge from conventional wisdom, as merely being correct isn't sufficient when everyone else is correct too. The piece delves into the nature of independent-mindedness, suggesting it's more innate than learned, and offers strategies to cultivate it, such as surrounding oneself with like-minded individuals and practicing intellectual skepticism. The author also identifies three core components of independent thinking: fastidiousness about truth, resistance to being told what to think, and curiosity. The essay challenges readers to reflect on their own cognitive tendencies and consider whether their work environment nurtures or stifles original thought.",
-    "summary_zh": "这篇文章探讨了独立思考在各行各业中的重要性，从科学研究到投资，再到创业和写作。作者认为，真正的创新需要超越常规的想法，仅仅正确是不够的，因为当所有人都正确时，差异化的见解才具有价值。文章深入分析了独立思考的本质，认为它更多是天赋而非后天培养，并提出了一些培养独立思考的策略，比如结交志同道合的朋友和练习知识怀疑。作者还指出了独立思考的三个核心要素：对真理的严谨态度、抵制被他人左右的思想和好奇心。文章挑战读者思考自己的认知倾向，并考虑其工作环境是否鼓励或抑制原创思维。",
-    "best_quote_en": "The best place to find undiscovered ideas is where no one else is looking.",
-    "best_quote_zh": "最好的发现新想法的地方，就是没有人在看的地方。"
-  },
-  {
-    "id": 19,
-    "title": "Can the Democrats Take Free Speech Back from the Right?",
-    "title_zh": "民主党能否从右翼手中夺回言论自由？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/can-the-democrats-take-free-speech-back-from-the-right",
-    "tags": [
-      "guide",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-03",
-    "summary_en": "This article explores the complex relationship between the Democratic Party and free speech in America. The author argues that while Democrats have historically championed First Amendment rights, recent trends show they've ceded this ground to the right. The piece examines how progressive stances on issues like trigger warnings and deplatforming have backfired, empowering conservative movements. It highlights the NOPE Act as a potential turning point but questions whether Democrats can authentically reclaim free speech advocacy, especially regarding the contentious issue of Gaza. The analysis suggests that without addressing this elephant in the room, Democratic efforts may ring hollow.",
-    "summary_zh": "文章探讨了民主党与言论自由之间的复杂关系。作者指出，尽管民主党历史上捍卫过第一修正案，但近年趋势显示他们已将这一立场拱手让给右翼。分析进步派在触发警告和取消平台等问题上的立场如何反噬，反而助长了保守势力。文中提到NOPE法案可能成为转折点，但质疑民主党能否真正重新掌握言论自由旗帜，尤其是在关于加沙问题的敏感话题上。分析认为，如果不正视这个关键问题，民主党的努力可能显得苍白无力。",
-    "best_quote_en": "The Party can't talk convincingly about free speech and the First Amendment while avoiding the issue that has prompted a wave of censorship and which, meanwhile, dominates social media.",
-    "best_quote_zh": "民主党在回避引发审查浪潮且主导社交媒体的问题时，无法令人信服地讨论言论自由和第一修正案。"
-  },
-  {
-    "id": 20,
-    "title": "GPT-4o",
-    "title_zh": "GPT-4o",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/gpt-4o",
-    "tags": [
-      "update",
-      "ai-research",
-      "ai-product",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "AI产品",
-      "未来预测"
-    ],
-    "date": "2024-05-13",
-    "summary_en": "The announcement of GPT-4o highlights two key advancements: making cutting-edge AI widely accessible for free and introducing a revolutionary voice and video interface. The free availability of the best AI model aligns with OpenAI's mission to democratize powerful tools, creating a platform where others can innovate and benefit. The voice mode represents a significant leap in human-computer interaction, offering natural, fast, and expressive communication that feels cinematic. This development suggests a future where AI becomes deeply integrated into daily life, capable of understanding and acting on personal information. The announcement also underscores OpenAI's dual approach of offering free services while monetizing other aspects to sustain its mission.",
-    "summary_zh": "GPT-4o的发布聚焦两大突破：免费普惠最先进AI工具和推出革新性语音视频交互界面。免费提供顶级AI模型体现了OpenAI让强大工具普惠大众的使命，为他人创新提供平台。语音模式标志着人机交互的重大飞跃，实现了电影般流畅自然的对话体验。这一进展预示着AI深度融入日常生活的未来，能理解并处理个人信息。发布同时展现了OpenAI",
-    "best_quote_en": "Talking to a computer has never felt really natural for me; now it does.",
-    "best_quote_zh": "与电脑对话从未让我觉得自然，现在却是这样。"
-  },
-  {
     "id": 21,
     "title": "Book of the month: M.G. Sanchez",
     "title_zh": "本月书籍：M.G. Sanchez",
@@ -2326,5 +2208,125 @@
     "summary_zh": "这篇文章涵盖了四个全球性的最新动态，对旅行者具有实用价值。欧洲的EES入境系统虽然加快了通关速度，却引发了隐私担忧。关于“杀猪盘”诈骗的揭露，揭示了加密货币诈骗的惊人规模，150亿美元比特币被扣押凸显了数字安全的重要性。孟买的新机场为旅行者提供了新选择，而Time Out的邻里名单为数字游牧者提供了文化洞察。内容兼顾实用信息与对现代旅行挑战的深刻思考。",
     "best_quote_en": "places that represent the soul of our cities, while maintaining their own unique local character that draws people in to live, work and play",
     "best_quote_zh": "这些地方体现了城市的灵魂，同时保持着独特的本地特色，吸引人们前来生活、工作和游玩"
+  },
+  {
+    "id": 116,
+    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
+    "title_zh": "每次出门，我首先想到的就是我的额头：接受头发移植的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This article explores the growing trend of women undergoing hair transplants, a procedure once predominantly sought by men. The piece delves into the psychological and social pressures faced by women with hair loss, highlighting how societal beauty standards and the rise of social media have intensified anxieties about hairlines and volume. Through the stories of Aria, Harriet, and Beatrice, the article examines the emotional toll of hair loss, the high costs and risks of transplants, and the lack of awareness about female-specific hair loss conditions. It also sheds light on the unregulated nature of the hair transplant industry, where unqualified practitioners can cause irreparable damage. The article ultimately questions whether hair transplants are a solution or a reflection of deeper societal issues surrounding femininity and beauty.",
+    "summary_zh": "文章探讨了越来越多女性接受头发移植手术的现象，这种手术曾主要由男性接受。通过Aria、Harriet和Beatrice的故事，展现了女性脱发带来的心理和社会压力，以及社会审美标准和社交媒体的兴起加剧了对发际线和发量的焦虑。文章还揭示了脱发治疗的高昂费用和风险，以及对女性特有脱发问题的认知不足。同时，指出头发移植行业缺乏监管，不合格的医生可能造成无法挽回的损害。最终，文章质疑头发移植是否是解决方案，还是反映了更深层次的社会问题。",
+    "best_quote_en": "It’s just societal pressure. Where once we were obsessed with straight teeth, now it’s the perfect hairline.",
+    "best_quote_zh": "这只是社会压力。我们曾经痴迷于牙齿整齐，现在则是完美的发际线。"
+  },
+  {
+    "id": 117,
+    "title": "Life is Short",
+    "title_zh": "人生短暂",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vb.html",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This reflective piece explores the profound realization that life's brevity becomes tangible when measured in discrete moments with loved ones, particularly children. The author argues that recognizing life's shortness should motivate us to eliminate 'bullshit' - meaningless activities that steal our time, whether imposed by external circumstances or chosen unwittingly. The essay advocates for conscious time management, prioritizing meaningful experiences, and savoring the present. It's a poignant reminder to act on our aspirations rather than postponing them, and to cherish our time with those we love before it's too late. The author's personal reflections add emotional weight to these universal truths.",
+    "summary_zh": "这篇文章探讨了人生短暂的深刻体会，特别是通过与孩子相处的珍贵时刻。作者认为，意识到生命有限应激励我们摒弃无意义的琐事，无论是外界强加的还是自己主动选择的。文章倡导有意识的时间管理，优先选择有意义的经历，并珍惜当下。这是一个动人的提醒，要实现我们的愿望而非拖延，珍惜与亲人共处的时光，在它们消逝之前。作者的个人反思为这些普世真理增添了情感分量。",
+    "best_quote_en": "Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short.",
+    "best_quote_zh": "无情地剪除无意义的琐事，不要等待去做重要的事，并珍惜你所拥有的时间。这就是当生命短暂时你该做的。"
+  },
+  {
+    "id": 118,
+    "title": "Musings on Reported Cost of Compute (Oct 2025)",
+    "title_zh": "关于报告的计算成本的思考（2025年10月）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This analysis delves into the complex economics of AI compute infrastructure, revealing how different reporting methods can lead to vastly different perceptions of costs. The breakdown of capital expenditures (capex) for a 1 GW datacenter - from infrastructure to hardware to operational costs - exposes the intricacies behind seemingly straightforward figures. The author's insightful comparison between Nvidia and non-Nvidia hardware costs challenges common assumptions about GPU dominance in compute expenses. The projection for 2026 model sizes offers a fascinating glimpse into the future of AI scaling, suggesting that computational advances will enable both larger models and more efficient sparse architectures. This piece serves as both an educational primer on AI infrastructure economics and a thought-provoking analysis of industry trends.",
+    "summary_zh": "该分析深入探讨了AI计算基础设施的复杂经济学，揭示了不同报告方法如何导致对成本的截然不同的认知。1 GW数据中心的资本支出拆分——从基础设施到硬件再到运营成本——揭示了看似简单数字背后的复杂性。作者对Nvidia和非Nvidia硬件成本的深入比较，挑战了关于GPU在计算成本中主导地位的常见假设。2026年模型规模的预测，为AI规模化发展提供了一个引人深思的未来展望，暗示计算进步将使模型规模更大且架构更高效。这篇文章既是AI基础设施经济学的教学入门，也是行业趋势的深刻分析。",
+    "best_quote_en": "A $300bn contract then might mean about 5 GW of total capacity, while a $27bn datacenter site could simultaneously mean 2 GW of total capacity.",
+    "best_quote_zh": "一个3000亿美元的合同可能意味着大约5 GW的总容量，而一个270亿美元的数据中心可能同时意味着2 GW的总容量。"
+  },
+  {
+    "id": 119,
+    "title": "The Feds Who Kill Blood-Sucking Parasites",
+    "title_zh": "那些杀死吸血寄生生物的联邦官员",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-feds-who-kill-blood-sucking-parasites",
+    "tags": [
+      "solve",
+      "leadership",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This article explores the critical but often overlooked work of federal and Canadian teams combating invasive sea lampreys in the Great Lakes. The piece highlights the ecological and economic importance of this program, which has prevented the collapse of the region's fishing industry worth billions. It delves into the innovative methods used, including the discovery of lampricide (T.F.M.) and emerging AI-assisted solutions. The narrative also raises concerns about funding vulnerabilities under political changes, illustrating how success can make programs targets for budget cuts. The human element is vividly portrayed through the dedication of field workers like Ally Porter, whose nightly battles against lampreys showcase both the program's necessity and its precarious future.",
+    "summary_zh": "这篇文章描述了联邦和加拿大团队在大湖区对抗入侵性七鳃鳗的艰苦工作。它突出了这一项目的生态和经济重要性，该项目挽救了价值数十亿美元的渔业产业。文章探讨了创新方法，包括发现杀七鳃鳗剂（T.F.M.）和新兴的AI辅助解决方案。叙事还提出了在政治变化下资金脆弱性的担忧，说明成功可能使项目成为预算削减的目标。通过夜间与七鳃鳗作战的现场工作者如艾莉·波特的故事，生动展现了项目的必要性及其不确定的未来。",
+    "best_quote_en": "They’re just muscle and cartilage. No bones.",
+    "best_quote_zh": "它们只是肌肉和软骨。没有骨头。"
+  },
+  {
+    "id": 120,
+    "title": "Tales from Toddlerhood",
+    "title_zh": "幼儿趣事",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/10/toddler.html",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "This engaging personal narrative offers a candid look at the complexities of toddler parenthood, blending humor with insightful observations. The author shares eight revelations about raising a two-year-old, from the emotional whiplash of loving yet finding them boring to the bewildering contradictions of their intelligence. The piece explores the universal experience of parental judgment and offers a refreshing perspective on parenting philosophy. While entertaining, it also provides practical advice on nurturing curiosity and independence in young children. The author's self-deprecating humor and relatable anecdotes make this a valuable read for parents and anyone interested in child development.",
+    "summary_zh": "文章以幽默的视角描绘了育儿的真实挑战，从孩子既可爱又让人无奈的矛盾性，到家长们彼此评判的现象，作者用生动的故事和独特见解，展现了育儿过程中那些既滑稽又深刻的瞬间。这篇文章不仅让人会心一笑，更提供了关于培养孩子好奇心和独立性的实用建议，是育儿经验的真实写照。",
+    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
+    "best_quote_zh": "你可以同时对同一个人既着迷又无聊到极点。"
   }
 ]
