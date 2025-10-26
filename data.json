@@ -1,119 +1,5 @@
 [
   {
-    "id": 21,
-    "title": "Book of the month: M.G. Sanchez",
-    "title_zh": "本月书籍：M.G. Sanchez",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/07/28/book-of-the-month-m-g-sanchez/",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-07-28",
-    "summary_en": "M.G. Sanchez's 'Diary of a Victorian Colonial and Other Tales' offers a fascinating exploration of identity, displacement, and colonialism through the lens of Gibraltarian literature. The collection's standout pieces, 'Diary of a Victorian Colonial' and 'Intermission,' showcase Sanchez's distinctive voice and multilingual prowess, challenging conventional narratives about Britishness and colonialism. The use of Llanito, Spanish, and other languages enriches the text, creating a unique literary experience. While the final story, 'Roman Ruins,' feels somewhat disjointed, it raises intriguing questions about literary traditions and cultural standards. Sanchez's work invites readers to consider how small populations can cultivate vibrant literary cultures and how language shapes our understanding of belonging and history.",
-    "summary_zh": "M.G. Sanchez的《维多利亚殖民地日记及其他故事》通过直布罗陀文学的视角探讨了身份、流离失所和殖民问题。书中《维多利亚殖民地日记》和《幕间》两篇以其独特的叙事风格和多语言运用挑战了关于英国性和殖民的传统叙事。虽然最后一篇《罗马废墟》显得有些不协调，但引发了关于文学传统与文化标准的思考。Sanchez的作品让读者思考小群体如何培育丰富的文学文化，以及语言如何塑造我们对归属感和历史的理解。",
-    "best_quote_en": "Finding a way to be heard and recognised is, it seems, part of the story.",
-    "best_quote_zh": "显然，找到被倾听和认可的方式，也是故事的一部分。"
-  },
-  {
-    "id": 22,
-    "title": "Solo trips abroad take off among women who seek break from work – and their families",
-    "title_zh": "独自出游的女性人数激增：她们需要从工作和家庭中解脱",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/business/2025/oct/06/solo-trips-travel-women-break-work-family",
-    "tags": [
-      "update",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This article highlights a growing trend of women, particularly those aged 45-60, booking solo international trips to escape both work pressures and family responsibilities. The phenomenon reflects a broader societal shift where individuals, especially women, are prioritizing personal time and self-discovery. Travel companies report a significant increase in solo bookings, with women comprising the majority. These travelers seek the freedom to explore at their own pace while enjoying the social aspects of group travel. The trend underscores a cultural evolution where personal well-being and individual experiences are increasingly valued over traditional family-centric vacations.",
-    "summary_zh": "这篇文章描述了一个新兴趋势：越来越多的女性，尤其是45-60岁的女性，独自出国旅行，以摆脱工作和家庭的束缚。这一现象反映了更广泛的社会变化，即个人尤其是女性开始更加重视个人时间和自我探索。旅行公司报告称，独自出游的预订量显著增加，女性占多数。这些旅行者渴望以自己的节奏探索世界，同时享受团体旅行的社交乐趣。这一趋势体现了文化演变，即个人幸福和独特体验的价值正超过传统的家庭中心式度假。",
-    "best_quote_en": "Consumers booking their own solo holidays is about choosing how you want to experience the world.",
-    "best_quote_zh": "自己预订独自度假，是关于如何选择体验世界的方式。"
-  },
-  {
-    "id": 23,
-    "title": "Early Work",
-    "title_zh": "早期工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/early.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This essay explores the psychological barriers that prevent people from pursuing ambitious projects, particularly the fear of creating something subpar. The author argues that early versions of great work often appear unremarkable or even embarrassing, but pushing through this phase is crucial for achieving excellence. Drawing from personal experiences in Silicon Valley and examples from various fields, the author suggests that societal attitudes toward new ideas are evolving, with places like Silicon Valley fostering a culture of optimism and support for early-stage projects. The essay also offers practical strategies for overcoming self-doubt, such as surrounding oneself with the right people, adopting a mindset of curiosity, and treating early work as experiments rather than final products. The overarching message is that dismissing early work too harshly is a learned behavior that can be unlearned, leading to greater innovation and creativity.",
-    "summary_zh": "本文探讨了人们在追求雄心勃勃的项目时面临的心理障碍，尤其是对创作平庸作品的恐惧。作者认为，伟大作品的早期版本往往看起来平淡无奇甚至尴尬，但推进这一阶段对实现卓越至关重要。通过个人在硅谷的经历和各领域的例子，作者指出社会对新想法的态度正在演变，硅谷等地培养了一种乐观和支持早期项目的文化。文章还提供了克服自我怀疑的实用策略，如结交合适的同事、保持好奇心，并将早期工作视为实验而非最终产品。核心观点是，对早期工作过于苛刻的评价是一种可以被改变的行为，这将促进更多创新与创造力。",
-    "best_quote_en": "If you overestimate the importance of what you're working on, that will compensate for your mistakenly harsh judgment of your initial results.",
-    "best_quote_zh": "如果你高估了工作的重要性，这将弥补你对初期成果过于严苛的错误判断。"
-  },
-  {
-    "id": 24,
-    "title": "Donald Trump, Pete Hegseth, and the “War from Within”",
-    "title_zh": "唐纳德·特朗普、皮特·赫格塞斯与‘内战’",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/13/donald-trump-pete-hegseth-and-the-war-from-within",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This article examines the troubling militarization of domestic policy under Trump's administration, particularly through the lens of his recent speeches and actions. The author highlights the paradox of a president seeking a Nobel Peace Prize while simultaneously renaming the Department of Defense as the Department of War and proposing to use American cities as military training grounds. The piece critiques the administration's performative displays of military strength, from theatrical operations in Chicago to the symbolic restoration of Confederate names on military bases. The analysis suggests that while these actions may be politically motivated and largely ineffective, they carry real risks of escalating tensions and normalizing authoritarian tactics. The article serves as a cautionary tale about the dangers of blurring the lines between military and civilian domains in a democracy.",
-    "summary_zh": "本文分析了特朗普政府在国内政策中的军事化倾向，特别是通过其近期的言论和行动。作者指出，一个竞选诺贝尔和平奖的总统却将国防部改名为战争部，并提议将美国城市作为军事训练场。文章批评了政府在芝加哥等地的表演式军事行动，以及恢复军事基地内叛军将领名字的象征性举措。分析认为，这些行为虽然可能出于政治动机且效果有限，但确实存在升级紧张局势和正常化威权手段的风险。本文如同一则关于民主社会中军事与民用领域界限模糊的警示故事。",
-    "best_quote_en": "'This is going to be a major part for some of the people in this room,' Trump said, like a theatre teacher trying to gin up interest in the spring musical. 'That’s a war, too. It’s the war from within.'",
-    "best_quote_zh": "特朗普说，“这将是你们当中的一些人的重要工作。”他就像一个剧团导演试图激发对春季音乐剧的兴趣一样。“这是一种战争，也是内战。”"
-  },
-  {
-    "id": 25,
-    "title": "Brief life advice/Codenames/The Scale of Life",
-    "title_zh": "简短的生活建议/密码/生命的尺度",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/brief-life-advice-codenames-the-scale-of-life/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This eclectic collection offers practical life advice, engaging activities, and thought-provoking perspectives. Dan Pink's concise wisdom stands out for its actionable insights, while Codenames provides an entertaining group activity. The Scale of Life website offers a fascinating real-time view of global statistics, sparking curiosity about our interconnected world. The practical tip about ring lights for video calls highlights how small tools can significantly improve daily routines. The party planning tips emphasize the importance of creating meaningful connections through gatherings. The collected quotes serve as profound reminders about freedom, love, and presence. Together, these pieces create a mosaic of useful information and inspiring reflections.",
-    "summary_zh": "这篇杂文集结了实用生活建议、有趣活动和深刻思考。丹·平克的简洁建议尤为宝贵，而密码游戏则提供了令人愉快的社交互动。生命的尺度网站以实时统计数据展现全球活动，激发我们对世界的好奇。关于环形灯的小贴士展示了如何通过简单工具提升日常生活质量。派对策划技巧强调了通过聚会创造有意义联系的重要性。收录的名言警句则提醒我们自由、爱与当下的意义。这些内容共同构成了一个兼具实用价值与思想启发的知识宝库。",
-    "best_quote_en": "When you meet the monster, anoint its feet.",
-    "best_quote_zh": "当你遇到怪物时，要抹油在它的脚上。"
-  },
-  {
     "id": 26,
     "title": "What is the future of English studies?",
     "title_zh": "英语研究的未来是什么？",
@@ -2328,5 +2214,125 @@
     "summary_zh": "文章以幽默的视角描绘了育儿的真实挑战，从孩子既可爱又让人无奈的矛盾性，到家长们彼此评判的现象，作者用生动的故事和独特见解，展现了育儿过程中那些既滑稽又深刻的瞬间。这篇文章不仅让人会心一笑，更提供了关于培养孩子好奇心和独立性的实用建议，是育儿经验的真实写照。",
     "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
     "best_quote_zh": "你可以同时对同一个人既着迷又无聊到极点。"
+  },
+  {
+    "id": 121,
+    "title": "Good news: men have stopped disrupting women’s sport with dildos. Bad news: now they’re betting on their periods | Arwa Mahdawi",
+    "title_zh": "好消息：男性不再用阴茎模型干扰女子体育比赛。坏消息：现在他们开始赌女子月经周期",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/14/good-news-men-have-stopped-disrupting-womens-sport-with-dildos-bad-news-now-theyre-betting-on-their-periods",
+    "tags": [
+      "update",
+      "society",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This opinion piece by Arwa Mahdawi highlights the disturbing trend of period betting in women's sports, following the previous misogynistic disruption of WNBA games with dildos. The author critiques how women athletes continue to face invasive and sexist behaviors as their sports gain popularity. While acknowledging the growing interest in women's sports as a positive sign, Mahdawi emphasizes the need to address the underlying misogyny that persists. The piece also touches on the broader issue of women being punished for their success in male-dominated spaces, using examples from football and other sports. It's a thought-provoking exploration of gender dynamics in sports and society.",
+    "summary_zh": "阿尔瓦·马哈维的评论文章揭露了女子体育界令人不安的“经期下注”趋势，此前男性曾用阴茎模型干扰WNBA比赛。作者批评了女子运动员在体育事业兴起的同时仍面临侵犯和性别歧视行为。尽管承认女子体育受欢迎程度提高是积极信号，但马哈维强调需要解决根深蒂固的性别歧视问题。文章还涉及女性因成功而受惩罚的更广泛现象，引用了足球等运动中的例子。这是一篇探讨体育和社会中性别动态的深刻文章。",
+    "best_quote_en": "Whenever women are in the spotlight, though, there are people who punish them for it.",
+    "best_quote_zh": "但每当女性成为焦点，总有那么一些人要惩罚她们。"
+  },
+  {
+    "id": 122,
+    "title": "Economic Inequality",
+    "title_zh": "经济不平等",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ineq.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This thought-provoking piece challenges conventional views on economic inequality, arguing that it's a complex phenomenon with multiple causes, some beneficial and some harmful. The author, a startup founder, examines the moral and practical implications of wealth creation through startups versus wealth transfer through zero-sum games. He warns against oversimplifying inequality as a single issue, emphasizing the importance of distinguishing between wealth creation and wealth redistribution. The essay highlights how technological progress accelerates productivity variation, which inherently leads to economic inequality. The author advocates for focusing on addressing specific problems like poverty and lack of social mobility rather than targeting inequality itself. He concludes that while some aspects of inequality should be addressed, attempting to eliminate all wealth variation would stifle innovation and economic progress.",
+    "summary_zh": "这篇文章挑战了关于经济不平等的传统观点，认为它是一个有多种原因的复杂现象，其中一些是有益的，一些是有害的。作者作为创业公司的创始人，探讨了通过创业创造财富与通过零和游戏转移财富的道德和实践影响。他警告不要将不平等简化为一个问题，强调区分财富创造和财富再分配的重要性。文章指出技术进步加速了生产力的变化，这必然导致经济不平等。作者主张应该专注于解决具体问题，如贫困和社会流动性不足，而不是针对不平等本身。他得出结论，虽然应该解决一些不平等方面的问题，但试图消除所有财富差异会扼杀创新和经济进步。",
+    "best_quote_en": "The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
+    "best_quote_zh": "人们关于经济不平等犯的最常见的错误是将其视为一个单一现象。"
+  },
+  {
+    "id": 123,
+    "title": "Seven-ish Words from My Thought-Language",
+    "title_zh": "我的思语七字词",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language",
+    "tags": [
+      "solve",
+      "science",
+      "psychology",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "心理学",
+      "争议观点"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This thought-provoking piece explores seven invented words that capture nuanced human experiences often missing in English. The author cleverly addresses cognitive and linguistic gaps, offering words like 'word-clogged' for mental overload and 'vanilla-obvious' for effortlessly correct choices. The essay reveals deep insights into human communication patterns and cognitive psychology. It's particularly fascinating how these concepts emerge independently across different domains, from mathematics to military strategy. The exploration of 'lantern-oil' as a metaphor for mental resources is especially compelling, blending philosophy with modern psychology. This content invites readers to reconsider language's limitations and the universality of certain human experiences.",
+    "summary_zh": "这篇文章探讨了七个虚构的词语，捕捉了英语中常缺失的微妙人类体验。作者巧妙地解决了认知和语言缺口，提出了'词堵塞'等词来描述心理过载。尤其令人着迷的是'灯油'作为心理资源的比喻，融合了哲学与现代心理学。这篇内容邀请读者重新思考语言的局限性和某些人类体验的普遍性。",
+    "best_quote_en": "'Lantern-oil': A knowingly-fictitious mental resource consumed for focus, commitment, and difficult decisions, with limited capacity that can be restored or depleted.",
+    "best_quote_zh": "灯油：一种有意虚构的心理资源，用于专注、承诺和做出艰难决定，容量有限，可以通过锻炼或消耗。"
+  },
+  {
+    "id": 124,
+    "title": "What if the Big Law Firms Hadn’t Caved to Trump?",
+    "title_zh": "如果大型律师事务所没有向特朗普屈服会怎样？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-if-the-big-law-firms-had-not-caved-to-trump",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "This thought-provoking analysis examines the critical role major law firms could have played in resisting Trump's erosion of democratic institutions. The article draws a powerful parallel to Marlon Brando's iconic speech in 'On the Waterfront,' highlighting how the failure of duty can lead to systemic corruption. It focuses on Paul, Weiss and other firms that quickly capitulated to Trump's unconstitutional executive orders, abandoning their responsibility to uphold the rule of law. The piece argues that collective action among law firms might have slowed Trump's authoritarian momentum, emphasizing the unique position and societal duty of legal professionals to protect the integrity of the legal system. It serves as a cautionary tale about the consequences of prioritizing short-term self-interest over long-term institutional health.",
+    "summary_zh": "本文深刻剖析了大型律所在抵制特朗普破坏民主制度方面未能履行职责的严重后果。作者通过电影《码头风云》中布兰多的经典台词，揭示了不尽职责的腐蚀性影响。重点分析了保罗·韦斯等律所在面对特朗普违宪行政命令时的屈服行为，批评其未能捍卫法治原则。文章认为，如果律所能够联合抵抗，可能会阻止特朗普的独裁倾向加速发展。强调律师行业在维护法律体系完整性方面的独特责任和社会义务，警示短期利益优先于长期制度健康的危险。",
+    "best_quote_en": "It wasn’t him, Charlie. It was you. You should’ve looked out for me a little bit. You should’ve taken care of me just a little bit, so I wouldn’t have to take them dives for the short-end money.",
+    "best_quote_zh": "这不是他的错，是你的。你应该稍微照顾我一下。你应该稍微关心我一下，这样我就不用为了那点小钱去接受那些安排比赛了。"
+  },
+  {
+    "id": 125,
+    "title": "Project Covalence",
+    "title_zh": "项目Covalence",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/project-covalence",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2020-06-16",
+    "summary_en": "Project Covalence represents a critical initiative to accelerate COVID-19 clinical trials by providing comprehensive operational support. The project addresses a significant bottleneck in pandemic response - the slow and expensive nature of traditional clinical trials. By offering remote data collection, telemedicine, and logistical support, Covalence enables trials to be conducted in community settings or at home, reducing pressure on healthcare systems. The creation of master protocols for platform studies fosters collaboration between researchers. This initiative demonstrates how targeted technological and operational innovations can dramatically improve public health outcomes during crises. The project's focus on shared infrastructure and adaptive trial designs could serve as a model for future pandemic preparedness efforts.",
+    "summary_zh": "项目Covalence通过提供全面的运营支持加速COVID-19临床试验，解决了传统临床试验缓慢昂贵的瓶颈问题。通过远程数据收集、远程医疗等支持，使试验能在社区或家庭中进行，减轻医疗系统压力。创建平台研究的主协议促进了研究者之间的合作。该项目展示了如何通过定向技术和运营创新显著提升公共卫生应对能力。其共享基础设施和适应性试验设计理念或将成为未来疫情应对的典范。",
+    "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials... is one of the highest-leverage ways to get out of it faster.",
+    "best_quote_zh": "科学仍然是走出COVID-19危机的唯一出路。大幅改善临床试验...是加快脱离危机的最具杠杆作用的方式之一。"
   }
 ]
