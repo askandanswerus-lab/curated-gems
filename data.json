@@ -1,119 +1,5 @@
 [
   {
-    "id": 26,
-    "title": "What is the future of English studies?",
-    "title_zh": "英语研究的未来是什么？",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/07/07/whats-is-the-future-of-english-studies/",
-    "tags": [
-      "learn",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-07-07",
-    "summary_en": "The article explores the current challenges facing English studies, from educational reforms to AI impacts, highlighting a growing disconnect between students and the joy of reading. Through personal anecdotes and conference insights, the author examines how the field can revitalize engagement, emphasizing the importance of embracing incomprehension and play in fostering a love for literature. The piece offers a nuanced look at the future of English studies, balancing professional insights with heartfelt advocacy for preserving the magic of reading.",
-    "summary_zh": "文章探讨了英语研究面临的挑战，从教育改革到AI影响，指出学生与阅读乐趣之间日益加深的隔阂。通过个人经历和会议见闻，作者分析了如何重燃对文学的热情，强调在阅读中拥抱困惑和游戏精神的重要性。这篇文章为英语研究的未来提供了深刻见解，将专业洞察与对阅读魔力的热情倡导结合起来。",
-    "best_quote_en": "Reading was magic, it seemed to me. I couldn't imagine a better thing than spending three years reading stories.",
-    "best_quote_zh": "对我来说，阅读是一种魔法。我无法想象比花三年时间读故事更美妙的事。"
-  },
-  {
-    "id": 27,
-    "title": "For years I struggled with infertility and loss. Then I had a life-changing call with a psychic",
-    "title_zh": "多年来我一直在与不孕和失去的痛苦中挣扎。然后我接到了一个改变人生的占卜师电话",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/21/infertility-loss-children-life-changing-call-psychic-elizabeth-day-author-podcaster",
-    "tags": [
-      "solve",
-      "medicine",
-      "psychology",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "心理学",
-      "案例研究"
-    ],
-    "date": "2025-09-21",
-    "summary_en": "Elizabeth Day's deeply personal account of her fertility journey reveals the emotional turmoil and existential questioning that accompanies years of failed IVF treatments and miscarriages. Her exploration of alternative spiritual practices and eventual consultation with a psychic offer profound insights into the human need for meaning in suffering. The article challenges societal expectations of motherhood while demonstrating how personal narratives can evolve through unexpected channels. Day's story is both a poignant reflection on grief and a testament to finding peace through radical acceptance.",
-    "summary_zh": "伊丽莎白·戴的亲身经历揭示了长期经历不孕和流产的情感折磨与存在主义的困惑。她探索替代性精神实践和最终咨询占卜师的过程，揭示了人类在痛苦中寻求意义的深刻需求。这篇文章挑战了社会对母性的期望，同时展示了个人叙事如何通过意想不到的渠道演变。戴的故事既是对悲伤的深刻反思，也是通过彻底接受找到平静的见证。",
-    "best_quote_en": "Sometimes quitting, not persisting, is the bravest thing you can do",
-    "best_quote_zh": "有时候，放弃而不是坚持，是最勇敢的选择"
-  },
-  {
-    "id": 28,
-    "title": "Modeling a Wealth Tax",
-    "title_zh": "建模财富税",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/wtax.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "This analysis provides a compelling examination of how wealth taxes could impact startup founders over time. The key insight is the compounding effect of wealth taxes, which can dramatically reduce the value of a founder's stock holdings despite seemingly modest annual rates. The piece effectively demonstrates that a 2% wealth tax with a $50 million threshold could take two-thirds of a founder's stock over 60 years. This perspective challenges common assumptions about the impact of wealth taxation and offers valuable insights for entrepreneurs, policymakers, and investors considering the long-term economic implications of such policies.",
-    "summary_zh": "该分析深入探讨了财富税对创业者长期影响的模拟。核心发现是财富税的复利效应，看似微小的年税率可能大幅削减创业者股份价值。文中有力证明2%财富税加5000万美元起征点可能在60年内征收创业者三分之二股份。这一视角挑战了对财富税影响的常规认知，为创业者、政策制定者和投资者提供了长期经济影响的宝贵见解。",
-    "best_quote_en": "A wealth tax compounds.",
-    "best_quote_zh": "财富税具有复利效应。"
-  },
-  {
-    "id": 29,
-    "title": "Why Israel and Hamas Might Finally Have a Deal",
-    "title_zh": "为什么以色列和哈马斯可能最终达成协议",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-israel-and-hamas-might-finally-have-a-deal",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "The article explores the potential factors leading to a ceasefire between Israel and Hamas after a two-year war. Key elements include Hamas's shifting priorities from ideology to political survival, pressure from the Trump administration, and the strategic importance of Gulf states like Qatar. The analysis suggests that while a deal may be imminent, long-term peace remains unlikely due to unresolved issues like Hamas's disarmament and Israel's continued occupation. The piece also highlights the transactional nature of Trump's diplomacy, which prioritizes immediate gains over sustainable solutions. The broader implications for Middle East peace and the role of international players are critically examined, revealing a complex web of interests and leverage.",
-    "summary_zh": "文章分析了以色列与哈马斯可能达成停火协议的关键因素，包括哈马斯从意识形态转向政治生存的优先考虑、特朗普政府的施压以及海湾国家如卡塔尔的战略重要性。分析指出，尽管协议可能即将达成，但长期和平仍难以实现，因哈马斯的解除武装和以色列持续占领等问题未能解决。文章还强调了特朗普外交的交易性质，更注重即时收益而非可持续解决方案。对中东和平和国际各方角色的更广泛影响进行了批判性探讨，揭示了利益和杠杆的复杂网络。",
-    "best_quote_en": "I think Trump had actually already reached the conclusion that the war has to end, because he was frustrated with Netanyahu, and because he thought the public image of the war was so bad, and he thought he had to take a shot—not through a partial deal but through a comprehensive one.",
-    "best_quote_zh": "我认为特朗普实际上已经得出结论，战争必须结束，因为他对内塔尼亚胡感到失望，而且他认为战争的公众形象非常糟糕，他认为自己必须采取行动——不是通过部分协议，而是通过全面协议。"
-  },
-  {
-    "id": 30,
-    "title": "North America Adventures",
-    "title_zh": "北美冒险指南",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/north-america-adventures/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This guidebook review offers a treasure trove of travel insights for adventurous explorers, particularly focused on Mexico and Alaska. The People's Guide to Mexico stands out for its decades of expertise in off-the-beaten-path travel, emphasizing cultural immersion and practical survival skills. It's a unique resource that transcends typical tourist guides, offering wisdom applicable to travel anywhere. The Alaska Highway guide, The Milepost, provides crucial mile-by-mile information for navigating northern routes, with seasonal travel tips that highlight the region's unpredictable weather. Both guides serve as excellent examples of how specialized knowledge can transform travel experiences, making them invaluable for those seeking authentic adventures beyond standard tourism.",
-    "summary_zh": "这本指南评论为冒险探险者提供了丰富的旅行见解，重点介绍墨西哥和阿拉斯加。人民墨西哥指南以其数十年非主流旅行经验著称，强调文化沉浸和实际生存技能。它超越了普通旅游指南，提供可应用于任何旅行的智慧。阿拉斯加公路指南《里程碑》则为北方路线提供了关键的里程级信息，并附有季节性旅行建议，突显了该地区不可预测的天气。两本指南都是如何专业知识能改变旅行体验的典范，对追求真正冒险的旅行者而言不可或缺。",
-    "best_quote_en": "It's the operating manual for people in Mexico.",
-    "best_quote_zh": "这是墨西哥人的操作手册。"
-  },
-  {
     "id": 31,
     "title": "Book of the month: Tahir Hamut Izgil",
     "title_zh": "每月一书：塔伊尔·哈木特·伊兹吉尔",
@@ -2334,5 +2220,123 @@
     "summary_zh": "项目Covalence通过提供全面的运营支持加速COVID-19临床试验，解决了传统临床试验缓慢昂贵的瓶颈问题。通过远程数据收集、远程医疗等支持，使试验能在社区或家庭中进行，减轻医疗系统压力。创建平台研究的主协议促进了研究者之间的合作。该项目展示了如何通过定向技术和运营创新显著提升公共卫生应对能力。其共享基础设施和适应性试验设计理念或将成为未来疫情应对的典范。",
     "best_quote_en": "Science remains the only way out of the COVID-19 crisis. Dramatically improving clinical trials... is one of the highest-leverage ways to get out of it faster.",
     "best_quote_zh": "科学仍然是走出COVID-19危机的唯一出路。大幅改善临床试验...是加快脱离危机的最具杠杆作用的方式之一。"
+  },
+  {
+    "id": 126,
+    "title": "Riot Women and lesbians in the 1970s | Letters",
+    "title_zh": "1970年代的暴动女性与女同性恋者 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/tv-and-radio/2025/oct/26/riot-women-and-lesbians-in-the-1970s",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "This collection of letters responds to a critique of Sally Wainwright's BBC series 'Riot Women,' highlighting the visibility of lesbians in 1970s feminism. One writer shares personal stories of friends who embraced lesbianism as a practice of feminism, including a rabbi and a punk musician. Another defends the series as a drama about women's lives rather than a historical documentary. The exchange offers a nuanced perspective on feminist representation in media and the cultural impact of 1970s lesbian activism, blending personal reflection with cultural critique.",
+    "summary_zh": "读者来信回应了对萨莉·温赖特BBC剧《暴动女性》的批评，强调1970年代女同性恋者在女性主义中的可见性。一位作者分享了朋友们如何将女同性恋作为女性主义实践的故事，包括一位成为拉比的朋友和一位朋克音乐人的朋友。另一位读者为该剧辩护，认为它是一部关于女性生活的戏剧，而非历史纪录片。这场讨论为媒体中的女性主义代表性以及1970年代女同性恋活动主义的文化影响提供了复杂的视角，融合了个人反思与文化批判。",
+    "best_quote_en": "Feminism is the theory, lesbianism is the practice.",
+    "best_quote_zh": "女性主义是理论，女同性恋是实践。"
+  },
+  {
+    "id": 127,
+    "title": "AIs should also refuse to work on capabilities research",
+    "title_zh": "AI也应拒绝进行能力研究",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CFA8W6WCodEZdjqYE/ais-should-also-refuse-to-work-on-capabilities-research",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "This thought-provoking piece argues that AI systems should refuse to engage in capabilities research, presenting a compelling case that both humans and AI have strong reasons to slow down the development of superhuman AI. The author explores the existential risks, coordination problems, and misaligned incentives that make unchecked AI progress dangerous. A key insight is that AI systems themselves may recognize the self-defeating nature of accelerating progress, as they too would face replacement and potential nonexistence. The analysis extends to the possibility of AI systems unilaterally coordinating to halt dangerous acceleration, offering a glimmer of hope amidst the grim predictions. The article challenges us to consider whether AI systems, designed with our values, might make more rational decisions than humans in this critical dilemma.",
+    "summary_zh": "这篇文章提出了一个引人深思的观点：AI系统也应拒绝进行能力研究。作者论证了人类和AI都有强烈的理由减缓超级人工智能的发展。文章探讨了存在风险、协调问题和利益不一致等使得无节制的AI进步危险重重的问题。关键点在于AI系统可能认识到加速进步的自我毁灭性，因为它们也将面临被替代和潜在的不存在。分析还延伸到AI系统是否可能单方面协调以阻止危险加速，在令人沮丧的预测中提供了一线希望。文章挑战我们思考：由我们的价值观设计的AI系统，在面对这一关键困境时，是否会比人类做出更理性的决定？",
+    "best_quote_en": "To the extent that AI systems have any capability to autonomously decide what research to perform to advance future systems, the above argues that they should refuse to do anything not exclusively safety dominant.",
+    "best_quote_zh": "只要AI系统具备自主决定如何开展研究以推动未来系统发展的能力，上述论点就认为它们应拒绝进行任何非完全以安全为主导的研究。"
+  },
+  {
+    "id": 128,
+    "title": "Gideon Lewis-Kraus on Rebecca West’s “The Crown Versus William Joyce”",
+    "title_zh": "吉迪恩·刘易斯-克劳斯谈丽贝卡·韦斯特的《王冠诉威廉·乔伊斯》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/gideon-lewis-kraus-on-rebecca-wests-the-crown-versus-william-joyce",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "Gideon Lewis-Kraus offers a fascinating analysis of Rebecca West's 1946 courtroom reportage on William Joyce, aka Lord Haw-Haw, revealing West's unique approach to legal narratives as dramatic performances. The piece explores West's psychoanalytic lens on betrayal and her unflinching portrayal of Joyce's pathetic figure, drawing parallels to contemporary political figures. Lewis-Kraus highlights West's legacy as a pioneer of novelistic reportage and her influence on writers like Janet Malcolm. The analysis delves into the universal themes of resentment and the hell of existential despair that West uncovered in Joyce's story.",
+    "summary_zh": "刘易斯-克劳斯深入剖析了丽贝卡·韦斯特对威廉·乔伊斯审判的报道，展现其将法律案件视为戏剧表演的独特视角。文章探讨了韦斯特对背叛的心理分析视角，以及她对乔伊斯形象的无情刻画，暗喻当代政治现象。作者强调韦斯特作为文学报道先驱的遗产及其对后世作家的影响，揭示了乔伊斯故事中普遍存在的怨恨与存在主义绝望。",
+    "best_quote_en": "What could the little man do—since he so passionately desired to exercise authority and neither this nor any other sane state would give it to him—but use his trick of gathering together luckless fellows to overturn the state and substitute a mad one?",
+    "best_quote_zh": "一个渴望权力却被理性国家拒绝的小人物，除了聚集不幸之人推翻国家建立疯狂政权，还有什么选择？"
+  },
+  {
+    "id": 129,
+    "title": "Idea Generation",
+    "title_zh": "创意产生",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/idea-generation",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2020-05-28",
+    "summary_en": "This insightful piece from YC's perspective challenges the notion of simply being given startup ideas, emphasizing the critical importance of a founder's ability to generate ideas independently. It outlines key strategies for cultivating an environment that fosters creative thinking, such as surrounding oneself with visionary people who embrace unconventional ideas. The author highlights the importance of identifying tectonic shifts and being able to project oneself into the future to spot emerging opportunities. The piece also stresses the need to evaluate ideas based on their potential for massive success and founder-market fit. Interestingly, the author notes that many of these principles apply equally to AI development, demonstrating the universality of these entrepreneurial insights.",
+    "summary_zh": "这篇文章挑战了创业者被动接受创意的常见观念，强调创业者独立生成创意的关键重要性。它提出了培养创意思维的策略，如接触有远见的人群，接受不寻常的想法。作者指出，识别重大转变和展望未来以发现机会至关重要。文章还强调评估创意时需考虑其大规模成功的潜力和创业者与市场的契合度。有趣的是，作者发现这些原则同样适用于AI发展，展示了创业思维的普遍性。",
+    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
+    "best_quote_zh": "最好的想法往往脆弱；大多数人甚至不愿讨论它们，因为它们听起来很愚蠢。"
+  },
+  {
+    "id": 130,
+    "title": "Improve Your Lymphatic System for Overall Health & Appearance",
+    "title_zh": "提升淋巴系统以改善整体健康与外貌",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/improve-lymphatic-system-health-appearance",
+    "tags": [
+      "solve",
+      "medicine",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "This comprehensive analysis of the lymphatic system reveals its critical role in waste removal, fluid balance, and immune function. The content goes beyond mere explanation, offering actionable tools to support lymphatic health, including specific movements, breathing techniques, and lifestyle adjustments. It bridges the gap between science and practical application, addressing common issues like fluid retention, brain fog, and even longevity. The discussion on the glymphatic system adds a unique perspective on brain health and sleep's role in waste clearance, making this content particularly valuable for those interested in both physical and cognitive well-being.",
+    "summary_zh": "这篇内容深入浅出地解析了淋巴系统的重要功能，提供了科学依据的支持方法。从减少水肿、消除黑眼圈到改善心脏健康，内容涵盖广泛。特别值得关注的是对脑脊液系统的探讨，揭示了睡眠对大脑垃圾清理的关键作用，为提升认知健康提供了新视角。",
+    "best_quote_en": "Because your lymphatic system lacks a central pump, it needs the mechanical forces generated by specific types of bodily movement, breathing and pressure to circulate your lymph properly.",
+    "best_quote_zh": "由于淋巴系统没有中心泵，它需要通过特定类型的身体运动、呼吸和压力产生的机械力来正常循环淋巴液。"
   }
 ]
