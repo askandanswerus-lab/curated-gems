@@ -1,119 +1,5 @@
 [
   {
-    "id": 36,
-    "title": "Book of the month: Julian Maka’a",
-    "title_zh": "本月好书：朱利安·马卡亚",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/05/29/book-of-the-month-julian-makaa/",
-    "tags": [
-      "update",
-      "education",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2025-05-29",
-    "summary_en": "Julian Maka'a's 'Is Anyone Out There? And Other Stories' offers a rare glimpse into contemporary Solomon Islands life through the lens of its self-published author. The collection's frank exploration of sexual health stigmas and educational challenges reveals both the universality of human experiences and the unique cultural context of the Pacific Islands. While the book presents editorial challenges that may distract Western readers, it serves as a vital bridge between cultures, showcasing how literature can challenge our assumptions about storytelling norms. Maka'a's work stands as a testament to the power of self-expression in underrepresented regions, inviting readers to engage with perspectives that might otherwise remain unseen.",
-    "summary_zh": "朱利安·马卡亚的《有人在吗？及其他故事》通过自出版的方式，为我们展现了所罗门群岛当代生活的罕见视角。这部作品直白地探讨了性健康的污名和教育挑战，既体现了人类经验的普遍性，也展现了太平洋岛屿的独特文化背景。尽管书中存在可能分散西方读者注意力的编辑问题，但它却是跨文化交流的重要桥梁，挑战了我们对叙事规范的固有认知。马卡亚的作品见证了边缘地区自我表达的力量，邀请读者探索那些原本可能被忽视的视角。",
-    "best_quote_en": "'The themes and general messages [of the stories] are different and varied, but the one thing that is common is they reflect what life is like in Solomon Islands.'",
-    "best_quote_zh": "这些故事的主题和一般信息各不相同，但有一点是共同的，就是它们反映了所罗门群岛的生活。"
-  },
-  {
-    "id": 37,
-    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
-    "title_zh": "《铁娘子们》影评：矿工大罢工示威线上的女性故事",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "Iron Ladies is a powerful documentary that shines a light on the often overlooked role of women during the 1984-85 UK miners' strike. The film captures the raw energy and political awakening of working-class women who defied societal expectations to support their communities. Their stories challenge the traditional narrative of the strike, revealing how activism transformed their lives. The documentary serves as both an inspiring historical account and a reminder of the enduring impact of grassroots movements. It's a must-watch for those interested in labor history, feminism, and political activism.",
-    "summary_zh": "《铁娘子们》生动记录了1984-85年英国矿工大罢工中的女性故事，揭示了她们在历史中的关键作用。这些普通女性打破社会期待，通过行动支持罢工，最终获得自我解放。影片不仅是对历史的回顾，更是对草根运动力量的致敬。值得关注的不仅是罢工本身，更是这些女性如何从家庭主妇转变为政治活动家的转变过程。",
-    "best_quote_en": "\"We were just women who wanted to know how to feed their kids.\"",
-    "best_quote_zh": "“我们只是想知道如何养活孩子的普通女性。”"
-  },
-  {
-    "id": 38,
-    "title": "Orthodox Privilege",
-    "title_zh": "正统特权",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/orth.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This thought-provoking essay explores the concept of 'orthodox privilege' - the inability of conventional thinkers to recognize that unorthodox truths may exist. The author argues that throughout history, there have always been true statements that could get one in trouble, and our time is likely no exception. This privilege is particularly pernicious as it's not overcome by mere education but requires cultivating independent thought. The piece suggests that politeness might be the key to bridging this divide, urging us to take others' experiences at face value even when we can't personally perceive them.",
-    "summary_zh": "这篇文章深刻探讨了“正统特权”现象，即传统思维者无法意识到非主流真理的存在。作者指出历史上始终存在说真话可能招致麻烦的情况，当代社会也不例外。这种特权尤为顽固，单纯学习无法消除，需要培养独立思考能力。文章建议我们以礼相待，即使无法亲身感受他人所言，也应尊重他们的体验。",
-    "best_quote_en": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment.",
-    "best_quote_zh": "很少有人能以平常心表达与社会偏见不同的观点。"
-  },
-  {
-    "id": 39,
-    "title": "Who Can Lead the Democrats?",
-    "title_zh": "谁能领导民主党？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/who-can-lead-the-democrats",
-    "tags": [
-      "analyze",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Kamala Harris's memoir '107 Days' offers an unfiltered look at her brief 2024 presidential campaign, revealing personal struggles and political challenges. While her account highlights the misogyny and racism she faced, it also presents a divisive portrait of intra-party dynamics. Harris's criticism of potential running mates, staff, and even President Biden creates a tone that feels more sour than humanizing. The book's failure to unite Democrats raises questions about Harris's leadership potential. Her reflections often seem shallow, deflecting responsibility while offering little strategic insight. The memoir ultimately underscores the fractures within the Democratic Party and the urgent need for more unifying leadership in the face of Trump's dangerous presidency.",
-    "summary_zh": "卡马拉·哈里斯的回忆录《107天》揭露了2024年总统竞选的个人挑战与政治困境。尽管她面对性别歧视和种族主义，但对潜在竞选搭档、工作人员及拜登的批评，使作品显得尖酸而非亲和。这本书未能凝聚民主党，反而凸显了党内分歧。哈里斯的反思常显肤浅，推卸责任，缺乏战略深度。最终，回忆录强调了民主党内部的裂痕，以及在特朗普危险统治下，党需要更团结领导的迫切性。",
-    "best_quote_en": "We can’t turn on each other.",
-    "best_quote_zh": "我们不能互相攻击。"
-  },
-  {
-    "id": 40,
-    "title": "What’s in my NOW? — Colby Black, P.I.",
-    "title_zh": "我的现在里有什么？ — Colby Black, P.I.",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-colby-black-p-i/",
-    "tags": [
-      "inspire",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Colby Black's 'What's in my NOW?' offers a refreshing mix of practical tools and philosophical insights. The physical tools section reveals clever solutions for everyday problems, like using an affordable OBD II scanner to avoid expensive car repairs. The digital tools highlight productivity hacks that blend work and personal life seamlessly. Most intriguing is the 'invisible' section with its profound quote about balancing short-term and long-term greed, which adds depth to the otherwise practical content. This blend of actionable advice and thought-provoking wisdom makes the piece valuable for both problem-solvers and reflective readers.",
-    "summary_zh": "Colby Black的“我的现在里有什么？”结合了实用工具和深刻见解，别具一格。物理工具部分展示了巧妙的日常问题解决方案，比如使用便宜的OBD II扫描仪避免昂贵的汽车维修。数字工具突出了工作与个人生活融合的生产力黑客。最引人深思的是“无形”部分，引用了关于短期与长期贪婪平衡的金句，为实用内容增添了深度。这种实用建议与深刻思考的结合，使内容对解决问题者和思考型读者都有价值。",
-    "best_quote_en": "Never let short term greed get in the way of long term greed.",
-    "best_quote_zh": "不要让短期的贪婪妨碍长期的贪婪。"
-  },
-  {
     "id": 41,
     "title": "RLF Collected podcast",
     "title_zh": "RLF收录的播客",
@@ -2342,5 +2228,123 @@
     "summary_zh": "这篇文章汇集了各种草坪护理工具的用户评测，为其有效性和独特功能提供了实用见解。DR修剪割草机因其混合设计而脱颖而出，兼具割草和修剪功能，尤其适合狭窄空间。Brill推式割草机因其环保特性和人体工学设计受到赞扬，尽管使用起来需要更多体力。Cyclone树叶收集机在大面积落叶清理中表现出色，而Stihl FSE 60修剪机以其动力和安静运行著称。欧洲式镰刀作为燃油修剪机的意外有效替代品，强调人体工学和安静操作。这些评测集体展示了不同工具如何解决特定的草坪护理问题，提供实用解决方案和环保考虑。",
     "best_quote_en": "Nothing else comes close in keeping vegetation under control, even in tight spots like under fences.",
     "best_quote_zh": "没有其他工具能像它一样有效地控制植被生长，即使在狭窄的地方如栅栏下。"
+  },
+  {
+    "id": 136,
+    "title": "Exclamation marks! Why do women use them three times as much as men?",
+    "title_zh": "感叹号！为什么女性使用频率是男性的三倍？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/oct/28/exclamation-marks-why-do-women-use-them-three-times-as-much-as-men",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This article explores the fascinating gender disparity in exclamation mark usage, revealing how women employ them three times more frequently than men. The research suggests this stems from societal pressures to appear warm and agreeable, as neutral text can be misinterpreted as hostile. While exclamation marks may make women seem more approachable, they also risk being perceived as less analytically skilled. The piece highlights how digital communication has amplified this phenomenon, with women feeling compelled to overcompensate for potential perceived coldness. It's a compelling examination of how punctuation reflects and reinforces gender stereotypes in our digital age.",
+    "summary_zh": "这篇文章探讨了感叹号使用上男女差异，女性使用频率是男性的三倍。研究显示，这源于社会对女性友好形象的要求。虽然感叹号能让人显得更热情，但也可能被认为缺乏分析能力。在数字化沟通中，这种现象更加突出。女性为了避免被视为冷漠，不得不过度使用感叹号。这揭示了标点符号如何反映和强化性别刻板印象。",
+    "best_quote_en": "While people who use exclamation marks are often thought of as friendly, they are also perceived to be less skilled at analytical thinking!",
+    "best_quote_zh": "虽然使用感叹号的人常被认为友好，但也会被认为分析能力较弱！"
+  },
+  {
+    "id": 137,
+    "title": "Jessica Livingston",
+    "title_zh": "杰西卡·利文斯顿",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/jessica.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This profile of Jessica Livingston reveals the often-overlooked but pivotal role she played in shaping Y Combinator. The piece highlights her unique ability to judge character, dubbed 'Social Radar,' which was crucial in selecting successful and ethical founders. The article emphasizes how her authenticity and family-like culture became YC's core product, creating an environment that fostered trust and collaboration. Livingston's aversion to attention, despite her immense contributions, is explored, including her reluctance to engage in public debates, even when facing accusations of sexism. The author argues that her insights into startup founders are unparalleled and that her work has significant economic implications. The piece serves as a call to recognize the often-silent but profoundly impactful contributions of women like Livingston in the tech world.",
+    "summary_zh": "这篇文章揭示了杰西卡·利文斯顿在Y Combinator发展中扮演的关键但常被忽视的角色。她拥有独特的判断人格的能力，被称作“社交雷达”，这在筛选成功且道德高尚的创始人方面至关重要。文章强调她的真诚和家庭式文化成为YC的核心产品，营造了信任与合作的环境。尽管她的贡献巨大，利文斯顿却极度回避公众关注，即使面对性别歧视的指控也未公开回应。作者认为她对创业者的洞察无与伦比，其工作对经济增长具有重要意义。文章呼吁人们认识到像利文斯顿这样的女性在科技领域的默默贡献。",
+    "best_quote_en": "The qualities of the founders are the best predictor of how a startup will do. And startups are in turn the most important source of growth in mature economies.",
+    "best_quote_zh": "创始人的素质是预测初创公司成败的最佳指标。而初创公司反过来又是成熟经济体中最重要的增长来源。"
+  },
+  {
+    "id": 138,
+    "title": "How Do We Evaluate the Quality of LLMs' Mathematical Responses?",
+    "title_zh": "我们如何评估大型语言模型在数学问题上的回答质量？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/AEkgYvS6v3ysg8HSf/how-do-we-evaluate-the-quality-of-llms-mathematical",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This comprehensive study delves into the complex evaluation of LLMs' mathematical capabilities, moving beyond simple correctness to analyze reasoning processes. The research identifies three common error types (construction, conceptual, and contradiction errors) and proposes a sophisticated five-dimensional evaluation framework. Multiple Correspondence Analysis reveals fascinating patterns, showing that models have distinct performance profiles rather than following a simple ranking. The study highlights domain-specific challenges, with geometry proving particularly difficult due to spatial reasoning limitations. The authors emphasize the need for validated evaluation instruments and suggest advanced methodologies like Factorial Analysis and Structural Equation Modeling for future research. This work represents a significant step toward understanding and improving AI's mathematical reasoning capabilities.",
+    "summary_zh": "该研究深入探讨了大型语言模型数学能力的评估，超越了简单的正确性判断，分析推理过程。研究发现三种常见错误类型（构造、概念和矛盾错误），并提出五维评估框架。多重对应分析揭示了模型具有独特的性能特征，而不仅仅是简单排名。研究突显了领域特定挑战，几何问题尤其困难。作者强调需要验证评估工具，并建议采用高级方法如因子分析和结构方程模型。该工作是理解和提升AI数学推理能力的重要进展。",
+    "best_quote_en": "Quality is multidimensional: Excellence across criteria correlates strongly; so does deficiency",
+    "best_quote_zh": "质量是多维度的：在各个标准上的卓越表现高度相关；缺陷也是如此"
+  },
+  {
+    "id": 139,
+    "title": "The Sports-Betting Disaster",
+    "title_zh": "体育博彩的灾难",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-sports-betting-disaster",
+    "tags": [
+      "solve",
+      "legal",
+      "personal-finance",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "法律法规",
+      "个人理财",
+      "未来预测"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "The article explores the alarming rise of sports betting scandals in professional leagues, particularly focusing on the NBA. It highlights how the proliferation of 'prop' bets—wagers on individual player performances—has created unprecedented opportunities for game manipulation. The piece examines recent cases involving players like Terry Rozier and Malik Beasley, revealing how easy it has become for athletes to influence outcomes, especially with access to insider information. The author argues that while leagues claim legalization helps maintain integrity, the increasing number of scandals suggests otherwise. The article also critiques the effectiveness of integrity monitors, noting their conflicts of interest and the challenges in detecting suspicious activity in major games. Ultimately, it questions whether the financial benefits of legalized betting outweigh the risks to sports' credibility.",
+    "summary_zh": "本文探讨了体育博彩丑闻在职业联赛中的 alarming上升趋势，重点关注NBA。它揭示了“投注”下注——针对个别球员表现的下注——如何创造了前所未有的操纵比赛的机会。文章研究了特里·罗齐尔和马利克·比斯利等球员的最新案例，揭示了运动员如何轻易地影响结果，特别是在掌握内部信息的情况下。作者认为，尽管联赛声称合法化有助于维护公平性，但不断增加的丑闻表明情况并非如此。文章还批评了完整性监测者的有效性，指出其利益冲突和在重大比赛中发现可疑活动的困难。最终，它质疑了合法博彩的财务收益是否超过了对体育信誉的风险。",
+    "best_quote_en": "It’s just another added temptation that’s right in your face at all times that I don’t want the guys to deal with.",
+    "best_quote_zh": "这只是另一个不断出现在你面前的诱惑，我不希望球员们去应对。"
+  },
+  {
+    "id": 140,
+    "title": "Print Workshop / Smart About Sharks",
+    "title_zh": "印刷工作坊 / 聪明的鲨鱼知识",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/print-workshop-smart-about-sharks/",
+    "tags": [
+      "guide",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This content presents two distinct books, each offering unique value. Print Workshop serves as a comprehensive guide to printmaking for both beginners and experienced artists, with practical projects and studio setup advice. Its strength lies in making complex techniques accessible and inspiring creativity. Smart About Sharks, meanwhile, is an engaging children's book packed with fascinating facts about sharks, appealing to both kids and adults. The book's design and information density make it an excellent educational resource. Both reviews highlight the tactile and visual appeal of physical books, emphasizing their enduring value in a digital age.",
+    "summary_zh": "这篇内容介绍了两本迥然不同的书籍。印刷工作坊是一本适合初学者和有经验艺术家的印刷技术指南，包含实用项目和工作室设置建议，将复杂技术简化为易于理解的步骤。聪明的鲨鱼知识则是一本充满奇妙鲨鱼知识的儿童读物，设计精美且信息丰富，既适合孩子又能吸引成人。两本书都突出了实体书籍的触觉和视觉魅力，强调它们在数字时代的持久价值。",
+    "best_quote_en": "With step-by-step instructions, project templates, and illustrated project and resource guides, this book serves as both an exhaustive guide for the DIY-er just starting out in printmaking, as well as a jumping-off point for artists who need a nudge toward new ideas.",
+    "best_quote_zh": "这本书包含分步指导、项目模板和图示项目资源指南，既是印刷初学者的全面指南，也是需要新创意灵感的艺术家的起点。"
   }
 ]
