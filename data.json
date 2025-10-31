@@ -1,121 +1,5 @@
 [
   {
-    "id": 41,
-    "title": "RLF Collected podcast",
-    "title_zh": "RLF收录的播客",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/05/13/rlf-collected-podcast/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-05-13",
-    "summary_en": "The RLF Collected podcast offers a refreshing perspective on contemporary writing by weaving archival recordings with new conversations. Hosted by a diverse team, it explores the creative process with warmth and honesty, featuring both established and emerging voices. The podcast challenges media stereotypes about writers, offering nuanced discussions that resonate with global audiences. Particularly noteworthy are episodes that address cultural expectations in publishing and the intersection of identity with creative expression, making it a valuable resource for writers and literature enthusiasts alike.",
-    "summary_zh": "RLF收录的播客通过融合档案录音与新对话，为当代写作提供了全新视角。由多元团队主持，它以真诚和热情探讨创作过程，涵盖既有作家与新锐声音。该播客挑战媒体对作家的刻板印象，提供富有深度的讨论，吸引全球听众。尤其值得关注的是关于出版文化期待与身份认同与创作交织的内容，使其成为作家与文学爱好者的宝贵资源。",
-    "best_quote_en": "The conversations present a lively, funny, surprising and often moving account of what it means to be a writer in the early twenty-first century.",
-    "best_quote_zh": "这些对话生动、幽默、令人惊喜，常常感人至深地描述了二十一世纪初作家的处境。"
-  },
-  {
-    "id": 42,
-    "title": "Jess Cartner-Morley: ladylike fashion is back, but it’s been given a modern twist",
-    "title_zh": "杰斯·卡特纳-莫利：优雅女性风格回归，但被赋予了现代化的转变",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/08/jess-cartner-morley-ladylike-fashion-is-back-but-its-been-given-a-modern-twist",
-    "tags": [
-      "update",
-      "design",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Jess Cartner-Morley's analysis of ladylike fashion reveals a sophisticated resurgence that blends vintage charm with modern practicality. The key innovation is balancing delicate elements with sturdy pieces like blazers or chunky knits, creating a look that's both polished and grounded. This iteration embraces playful colors, polka dots, and intentional mismatches that prevent the aesthetic from feeling dated. The author emphasizes that ladylike fashion, often underestimated for its quiet demeanor, actually embodies a subtle power through good posture and confident presentation. The Miu Miu 2025 collection serves as inspiration for how to modernize this classic style, proving its enduring appeal while making it relevant for contemporary wardrobes.",
-    "summary_zh": "杰斯·卡特纳-莫利分析了优雅女性风格的回归，将复古魅力与现代实用性结合。关键创新在于用西装或厚实的针织品平衡精致元素，打造既优雅又稳重的风格。这一版本采用活泼的色彩、波点图案和故意不搭配的风格，避免了过时的感觉。作者强调，看似温柔的优雅风格实际上蕴含着通过良好姿态和自信展现的隐性力量。Miu Miu 2025系列为如何现代化经典风格提供了灵感，证明其持久魅力并使其适合当代衣柜。",
-    "best_quote_en": "Ladylike is often underestimated as a vibe because its tone is softly spoken… but it’s no pushover.",
-    "best_quote_zh": "优雅风格常被低估，因为它的语气温和…但它绝不是好欺负的。"
-  },
-  {
-    "id": 43,
-    "title": "Coronavirus and Credibility",
-    "title_zh": "冠状病毒与可信度",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/cred.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This insightful piece examines how the coronavirus pandemic has exposed the lack of credibility among certain public figures who made overly confident predictions about the virus's severity. The author observes that these individuals, accustomed to making vague or long-term predictions that are easily forgotten, were unprepared for the rapid and clear outcomes of an epidemic. The pandemic serves as a stark litmus test for credibility, revealing who truly understands the subjects they discuss. The author emphasizes the importance of remembering these lessons, as such clarity in evaluating credibility is rare. This reflection offers valuable insights into the nature of expertise and accountability in public discourse, particularly in times of crisis.",
-    "summary_zh": "文章深刻剖析了新冠疫情如何揭露某些公众人物在疫情严重性预测上的轻率。作者指出，这些人习惯于做模糊或长期预测，习惯了模糊处理，未曾料想疫情会如此迅速且明确地验证预测。疫情成为评判可信度的严酷考验，暴露了谁真正理解所讨论的议题。作者强调记住这一教训的重要性，因为如此清晰的可信度评估机会极为罕见。这份反思为危机时期的专业性与问责提供了宝贵洞见。",
-    "best_quote_en": "It's only when the tide goes out that you learn who's been swimming naked.",
-    "best_quote_zh": "只有等潮水退去，才能看出谁在裸泳。"
-  },
-  {
-    "id": 44,
-    "title": "Trump, the Self-Styled “President of PEACE” Abroad, Makes War at Home",
-    "title_zh": "自称海外“和平总统”的特朗普在国内发动战争",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-the-self-styled-president-of-peace-abroad-makes-war-at-home",
-    "tags": [
-      "update",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This article presents a stark contrast between Trump's self-proclaimed role as a global peacemaker and his domestic rhetoric of war against fellow Americans. While Trump has indeed brokered some ceasefire agreements and claims to have ended multiple conflicts, the article highlights his tendency for exaggeration and factual inaccuracies. The recent Gaza ceasefire deal, while significant, is framed as a political move rather than a genuine peace achievement. More striking is Trump's simultaneous escalation of tensions domestically, deploying National Guard troops to cities he characterizes as war zones. The cognitive dissonance between his international peace rhetoric and domestic war-like language reveals a president more focused on political theater than substantive peacebuilding or constitutional governance.",
-    "summary_zh": "特朗普自称海外“和平总统”，却在国内制造战争气氛，这种强烈反差令人深思。他虽然达成了部分停火协议，但夸大其词的倾向明显。加沙停火协议虽有意义，更多是政治操作。更令人担忧的是他对国内城市动用国家警卫队，将其描述为战争区域。国际和平与国内战争言论的矛盾，揭示了特朗普更关注政治表演而非实际和平建设和宪法治理。",
-    "best_quote_en": "Those groups of academics and élites that are sitting in Norway, that board of people that decides it, they need to give President Trump the Nobel Peace Prize.",
-    "best_quote_zh": "那些坐在挪威的学者和精英，那些决定者，他们需要将诺贝尔和平奖授予特朗普总统。"
-  },
-  {
-    "id": 45,
-    "title": "Size of Africa/Office Mandate Realities/Cheaper Mexico Flights",
-    "title_zh": "非洲真实大小/返岗令现实/墨西哥便宜机票",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/size-of-africa-office-mandate-realities-cheaper-mexico-flights/",
-    "tags": [
-      "update",
-      "politics",
-      "data-science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据科学",
-      "未来预测"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This content offers a fascinating mix of geographical insight, workplace trends, and travel hacks. The piece on Africa's true size challenges our distorted perceptions of global geography, revealing how cartographic misrepresentations obscure the continent's vastness. The analysis of return-to-office mandates exposes the gap between corporate policies and actual employee behavior, highlighting the growing resistance to traditional workplace models. The travel hack about Mexico flights demonstrates creative problem-solving for budget-conscious travelers. The government shutdown warning adds a timely political dimension. Together, these segments create an engaging, eclectic mix of information that appeals to geographically curious minds, remote work advocates, and savvy travelers.",
-    "summary_zh": "这篇内容结合了地理洞见、工作趋势和旅行技巧。非洲真实大小部分挑战了我们对全球地理的扭曲认知，揭示了地图误导下大陆真实规模。返岗令分析揭示了企业政策与员工实际行为的差距，凸显了对传统工作模式的日益抵制。墨西哥机票技巧展示了预算旅行者的创造性解决方案。政府停摆警告增添了时政维度。这些片段共同构成了对地理好奇者、远程工作倡导者和精明旅行者都有吸引力的多元化信息混合体。",
-    "best_quote_en": "It's hard to fathom how huge the continent of Africa is until we see a visualization that overlays other countries onto it.",
-    "best_quote_zh": "直到看到将其他国家叠加其上的可视化图表，才能真正领悟非洲大陆的庞大尺度。"
-  },
-  {
     "id": 46,
     "title": "Blog tour: Where Snowbirds Play",
     "title_zh": "博客巡回推广：雪鸟戏耍之地",
@@ -2346,5 +2230,121 @@
     "summary_zh": "这篇内容介绍了两本迥然不同的书籍。印刷工作坊是一本适合初学者和有经验艺术家的印刷技术指南，包含实用项目和工作室设置建议，将复杂技术简化为易于理解的步骤。聪明的鲨鱼知识则是一本充满奇妙鲨鱼知识的儿童读物，设计精美且信息丰富，既适合孩子又能吸引成人。两本书都突出了实体书籍的触觉和视觉魅力，强调它们在数字时代的持久价值。",
     "best_quote_en": "With step-by-step instructions, project templates, and illustrated project and resource guides, this book serves as both an exhaustive guide for the DIY-er just starting out in printmaking, as well as a jumping-off point for artists who need a nudge toward new ideas.",
     "best_quote_zh": "这本书包含分步指导、项目模板和图示项目资源指南，既是印刷初学者的全面指南，也是需要新创意灵感的艺术家的起点。"
+  },
+  {
+    "id": 141,
+    "title": "Book of the month: Bachtyar Ali",
+    "title_zh": "本月书籍推荐：巴赫蒂亚尔·阿里",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/10/30/book-of-the-month-bachtyar-ali/",
+    "tags": [
+      "update",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This month's book recommendation, 'The Last Pomegranate Tree' by Kurdish writer Bachtyar Ali, is a profound exploration of human resilience and connection. The novel follows Muzafar, a peshmerga fighter released after 21 years in prison, as he seeks to reconnect with his long-lost son. The story weaves magical realism with deep philosophical insights about love, loss, and our interconnectedness with the world. Ali's exquisite prose and the translator Kareem Abdulrahman's masterful work create a narrative that transcends cultural boundaries. The book challenges Western literary norms while offering universal truths about suffering and compassion. It's a powerful reminder that extraordinary voices can be found in unexpected places, even in small towns like Folkestone where the publisher Afsana Press operates.",
+    "summary_zh": "本月推荐的《最后一棵石榴树》展现了人类韧性与联结的深刻探索。故事讲述了被囚禁21年后获释的库尔德战士穆扎法，寻找失散多年的儿子的旅程。阿里用华丽的文笔和哲思，将魔幻现实与对爱与失去的思考交织。这部作品挑战西方文学常规，却传递普世真理。它提醒我们，非凡的声音可能出现在意想不到的地方，如英国小镇福克斯通的Afsana Press出版社。",
+    "best_quote_en": "'A person is a star that does not fall alone. Who knows where the echo will reverberate when we leave this earth?'",
+    "best_quote_zh": "人如星辰，坠落时不会孤单。我们离开尘世后，回声会在何处回荡？或许某天有人会从我们的灰烬中重生，发现自己被我们坠落的火焰灼伤。"
+  },
+  {
+    "id": 142,
+    "title": "Jess Cartner-Morley: this season, your jeans should be stiff, smart and straight",
+    "title_zh": "杰斯·卡特纳-莫利：本季度，你的牛仔裤应该是僵硬的、聪明的和直筒的",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/29/jess-cartner-morley-this-season-jeans-trend-stiff-smart-straight",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "This article challenges the conventional notion that jeans are merely casual wear, presenting them as versatile pieces capable of elevating one's style for various occasions. The author, Jess Cartner-Morley, argues that with the right styling—such as straight cuts, tailored fits, and strategic accessories like blazers and leather belts—jeans can exude sophistication suitable for both office settings and fine dining. The piece highlights the importance of fabric rigidity, proper fit, and intentional layering to create a polished look. It also touches on the psychological aspect of fashion, suggesting that the juxtaposition of denim with structured garments can radiate confidence. The article concludes by advocating for jeans as a smart, easy choice for any occasion, even referencing Julia Roberts' red carpet appearance to underscore its point.",
+    "summary_zh": "本文颠覆了牛仔裤仅适合休闲的传统观念，展示了通过正确搭配，牛仔裤可以成为各种场合的时尚单品。作者杰斯·卡特纳-莫利认为，选择直筒版型、合身剪裁，并搭配西装外套和皮带等配饰，可以让牛仔裤显得精致得体，适合办公或约会。文章强调了面料的挺括度、合身度和层次感在穿搭中的重要性。此外，还探讨了时尚的心理学层面，指出牛仔裤与结构性服装的搭配能传递自信。最终，文章以朱莉娅·罗伯茨的红毯造型为例，建议牛仔裤是任何场合的智慧选择。",
+    "best_quote_en": "A blazer is to jeans what lipstick is to a bare face. The juxtaposition makes the look feel deliberate and intentional, which radiates confidence.",
+    "best_quote_zh": "西装外套之于牛仔裤，如同口红之于素颜。这种对比让整体造型显得有意识、有目的，从而散发出自信。"
+  },
+  {
+    "id": 143,
+    "title": "A Way to Detect Bias",
+    "title_zh": "检测偏见的方法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/bias.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This insightful piece introduces a groundbreaking method for detecting bias in selection processes without needing information about the applicant pool. The core idea is that if certain groups must perform better to be selected, their subsequent performance will reveal the bias. The author illustrates this with the surprising example of venture capital firms potentially being biased against female founders, citing First Round Capital's unintentional study showing female-founded startups outperforming others by 63%. This technique has profound implications for fairness in hiring, funding, and other selection processes, and the author predicts its increased use as data becomes more accessible. The analysis challenges conventional wisdom and offers a practical, data-driven approach to uncovering systemic biases.",
+    "summary_zh": "这篇文章提出了一种创新的偏见检测方法，无需了解申请者信息即可识别选择过程中的偏见。核心思想是：如果某些群体需要更优秀才能被选中，那么他们的后续表现就会揭露偏见。作者以创投公司可能存在的性别偏见为例，引用First Round Capital的研究显示，女性创始人领导的初创企业表现优于男性创始人63%。这种方法对招聘、融资等选择过程的公平性具有深远影响，作者预测随着数据的普及，这种技术将被更广泛应用。这篇分析挑战了常规认知，提供了数据驱动的偏见识别方法。",
+    "best_quote_en": "This is not just a heuristic for detecting bias. It's what bias means.",
+    "best_quote_zh": "这不仅是一个检测偏见的启发式方法，这正是偏见的含义。"
+  },
+  {
+    "id": 144,
+    "title": "Introducing Project Telos: Modeling, Measuring, and Intervening on Goal-directed Behavior in AI Systems",
+    "title_zh": "介绍项目泰洛斯：建模、测量和干预AI系统的目标导向行为",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/WHbDLytjFZrMSJsL2/introducing-project-telos-modeling-measuring-and-intervening-1",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "Project Telos represents a groundbreaking effort to develop a methodological framework for detecting and measuring goals in AI systems. The project addresses a critical gap in AI alignment research by focusing on the challenge of identifying which goals an AI system is pursuing and to what extent. The team combines behavioral assessments with interpretability techniques to build confidence in claims of goal-directedness. Early experiments in GridWorld environments reveal surprising complexities, highlighting the need for robust testing methodologies. This work has significant implications for AI safety, potentially providing empirical grounding for the alignment problem and a practical risk assessment toolkit for frontier models. The interdisciplinary approach, drawing from philosophy, psychology, and economics, positions Project Telos as a pioneering effort in understanding AI agency.",
+    "summary_zh": "泰洛斯项目旨在建立一种方法框架，用于检测和测量AI系统中的目标。该项目解决了AI对齐研究中一个关键问题：如何识别AI系统正在追求的目标及其程度。团队结合行为评估和可解释性技术，以增强目标导向行为的可信度。在GridWorld环境中的初步实验揭示了意想不到的复杂性，凸显了需要强大的测试方法。这一工作对AI安全具有重要意义，有望为对齐问题提供经验基础，并为前沿模型提供实用的风险评估工具包。该项目的跨学科方法，融合了哲学、心理学和经济学，使其成为理解AI能动性的开创性尝试。",
+    "best_quote_en": "If we are going to solve [the alignment problem] in full generality, we need to be able to say (with confidence) which goal(s) a given AI system is pursuing, and to what extent it is pursuing those goals.",
+    "best_quote_zh": "如果我们要全面解决对齐问题，我们需要能够确信地指出给定的AI系统正在追求哪些目标，以及它在多大程度上追求这些目标。"
+  },
+  {
+    "id": 145,
+    "title": "The Trump Outrages That Matter Most",
+    "title_zh": "特朗普最值得关注的丑闻",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-trump-outrages-that-matter-most",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "Susan B. Glasser's analysis of Trump's most disruptive actions during his second term offers a sobering look at how normalized outrage has become. From razing the White House East Wing to politicizing the military and undermining democratic institutions, the piece highlights the alarming erosion of norms. The most striking insight is how Trump's actions, while shocking individually, collectively reveal a systemic failure of resistance. Experts across political spectrums identify patterns of institutional capture and executive overreach that may have lasting consequences. The article serves as a crucial battle-damage assessment of American democracy under Trump, emphasizing the importance of naming these problems even when solutions seem elusive.",
+    "summary_zh": "格拉斯纳的分析揭示了特朗普第二任期内最具破坏性的行为，从拆除白宫东翼到政治化军队和削弱民主制度，展现了丑闻正常化的惊人程度。最令人警醒的是，个体行为虽令人震惊，但集体暴露了抵抗的系统性失败。跨党派专家识别出制度性掌控和行政权力过度扩张的模式，这可能带来长期影响。文章作为美国民主在特朗普时代的关键战损评估，强调在解决方案看似遥远时，命名这些问题的重要性。",
+    "best_quote_en": "The most surprising—and it shouldn’t have been—was how well intimidation works.",
+    "best_quote_zh": "最令人惊讶的是（本不该如此）——威慑手段竟如此有效。"
   }
 ]
