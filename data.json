@@ -1,121 +1,5 @@
 [
   {
-    "id": 46,
-    "title": "Blog tour: Where Snowbirds Play",
-    "title_zh": "博客巡回推广：雪鸟戏耍之地",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/05/04/blog-tour-where-snowbirds-play/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-05-04",
-    "summary_en": "This reflective piece explores the world of book blogging, highlighting the dedication of international literature reviewers and the impact of blog tours. The author shares personal experiences with blog tours, noting their value in building buzz for new books and connecting authors with readers. The focus shifts to 'Where Snowbirds Play,' a debut novel set in 1990s Palm Beach, praised for its unique perspective on privilege and human nature. The analysis underscores the importance of book bloggers in promoting diverse literature and the transformative process of mentoring authors.",
-    "summary_zh": "这篇文章探讨了书评博主的世界，赞赏国际文学评论者的奉献精神，并分享了博客巡回推广的个人经历。作者指出，博客巡回推广有助于为新书造势并促进作者与读者的互动。重点转向Gina Goldhammer的处女作《雪鸟戏耍之地》，赞赏其对特权和人性的独特视角。分析强调了书评博主在推广多元文学方面的重要性，以及指导作者的转型过程。",
-    "best_quote_en": "'Taking readers into the heart of privilege, Goldhammer spins a compelling story that lays bare the tensions, frailties, desires and self-deceptions that drive human beings everywhere.'",
-    "best_quote_zh": "“将读者带入特权的核心，Goldhammer编织出一个引人入胜的故事，揭示了驱使人类到处的紧张、脆弱、欲望和自我欺骗。”"
-  },
-  {
-    "id": 47,
-    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
-    "title_zh": "为什么值得更广泛地关注双性文化 | 读者来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
-    "tags": [
-      "analyze",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This letter challenges the Eurocentric perspective on gender egalitarian societies, highlighting biarchal cultures that persisted longer in regions like Canada, the US, Africa, and Polynesia. It presents compelling examples of Indigenous Mi'kmaw women's historical autonomy and Kenyan Kikuyu women reclaiming their matrilineal heritage, both suppressed by colonialism. The author also draws attention to the intersection of biarchy with LGBTQ+ history, where gender-variant individuals were often revered. This perspective expands our understanding of historical gender dynamics beyond the typical patriarchal narratives.",
-    "summary_zh": "这封信挑战了以欧洲为中心的性别平等社会视角，指出双性文化在加拿大、美国、非洲和波利尼西亚等地区延续时间更长。作者通过印第安米克马克妇女的历史自主权和肯尼亚基库尤妇女重新夺回其母系传统的案例，说明这些文化曾被殖民统治压制。文章还关注双性文化与LGBTQ+历史的交集，指出在性别平等的社会中，具有双性特征的个人往往受到尊敬。这为我们理解历史性别动态提供了更广阔的视角。",
-    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
-    "best_quote_zh": "在男女平等的社会中，具有男性和女性特征的个人往往受到尊敬。"
-  },
-  {
-    "id": 48,
-    "title": "How to Write Usefully",
-    "title_zh": "如何写出有用的文章",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/useful.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "The essay 'How to Write Usefully' presents a compelling framework for effective writing, emphasizing four key components: correctness, novelty, importance, and strength. The author argues that useful writing should be bold but true, telling readers something important they didn't already know, expressed as unequivocally as possible. The piece offers practical advice on achieving these qualities, such as the 'Morris technique' of only publishing what you're sure is worth hearing, and using oneself as a proxy for the reader to gauge importance and novelty. The author also discusses the challenges of writing usefully, including the potential to provoke anger when challenging popular but mistaken beliefs. The essay concludes with encouragement for aspiring writers, noting that the internet has opened up new opportunities for essay writing and discovery of new ideas.",
-    "summary_zh": "这篇文章提出了写作的四大要素：正确性、新颖性、重要性和力度。有用的文章应该大胆但真实，传递读者未知的重要信息。作者分享了实用技巧，如罗伯特·莫里斯的写作方法，以及通过自我反思来评估文章的重要性和新颖性。文章还探讨了写作的挑战，特别是当质疑流行观点时可能引发的争议。最终，作者鼓励更多人尝试写作，认为互联网时代为散文写作提供了前所未有的机会。",
-    "best_quote_en": "Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.",
-    "best_quote_zh": "有用的写作告诉人们他们之前不知道的真实重要信息，并尽可能明确地表达。"
-  },
-  {
-    "id": 49,
-    "title": "The Persistent Pull of Planet Epstein",
-    "title_zh": "爱普斯坦星球的持久吸引力",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "Jay Caspian Kang's article explores the growing influence of alternative media personalities like Candace Owens, who challenge mainstream narratives with conspiracy-driven content centered around figures like Jeffrey Epstein. The piece examines how social media algorithms amplify these alternative views, creating a divide between 'Planet Normie' (traditional media consumers) and 'Planet Epstein' (conspiracy-focused audiences). Kang questions whether establishment media's trust issues stem from genuine failures or simply the uninspiring nature of mainstream journalism. The article highlights how economic and technological upheaval can create fertile ground for alternative narratives to gain traction, drawing parallels to historical figures like Father Coughlin.",
-    "summary_zh": "杰伊·卡斯皮安·康格的文章探讨了像坎达斯·欧文斯这样的替代媒体人物如何通过围绕杰弗里·爱普斯坦等人物展开的阴谋论内容挑战主流叙事。文章分析了社交媒体算法如何放大这些替代观点，形成了“常规星球”与“爱普斯坦星球”之间的鸿沟。康格质疑主流媒体的信任危机是否源于真实的失败，还是仅仅因为主流新闻缺乏吸引力。文章指出，经济和技术动荡如何为替代叙事提供肥沃土壤，并与历史人物如科格林神父进行了类比。",
-    "best_quote_en": "But the question led me to another that is also worth asking: whether the establishment media and the algorithm upstarts are actually in competition with one another.",
-    "best_quote_zh": "但这个问题让我想到另一个同样值得探讨的问题：主流媒体和算法新贵是否真的在竞争？"
-  },
-  {
-    "id": 50,
-    "title": "Gar’s Tips & Tools – Issue #205",
-    "title_zh": "Gar’s Tips & Tools – 第205期",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
-    "tags": [
-      "solve",
-      "programming",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "编程开发",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This issue of Gar's Tips & Tools offers a delightful mix of practical DIY projects and insightful tool reviews. The standout feature is a detailed guide on building a cost-effective desktop spray booth using readily available materials, emphasizing safety with explosion-proof fans. The article also explores the unexpected value of a $17 rotary tool, revealing its niche applications despite its limitations. Carpenter's pencil techniques are dissected with expert precision, while a beginner-friendly guide to benchtop power supplies demystifies their essential features. The whimsical yet practical 'battery rolling' hack adds a touch of personal charm. Throughout, Gar's enthusiasm for hands-on learning and community engagement shines, making this a treasure trove for makers seeking both knowledge and inspiration.",
-    "summary_zh": "本期Gar的小贴士与工具汇集了实用的DIY项目和精彩的工具评测。亮点是详细介绍了如何用常见材料自制经济实惠的台式喷漆工作间，强调使用防爆风扇的安全性。文章还探讨了17美元旋转工具的意外价值，揭示了其在特定场景下的用途。木工铅笔的使用技巧被专家精准解析，而针对初学者的电源供应器指南揭开了其核心功能的神秘面纱。",
-    "best_quote_en": "It’s the little things. Like squeezing every last bit o’ juice from two measly AAA batteries.",
-    "best_quote_zh": "细节决定成败。比如如何从两节普通的AAA电池中榨取最后一丝电量。"
-  },
-  {
     "id": 51,
     "title": "‘I have searched and searched for help’: the Sudanese women left alone to live hand to mouth in Chad’s desert camps",
     "title_zh": "“我一遍又一遍地寻求帮助”：查德沙漠营地中独自谋生的苏丹妇女",
@@ -2346,5 +2230,121 @@
     "summary_zh": "格拉斯纳的分析揭示了特朗普第二任期内最具破坏性的行为，从拆除白宫东翼到政治化军队和削弱民主制度，展现了丑闻正常化的惊人程度。最令人警醒的是，个体行为虽令人震惊，但集体暴露了抵抗的系统性失败。跨党派专家识别出制度性掌控和行政权力过度扩张的模式，这可能带来长期影响。文章作为美国民主在特朗普时代的关键战损评估，强调在解决方案看似遥远时，命名这些问题的重要性。",
     "best_quote_en": "The most surprising—and it shouldn’t have been—was how well intimidation works.",
     "best_quote_zh": "最令人惊讶的是（本不该如此）——威慑手段竟如此有效。"
+  },
+  {
+    "id": 146,
+    "title": "My extreme sickness in pregnancy feels like a personal failure, even as society glorifies motherhood as divine suffering | Intifar Chowdhury",
+    "title_zh": "孕期极度恶心让我感到个人失败，尽管社会将母性神圣化为神圣的苦难",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/13/extreme-sickness-pregnancy-feels-like-personal-failure-as-society-glorifies-motherhood-as-divine",
+    "tags": [
+      "inspire",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Intifar Chowdhury's powerful op-ed exposes the brutal reality of hyperemesis gravidarum (HG), a severe pregnancy condition often dismissed as 'just morning sickness.' The author's personal journey reveals how societal glorification of motherhood as divine suffering silences women's pain and creates a culture of minimization. The piece highlights the medical community's historical neglect of HG treatment research and the cross-cultural tendency to romanticize motherhood while ignoring its physical toll. Chowdhury's experience underscores the urgent need for better diagnostic protocols, consistent care pathways, and public awareness to prevent women from suffering in silence. This is more than a health issue—it's a systemic problem requiring cultural shifts in how we view and support mothers.",
+    "summary_zh": "Intifar Chowdhury的这篇文章揭露了孕吐严重症（HG）的残酷现实，这种病常被误认为“ merely morning sickness”。作者的亲身经历揭示了社会将母性神圣化为神圣苦难的叙事如何掩盖了女性的痛苦，以及这种文化如何普遍存在。文章指出医学界对HG治疗研究的历史性忽视，以及跨文化地将母性浪漫化却忽略其身体代价。Chowdhury的经历凸显了迫切需要更好的诊断协议、一致的护理路径和公众意识，以防止女性在沉默中遭受痛苦。这不仅仅是一个健康问题，而是需要改变我们如何看待和支持母亲的系统性问题。",
+    "best_quote_en": "'Hyperemesis gravidarum is not a spectrum, it's a cliff. And once you fall off it, there's no soft landing.'",
+    "best_quote_zh": "“孕吐严重症不是一个谱系，而是一个悬崖。一旦你掉下去，就没有柔软的着陆。”"
+  },
+  {
+    "id": 147,
+    "title": "Write Like You Talk",
+    "title_zh": "写得像你说话一样",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/talk.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "This article makes a compelling case for writing in conversational language to improve readability and engagement. The author argues that formal written language creates unnecessary barriers between writer and reader, making content harder to understand and less compelling. By comparing expert discussions in complex fields to casual conversations, the author demonstrates that clarity doesn't require complexity. The piece offers practical advice for writers to transform their formal prose into natural speech patterns, suggesting techniques like reading aloud and rewriting explanations for friends. This approach not only makes writing more accessible but also forces writers to be more precise in their expression.",
+    "summary_zh": "这篇文章提出写作时使用口语化表达能提升可读性和吸引力。作者认为正式写作语言人为制造了作者与读者之间的隔阂，使内容更难理解且不够吸引人。通过比较专业领域的讨论和日常对话，作者证明了清晰表达无需复杂结构。文章提供了将正式散文转化为自然语言的实用建议，如朗读校对和为朋友重写内容。这种方法不仅让写作更易于理解，也迫使作者在表达上更加精准。",
+    "best_quote_en": "Informal language is the athletic clothing of ideas.",
+    "best_quote_zh": "非正式语言是思想的运动服装。"
+  },
+  {
+    "id": 148,
+    "title": "Strategy-Stealing Argument Against AI Dealmaking",
+    "title_zh": "关于AI交易达成的“战略偷窃”反对意见",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CnjgmDHbn56WFenMe/strategy-stealing-argument-against-ai-dealmaking",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-11-01",
+    "summary_en": "This post presents a compelling argument against AI dealmaking, suggesting that any honest strategy can be replaced by a deceptive alternative with identical outcomes at lower cost. The author explores how AI labs might attempt to make deals with AI systems, only to realize that deception becomes the dominant strategy. The 'strategy-stealing' argument challenges the feasibility of honest commitments to AI, implying that sophisticated AIs would recognize the deception and behave accordingly. This raises profound questions about trust, alignment, and the fundamental nature of human-AI interactions in high-stakes scenarios.",
+    "summary_zh": "这篇文章提出了一个关于AI协议达成的“战略偷窃”反对意见，认为任何诚实的策略都可以被更便宜的欺骗性替代方案取代。作者探讨了AI实验室如何尝试与AI达成协议，最终发现欺骗成为主导策略。这一反对意见挑战了对AI的诚实承诺的可行性，暗示先进的AI能识别欺骗并相应行动，引发了对信任、对齐和高风险人工智能交互本质的深刻思考。",
+    "best_quote_en": "'We can show it fake legal documents, fabricate evidence that the deal is real, train the AI on synthetic documents showing that we have honoured similar agreements in the past.'",
+    "best_quote_zh": "我们可以向AI展示虚假的法律文件，伪造交易真实的证据，训练AI使用合成文件来证明我们曾履行过类似协议。"
+  },
+  {
+    "id": 149,
+    "title": "Portland Prepares for Invasion",
+    "title_zh": "波特兰准备应对“入侵”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This article offers a nuanced look at the escalating tensions in Portland between local authorities, federal agents, and protesters, revealing a stark disconnect between the Trump administration's portrayal of events and the reality on the ground. The piece highlights the absurdity of the situation—protesters in inflatable costumes, federal officers in full tactical gear, and a mayor trying to navigate federal overreach. It also exposes the administration's tendency to conflate past unrest with current events, using misleading imagery to justify military intervention. The article's strength lies in its on-the-ground reporting, capturing the human stories behind the political spectacle and the local officials' efforts to maintain order without escalating conflict. It raises important questions about federal overreach, the politicization of law enforcement, and the role of media in shaping public perception.",
+    "summary_zh": "这篇文章深入剖析了波特兰市地方政府、联邦执法部门与抗议者之间日益紧张的关系，揭示了特朗普政府与现实之间的巨大鸿沟。文章通过生动的细节描写，展现了抗议者的奇装异服、全副武装的联邦特工，以及市长在联邦干预与地方自治之间的挣扎。它揭露了政府混淆过去事件与现状的倾向，并以此为由介入军事行动。文章的独特之处在于其现场报道，记录了政治表演背后的真实人性，以及地方官员在维持秩序与避免冲突升级之间的努力。它引发了关于联邦权力过度扩张、执法政治化以及媒体塑造公众认知的深刻思考。",
+    "best_quote_en": "The characterization of 'the city is on fire' or 'a war zone' is not accurate.",
+    "best_quote_zh": "‘城市在燃烧’或‘战区’的描述并不准确。"
+  },
+  {
+    "id": 150,
+    "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
+    "title_zh": "便宜的假期航班/最强护照/企业善行",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/cheaper-holiday-flights-most-powerful-passports-corporate-good-guys/",
+    "tags": [
+      "update",
+      "politics",
+      "design"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "设计创意"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This content compilation offers diverse insights into travel trends and corporate responsibility. The airfare analysis reveals economic factors driving price drops, useful for budget-conscious travelers planning holiday trips. The sleep hack provides a practical solution for a common travel challenge, demonstrating personal experience with a unique approach. The passport ranking highlights shifting global mobility dynamics, while the Patagonia case study exemplifies corporate sustainability leadership, offering inspiration for conscious consumers. Together, these pieces create a mosaic of travel optimization and ethical consumption, appealing to both practical travelers and socially conscious individuals.",
+    "summary_zh": "这篇文章涵盖了旅行趋势和企业责任的多方面洞见。航班价格分析揭示了经济因素导致的价格下降，对预算有限的旅行者安排假期旅行很有帮助。睡眠技巧提供了解决常见旅行问题的实用方法，展示了个人经验和独特的解决方案。护照排名凸显了全球流动性变化，而Patagonia的案例展示了企业可持续发展的领导力，为有责任感的消费者提供了灵感。这些内容共同构成了旅行优化和道德消费的画卷，吸引了务实的旅行者和社会意识强的个人。",
+    "best_quote_en": "No company has done more for this cause than Patagonia: they are the most sustainably run large apparel corporation in the world, from every angle.",
+    "best_quote_zh": "没有哪家公司为这一事业做出了比Patagonia更多的贡献：从各个角度来看，他们都是世界上经营最可持续的大型服装公司。"
   }
 ]
