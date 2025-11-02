@@ -1,73 +1,5 @@
 [
   {
-    "id": 51,
-    "title": "‘I have searched and searched for help’: the Sudanese women left alone to live hand to mouth in Chad’s desert camps",
-    "title_zh": "“我一遍又一遍地寻求帮助”：查德沙漠营地中独自谋生的苏丹妇女",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/oct/08/aid-cuts-sudanese-refugees-chad-malnutrition-healthcare",
-    "tags": [
-      "analyze",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "This harrowing report exposes the dire conditions faced by Sudanese women and children in Chad's remote refugee camps, where 86% of refugees are female. The article highlights the severe maternal health crises, malnutrition, and lack of access to basic services. With aid cuts looming and men largely absent, women are left to care for families under brutal conditions. The piece offers a poignant look at resilience through stories like Makka Ibraheem Mohammed's near-fatal childbirth and Afaf Abdulmalik's makeshift garden that offers fleeting comfort. It's a stark reminder of the humanitarian crisis unfolding in Chad and the systemic failures that exacerbate suffering.",
-    "summary_zh": "这篇文章揭露了苏丹难民在乍得偏远营地的恶劣处境，86%的难民是女性。报道聚焦严重的产科危机、营养不良及缺乏基本服务。随着援助减少和男性大量缺席，女性独自承担照顾家庭的重担。通过穆卡·易卜拉欣·穆罕默德的险些丧命的分娩经历和阿法夫·阿卜杜勒马利克的临时花园带来的短暂安慰等故事，展现了难民的韧性。这份报告是乍得人道主义危机的生动写照，揭示了系统性失败如何加剧苦难。",
-    "best_quote_en": "Imagine being nine months pregnant, in labour, and travelling hours on a cart pulled by a donkey to get to a hospital",
-    "best_quote_zh": "想象一下，怀孕九个月、临产时，坐着驴车颠簸几小时去医院的情景"
-  },
-  {
-    "id": 52,
-    "title": "Being a Noob",
-    "title_zh": "做一个新手",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/noob.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This reflective piece explores the universal human experience of feeling like a perpetual beginner, or 'noob,' in various aspects of life. The author challenges the negative connotation of being a noob, arguing that this feeling is inversely correlated with actual ignorance. The more we experience new situations and fields, the more we grow globally, even if we feel locally incompetent. The essay suggests that our evolutionary bias against feeling like noobs may be outdated in today's rapidly changing world, where embracing novelty is more valuable than maintaining competence in static environments. This thought-provoking analysis invites readers to rethink their aversion to unfamiliarity and consider the growth opportunities in discomfort.",
-    "summary_zh": "文章探讨了人们常常感到自己是",
-    "best_quote_en": "The more of a noob you are locally, the less of a noob you are globally.",
-    "best_quote_zh": "你在当地越像个新手，在全球范围内就越不像个新手。"
-  },
-  {
-    "id": 53,
-    "title": "Why Hamas Agreed to Release the Hostages",
-    "title_zh": "哈马斯释放人质的原因",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/why-hamas-agreed-to-release-the-hostages",
-    "tags": [
-      "update",
-      "politics",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "The article explores the complex factors behind Hamas's decision to release hostages in the Gaza conflict, highlighting the pivotal role of U.S. President Donald Trump in pressuring Israeli Prime Minister Benjamin Netanyahu to accept a ceasefire. Expert Khaled Elgindy provides insights into Hamas's strategic calculations, noting their willingness to negotiate from early in the war but their reluctance to accept lopsided terms that amount to surrender. The discussion also touches on the broader implications for Palestinian statehood and the future of Gaza, with Elgindy expressing skepticism about the region's ability to recover from extensive destruction. The analysis delves into the shifting global perceptions of Israel, particularly among younger generations, and the potential long-term political impacts of the conflict.",
-    "summary_zh": "这篇文章探讨了哈马斯释放人质的复杂背景，强调特朗普在推动以色列接受停火协议中的关键作用。专家哈立德·埃尔金迪指出，哈马斯自战争初期就愿意谈判，但不愿接受不平等条款。讨论还涉及巴勒斯坦国家地位和加沙未来，埃尔金迪对该地区从毁灭中恢复的能力表示怀疑。分析还探讨了全球对以色列的看法变化，特别是年轻一代，以及冲突的潜在长期政治影响。",
-    "best_quote_en": "This has completely shifted the narrative. That’s a clichéd term, I know, but you now have an entire generation—never mind in the Arab world but in the West, in the United States, in North America, in Europe, in Australia, and in Canada, all over the world—that has been politicized, if not actually radicalized, by Gaza.",
-    "best_quote_zh": "这完全改变了叙事。我知道这是个陈词滥调，但现在全球范围内——不仅在阿拉伯世界，还有在西方、美国、北美、欧洲、澳大利亚和加拿大——有一整代人因加沙而被政治化，甚至激进化。"
-  },
-  {
     "id": 54,
     "title": "What I Wish Someone Had Told Me",
     "title_zh": "我希望有人曾告诉我这些",
@@ -2346,5 +2278,77 @@
     "summary_zh": "这篇文章涵盖了旅行趋势和企业责任的多方面洞见。航班价格分析揭示了经济因素导致的价格下降，对预算有限的旅行者安排假期旅行很有帮助。睡眠技巧提供了解决常见旅行问题的实用方法，展示了个人经验和独特的解决方案。护照排名凸显了全球流动性变化，而Patagonia的案例展示了企业可持续发展的领导力，为有责任感的消费者提供了灵感。这些内容共同构成了旅行优化和道德消费的画卷，吸引了务实的旅行者和社会意识强的个人。",
     "best_quote_en": "No company has done more for this cause than Patagonia: they are the most sustainably run large apparel corporation in the world, from every angle.",
     "best_quote_zh": "没有哪家公司为这一事业做出了比Patagonia更多的贡献：从各个角度来看，他们都是世界上经营最可持续的大型服装公司。"
+  },
+  {
+    "id": 151,
+    "title": "‘These men think they’ve done nothing wrong’: the philosopher who tried to understand Gisèle Pelicot’s rapists",
+    "title_zh": "这些男人认为自己没做错什么：试图理解吉塞尔·佩利科的强奸者的哲学家",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/oct/13/these-men-think-theyve-done-nothing-wrong-philosopher-tried-understand-gisele-pelicot-rapists",
+    "tags": [
+      "learn",
+      "society",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "社会议题",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "Manon Garcia's 'Living With Men' offers a profound philosophical examination of the Pelicot trial, where 50 men were accused of raping Gisèle Pelicot while she was drugged by her husband. Garcia's work reveals the disturbing banality of the defendants' attitudes, their inability to acknowledge wrongdoing, and the systemic cultural scaffolding that enables such violence. The book draws parallels with Hannah Arendt's 'Eichmann in Jerusalem', exploring how criminal trials often fail to address the broader social issues they represent. Garcia's insightful analysis challenges societal perceptions of rape culture and male entitlement, offering a critical examination of gender dynamics and justice.",
+    "summary_zh": "曼农·加西亚的《与男人共处》深入剖析佩利科审判案，50名被告强奸了被丈夫下药的吉塞尔·佩利科。加西亚揭示了被告令人毛骨悚然的平庸态度，他们拒绝承认错误，以及支持这种暴力的系统性文化框架。该书与汉娜·阿伦特的《耶路撒冷的艾希曼》相呼应，探讨刑事审判如何无法解决其代表的更广泛社会问题。加西亚的深刻分析挑战了对强奸文化和男性特权的社会认知，提供了对性别动态和正义的批判性审视。",
+    "best_quote_en": "These men think they’ve done nothing wrong.",
+    "best_quote_zh": "这些男人认为自己没做错什么。"
+  },
+  {
+    "id": 152,
+    "title": "Default Alive or Default Dead?",
+    "title_zh": "默认存活或默认死亡？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/aord.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "This insightful essay by Paul Graham explores the critical concept of 'default alive or default dead' for startups, emphasizing the importance of founders understanding their company's financial trajectory. The piece highlights how many founders fail to ask this crucial question, leading to the 'fatal pinch' - a situation where slow growth, insufficient runway, and the inability to raise more funds converge to doom a startup. Graham argues that founders should start asking this question earlier rather than later, and should always have a plan B for survival. He also cautions against premature scaling and overhiring, which often stems from a flawed product rather than a lack of personnel. The essay offers valuable insights into startup survival strategies, emphasizing the need for founders to focus on product-market fit and sustainable growth rather than rapid expansion.",
+    "summary_zh": "保罗·格雷厄姆在这篇文章中提出了“默认存活或默认死亡”的关键概念，强调创业者必须了解公司的财务轨迹。许多创业者忽视这一问题，导致陷入“致命夹击”——增长缓慢、资金不足、无法融资的恶性循环。他建议创业者应尽早关注这个问题，并始终准备好备用生存计划。文章还警示创业者避免过早扩张和过度雇佣，这些问题往往源于产品不够吸引人。这篇文章为创业者提供了宝贵的生存策略，强调产品市场契合度和可持续增长比快速扩张更重要。",
+    "best_quote_en": "The reason I want to know first whether a startup is default alive or default dead is that the rest of the conversation depends on the answer.",
+    "best_quote_zh": "之所以首先想知道一家初创公司是否默认存活或死亡，是因为接下来的讨论完全取决于答案。"
+  },
+  {
+    "id": 153,
+    "title": "Me consuming five different forms of media at once to minimize the chance of a thought occurring",
+    "title_zh": "我同时消费五种不同形式的媒体，以最小化想法发生的机会",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/2AiqJaoqqf5QwLbfM/me-consuming-five-different-forms-of-media-at-once-to",
+    "tags": [
+      "solve",
+      "psychology",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "This introspective piece explores the author's struggle with media consumption as a coping mechanism to avoid inner thoughts. The author describes a complex system of multitasking with books, music, video, and games, all aimed at keeping their mind occupied. The analysis reveals a deep-seated fear of introspection and a pattern of addictive behavior that the author recognizes but finds difficult to change. The piece raises important questions about modern digital addiction, the search for meaning in consumption, and the challenges of self-improvement. It serves as both a personal confession and a commentary on contemporary digital lifestyles.",
+    "summary_zh": "这篇文章探讨了作者通过同时消费多种媒体来逃避内心思考的现象。作者详细描述了自己通过书籍、音乐、视频和游戏等多种方式保持忙碌的复杂系统。分析揭示了作者对自我反思的深层恐惧和难以改变的成瘾行为模式。文章引发了关于现代数字成瘾、在消费中寻找意义以及自我提升困境的重要思考，既是个人告白，也是对当代数字生活方式的评论。",
+    "best_quote_en": "I think of this as boredom, and watch more Youtube instead, but on the bed this time.",
+    "best_quote_zh": "我把这当作无聊，于是继续看YouTube，不过这次是在床上。"
   }
 ]
