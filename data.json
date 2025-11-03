@@ -1,123 +1,5 @@
 [
   {
-    "id": 54,
-    "title": "What I Wish Someone Had Told Me",
-    "title_zh": "我希望有人曾告诉我这些",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-    "tags": [
-      "solve",
-      "leadership",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2023-12-21",
-    "summary_en": "This article distills hard-earned wisdom from startup and business leadership, offering practical advice that transcends conventional management theory. The emphasis on long-term orientation and fighting bureaucracy resonates particularly strongly, as does the reminder that outcomes matter more than process. The insights about superstars' value and the importance of fast iteration are especially compelling, challenging conventional HR practices. The author's perspective on compounding advantages and emergent properties of scale provides valuable strategic thinking for growing organizations. Most profound is the human element - working with great people and maintaining optimism through challenges.",
-    "summary_zh": "这篇文章凝练了创业和商业领导的实战智慧，提供超越传统管理理论的实用建议。其中关于长期导向和对抗官僚主义的观点尤其发人深省，而结果比过程重要的提醒更是振聋发聩。关于超级明星价值和快速迭代重要性的洞见挑战了传统人力资源实践。作者关于复利优势和规模化突现性质的战略思考为成长型组织提供了宝贵启示。最动人的是对人性的关注 - 与优秀人才共事的快乐和保持乐观应对挑战的心态。",
-    "best_quote_en": "It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn't really matter; audacious ideas motivate people.",
-    "best_quote_zh": "团队做一件重要但困难的事，比做一件不重要但容易的事更容易；大胆的想法能激励人心。"
-  },
-  {
-    "id": 55,
-    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "title_zh": "蒂姆·费里斯秀节目摘要：尼克·科科纳斯和诺贝尔经济学奖得主理查德·塞勒——现实经济学、避免赢家诅咒、使用诱惑捆绑以及反抗体制（第830期）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
-    "tags": [
-      "learn",
-      "economics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "经济金融",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "This transcript features a fascinating conversation between Tim Ferriss, Nobel Prize-winning economist Richard Thaler, and entrepreneur Nick Kokonas. Thaler, known for his work in behavioral economics, challenges traditional economic models that assume perfect rationality and selfishness in human behavior. He shares insights from his new book, 'The Winner's Curse', co-authored with Alex Imas, which revisits and updates classic behavioral economics anomalies. The discussion explores how real-world behavior often deviates from economic theory, with examples like loss aversion, the endowment effect, and the importance of fairness in economic decisions. Kokonas shares his practical experiences applying behavioral economics principles in his restaurant business, demonstrating how these concepts play out in real-world scenarios. The conversation also touches on the challenges of introducing psychological insights into traditional economic models without sacrificing rigor. Thaler's anecdotes and experiments, such as the cashew nut story and the coffee mug experiment, illustrate key behavioral economics principles in an engaging and accessible way.",
-    "summary_zh": "这段对话展现了蒂姆·费里斯与诺贝尔经济学奖得主理查德·塞勒、企业家尼克·科科纳斯之间的精彩交流。塞勒以行为经济学研究著称，挑战了传统经济模型中关于人类行为完美理性和自私的假设。他分享了与亚历克斯·伊马斯合著的新书《赢家诅咒》中的洞见，重新审视并更新了经典的行为经济学异常现象。讨论涵盖了现实行为如何偏离经济理论，包括损失厌恶、禀赋效应和公平原则在经济决策中的重要性等例子。科科纳斯分享了他在餐厅业务中应用行为经济学原则的实际经验，展示了这些概念如何在现实场景中发挥作用。对话还探讨了将心理学洞见引入传统经济模型的挑战，同时保持严谨性。塞勒的趣闻轶事和实验，如腰果故事和咖啡杯实验，以生动易懂的方式阐释了关键的行为经济学原理。",
-    "best_quote_en": "If you're doing business in the real world and you have customers and employees that are people, not agents, then you have to do things a bit differently. And that's the one-sentence summary of behavioral economics.",
-    "best_quote_zh": "如果你在现实世界中经营业务，并且你的客户和员工是真实的人，而不是代理人，那么你必须做一些不同的事情。这就是行为经济学的一句总结。"
-  },
-  {
-    "id": 56,
-    "title": "High youth death rates are an ‘emerging crisis’, global health study warns",
-    "title_zh": "全球健康研究警告：青少年死亡率成为“新兴危机”",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
-    "tags": [
-      "analyze",
-      "medicine",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This comprehensive study reveals a troubling trend of rising death rates among teenagers and young adults worldwide, despite overall global health improvements. The research highlights preventable factors like alcohol, drugs, and mental health issues in developed regions, while infectious diseases and maternal health challenges persist in sub-Saharan Africa. The findings underscore the urgent need for targeted public health interventions and stronger health systems, particularly in low-income regions facing funding cuts. The study serves as a wake-up call to address both immediate crises and long-term systemic health challenges affecting youth populations.",
-    "summary_zh": "这项全球健康研究揭示了一个令人担忧的趋势：尽管全球整体健康状况有所改善，但青少年和年轻人群的死亡率却在上升。研究指出，发达地区的主要问题包括酒精、毒品和心理健康问题，而撒哈拉以南非洲则面临传染病和母婴健康等挑战。这些发现凸显了迫切需要针对性的公共卫生干预和更强大的卫生系统，尤其是面临资金削减的低收入地区。本次研究发出警示，呼吁我们应对青少年健康面临的紧迫危机和长期系统性挑战。",
-    "best_quote_en": "The evidence presented in the Global Burden of Disease study is a wake-up call, urging government and healthcare leaders to respond swiftly and strategically to the disturbing trends that are reshaping public health needs.",
-    "best_quote_zh": "全球疾病负担研究中的证据是一个警醒信号，促使政府和医疗卫生领导者迅速、战略性地应对重塑公共卫生需求的令人不安趋势。"
-  },
-  {
-    "id": 57,
-    "title": "Haters",
-    "title_zh": "Haters",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fh.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This insightful essay explores the psychological phenomenon of 'haters,' drawing a striking parallel between obsessive fans (fanboys) and obsessive critics. The author argues that haters are essentially fanboys with their admiration inverted to hatred. They create an exaggerated negative image of their targets, dismissing their achievements as fraudulent. The piece offers valuable insights into why haters behave this way - often stemming from feelings of frustrated talent or a sense of unfairness about others' success. The author suggests that understanding this dynamic makes it easier to deal with haters, recommending not to engage with them as one would with normal critics. This perspective provides a refreshing framework for understanding online criticism and fame culture.",
-    "summary_zh": "这篇文章深刻分析了“仇恨者”现象，将其与狂热粉丝（fanboys）进行了巧妙类比。作者指出，仇恨者本质上是狂热粉丝的镜像，将喜爱转化为仇恨。他们会夸大对象的负面形象，将其成就视为欺骗。文章探讨了仇恨者的心理动机，如才能受挫或对他人成功的不公感。作者建议以理解取代对抗，将仇恨者视为狂热粉丝的反面，避免与之纠缠。这种观点为我们理解网络批评和名声文化提供了全新视角。",
-    "best_quote_en": "Haters are just fanboys with the sign switched.",
-    "best_quote_zh": "仇恨者不过是狂热粉丝的符号反转版本。"
-  },
-  {
-    "id": 58,
-    "title": "Sublinear Utility in Population and other Uncommon Utilitarianism",
-    "title_zh": "关于人口中的次线性效用及其他不常见功利主义",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/NRxn6R2tesRzzTBKG/sublinear-utility-in-population-and-other-uncommon",
-    "tags": [
-      "inspire",
-      "science",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This thought-provoking piece explores an unconventional perspective on utilitarianism, particularly how utility scales with population. The author introduces the concept of 'sublinear utility' in human lives, suggesting that while more humans generally bring more value, this value increases at a decreasing rate. The discussion extends to simulations, duplicate experiences, and different species, challenging classical Effective Altruism (EA) approaches. The author's nuanced view considers the diversity of experiences and the diminishing marginal value of additional similar beings, while still acknowledging the worth of all sentient life. This analysis offers a fresh lens on moral philosophy, blending mathematical reasoning with ethical intuition.",
-    "summary_zh": "这篇文章提出了一个关于功利主义的独特观点，探讨了效用随着人口数量的变化规律。作者提出“次线性效用”概念，认为人类数量增加带来的价值是递减的。讨论延伸到模拟、重复体验和不同物种，挑战了经典有效利他主义的方法。作者从多样性体验和边际价值递减的角度出发，提出了富有启发性的道德哲学分析，将数学推理与伦理直觉相结合。",
-    "best_quote_en": "The value in simulations of people and their worlds comes from newly being able to observe those worlds, not from bringing them into existence in the first place.",
-    "best_quote_zh": "模拟人类及其世界的价值在于能够新鲜地观察这些世界，而非在于最初将它们带入存在。"
-  },
-  {
     "id": 59,
     "title": "The Indictment of Letitia James and the Collapse of Impartial Justice",
     "title_zh": "莱蒂西娅·詹姆斯的起诉与公正司法的崩溃",
@@ -2350,5 +2232,121 @@
     "summary_zh": "这篇文章探讨了作者通过同时消费多种媒体来逃避内心思考的现象。作者详细描述了自己通过书籍、音乐、视频和游戏等多种方式保持忙碌的复杂系统。分析揭示了作者对自我反思的深层恐惧和难以改变的成瘾行为模式。文章引发了关于现代数字成瘾、在消费中寻找意义以及自我提升困境的重要思考，既是个人告白，也是对当代数字生活方式的评论。",
     "best_quote_en": "I think of this as boredom, and watch more Youtube instead, but on the bed this time.",
     "best_quote_zh": "我把这当作无聊，于是继续看YouTube，不过这次是在床上。"
+  },
+  {
+    "id": 154,
+    "title": "Why It's Safe for Founders to Be Nice",
+    "title_zh": "为什么创业者可以安全地保持友善",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/safe.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This article challenges the stereotype of the ruthless businessman, particularly in the startup world, arguing that being nice is not just ethical but strategically advantageous. The author presents a compelling mathematical argument that while rapacious behavior might increase short-term revenue, it pales in comparison to the exponential growth driven by creating exceptional products that spread by word of mouth. The key insight is that focusing on growth rate rather than extracting maximum value from customers leads to long-term success. The article also touches on the psychological and motivational factors that drive successful founders, emphasizing that passion for the project often outweighs monetary gain.",
+    "summary_zh": "这篇文章挑战了对冷酷商人的刻板印象，特别是在创业领域。作者提出，保持友善不仅是道德上的正确选择，而且在战略上更具优势。通过数学论证，作者指出虽然贪婪行为可能短期内增加收入，但远不及通过创造卓越产品并依靠口碑传播带来的指数级增长。关键在于专注于增长率而非从客户身上榨取最大价值。文章还探讨了驱动成功创业者的心理和动机因素，强调热爱项目往往比金钱更重要。",
+    "best_quote_en": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't.",
+    "best_quote_zh": "创业者可以安全地保持友善的原因是创造伟大的事物会产生复利，而贪婪则不会。"
+  },
+  {
+    "id": 155,
+    "title": "Trying to understand my own cognitive edge",
+    "title_zh": "尝试理解我的认知优势",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ophhRzHyt44qcjnkS/trying-to-understand-my-own-cognitive-edge",
+    "tags": [
+      "learn",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The author reflects on their unique cognitive strengths that have contributed to their success, particularly their ability to identify important problems and approaches early. They question whether this is due to exceptional intuition or a combination of high baseline reasoning, self-skepticism, and independence from institutional pressures. The analysis suggests that their cryptography background fostered rigorous self-examination and that their 'laziness' allowed them to avoid institutional distortions. The author considers whether these traits could be developed in others and ponders the strategic implications for reducing cognitive distortions in society.",
+    "summary_zh": "作者反思了自身认知优势如何助其成功，尤其是能提前发现重要问题和方法的能力。他们质疑这是源于卓越直觉还是高基础推理、自我怀疑和独立于制度压力的组合。分析表明，密码学背景培养了严谨的自我检视，而'懒惰'帮助其避开制度扭曲。作者思考这些特质是否可被他人培养，并探讨减少社会认知扭曲的战略意义。",
+    "best_quote_en": "The main thing that appears to have happened is that I had exceptional intuitions about what problems/fields/approaches were important and promising.",
+    "best_quote_zh": "主要发生的事情似乎是，我对哪些问题/领域/方法重要且有前景有着卓越的直觉。"
+  },
+  {
+    "id": 156,
+    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
+    "title_zh": "佐兰·曼达尼竞选市长揭示的美国穆斯林现状",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
+    "tags": [
+      "solve",
+      "politics",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "深度分析"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The article explores the Islamophobic challenges faced by Zohran Mamdani, a Muslim democratic socialist running for New York City mayor, through the lens of historical and contemporary discrimination against Muslims in America. It highlights how anti-Muslim rhetoric has resurfaced in the campaign, echoing post-9/11 fears and stereotypes. The piece underscores the enduring stigma Muslims face, the political exploitation of Islamophobia, and Mamdani's unique approach to engaging with the Muslim community. It also critiques the broader societal acceptance of Islamophobia as a 'sensible position' rather than racism. The analysis reveals the deeper societal issues at play, including economic disparities and the erosion of trust in institutions among Muslim communities.",
+    "summary_zh": "这篇文章通过佐兰·曼达尼竞选纽约市长的经历，揭示了美国穆斯林面临的伊斯兰恐惧症现状。它追溯了911事件后的历史背景，分析了当前竞选中的反伊斯兰言论，以及穆斯林社区面临的持续污名化。文章批评了社会对伊斯兰恐惧症的宽容态度，并探讨了穆斯林群体对政府信任的丧失。同时，它也反映了更深层次的社会问题，包括经济不平等和穆斯林社区的困境。",
+    "best_quote_en": "To be Muslim in New York is to expect indignity. But indignity does not make us distinct—there are many New Yorkers who face it. It is the tolerance of that indignity.",
+    "best_quote_zh": "在纽约做穆斯林意味着要承受屈辱。但屈辱并不让我们与众不同——有许多纽约人都在面对它。问题是对这种屈辱的容忍。"
+  },
+  {
+    "id": 157,
+    "title": "Ambient music streams/Thinking skills guide/Kindle hand strap",
+    "title_zh": "环境音乐流/思维技能指南/Kindle手带",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/ambient-music-streams-thinking-skills-guide-kindle-hand-strap/",
+    "tags": [
+      "guide",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This content offers a diverse collection of practical recommendations spanning digital tools, cultural insights, and personal experiences. The thinking skills guide highlights 'The Great Mental Models' as an excellent resource for developing critical thinking, particularly valuable for young learners. The catalog of dark patterns serves as an important educational tool about manipulative design practices, offering both cautionary examples and constructive solutions. The Kindle hand strap recommendation solves a common physical discomfort issue for e-reader users. André Mack's wine education provides an engaging, accessible approach to learning about wine and bourbon. The Perplexity browser showcases innovative AI integration for productivity enhancement. Lastly, the ambient music stream recommendation offers a creative solution to enjoying continuous background music. Together, these pieces demonstrate how thoughtful recommendations can address both practical problems and enrich daily life.",
+    "summary_zh": "这篇内容汇集了数字工具、文化洞察和个人经历等多样化的实用推荐。思维技能指南推荐了《思维模型》作为培养批判性思维的优秀资源，尤其适合年轻学习者。暗黑模式目录作为教育工具，揭示了操控性设计实践，并提供警示示例和建设性解决方案。Kindle手带推荐解决了电子书阅读者的常见身体不适问题。安德烈·麦克的葡萄酒教育提供了接地气的学习方式。Perplexity浏览器展示了AI创新集成提升效率。最后，环境音乐流推荐提供了持续享受背景音乐的创意解决方案。这些内容共同展示了如何通过深思熟虑的推荐来解决实际问题并丰富日常生活。",
+    "best_quote_en": "These are all post-AI skills. — KK",
+    "best_quote_zh": "这些都是后AI时代的技能。——KK"
+  },
+  {
+    "id": 158,
+    "title": "Please Fund More Science",
+    "title_zh": "请为科学研究提供更多资金",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/please-fund-more-science",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2020-03-30",
+    "summary_en": "This article advocates for increased funding of scientific research to combat COVID-19, highlighting three potential pathways to normalcy: vaccine development, effective treatments, or improved public health practices. The author expresses disappointment in government funding levels but praises the rapid, innovative response from biotech companies and research labs. The piece calls on investors and donors to redirect resources toward pandemic-related scientific efforts, emphasizing the potential for meaningful impact and the opportunity to support cutting-edge innovation. The author frames scientific investment as both practical and personally fulfilling, suggesting that the pandemic may mark a turning point in global health preparedness.",
+    "summary_zh": "文章呼吁增加科学研究资金以应对COVID-19，指出疫苗研发、有效治疗或公共卫生措施改善是恢复正常的三种途径。作者对政府资金不足表示失望，但赞扬了生物技术公司和研究机构的快速创新反应。文章号召投资者和捐赠者将资源转向与疫情相关的科学努力，强调实现意义重大且支持前沿创新的机会。作者认为科学投资既实用又令人满足，疫情可能成为全球卫生准备的转折点。",
+    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
+    "best_quote_zh": "科学家能带领我们走出困境。他们需要的是资金和人脉。"
   }
 ]
