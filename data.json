@@ -1,101 +1,5 @@
 [
   {
-    "id": 59,
-    "title": "The Indictment of Letitia James and the Collapse of Impartial Justice",
-    "title_zh": "莱蒂西娅·詹姆斯的起诉与公正司法的崩溃",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-indictment-of-letitia-james-and-the-collapse-of-impartial-justice",
-    "tags": [
-      "analyze",
-      "legal",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "法律法规",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This article critically examines the politically motivated prosecution of New York Attorney General Letitia James, arguing that her indictment represents a dangerous abuse of the justice system. The piece highlights the selective enforcement of laws against Trump's political opponents, contrasting it with the near-complete immunity granted to presidents. The author questions whether similar charges would be brought against any other defendant, suggesting this case exemplifies prosecutorial misconduct. The analysis also notes the trivial nature of the alleged fraud and the lack of precedent for such prosecutions, raising serious concerns about the erosion of impartial justice.",
-    "summary_zh": "本文批评纽约州总检察长莱蒂西娅·詹姆斯被起诉的政治动机，认为这是司法系统的危险滥用。文章对比了对特朗普政敌的选择性执法与总统享有的近乎完全豁免权，质疑是否会对其他被告提出类似指控。作者指出，此案中涉及的欺诈金额微不足道且缺乏先例，严重质疑了司法公正性的侵蚀。",
-    "best_quote_en": "The essence of impartial justice is treating like conduct alike—not identifying the target and then finding the crime.",
-    "best_quote_zh": "司法公正的本质在于平等对待类似行为，而非先确定目标再寻找罪名。"
-  },
-  {
-    "id": 60,
-    "title": "Favorite T-shirts/Design inspiration/How to become wiser",
-    "title_zh": "我的最爱T恤/设计灵感/如何变得更聪明",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/favorite-t-shirts-design-inspiration-how-to-become-wiser/",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This eclectic collection offers practical recommendations and thought-provoking insights across diverse domains. From discovering high-quality T-shirt brands to appreciating traditional Japanese packaging design, the content blends consumer advice with cultural appreciation. The standout piece is the introspective exercise on wisdom, presenting 25 probing questions that encourage self-reflection and emotional regulation. The curated selection of digital artists introduces viewers to innovative art forms that challenge visual norms. The recommendations serve both practical needs (like internet speed testing) and spiritual connections (offline meditation space), demonstrating how thoughtful curation can inspire and educate simultaneously.",
-    "summary_zh": "这篇内容涵盖了从T恤推荐到传统日本包装设计的多元主题，既有实用性也有文化深度。尤其那25个关于智慧的提问值得反复思考，能帮助我们更好地认识自己。推荐的数字艺术家作品更展现了创新的视觉艺术形式。这些推荐既解决了实际需求，又提供了精神滋养，展现了精心策划的力量。",
-    "best_quote_en": "The beauty never gets old. If you are at all partial to product design, or any type of presentation, this is a classic research source, a motherlode of how to think different.",
-    "best_quote_zh": "这种美永不过时。如果你对产品设计或任何形式的呈现有丝毫偏好，这本书就是经典的研究来源，是如何不同思考的宝库。"
-  },
-  {
-    "id": 61,
-    "title": "Orthodoxy and women in the Anglican church | Letters",
-    "title_zh": "安立甘宗教会中的正统与女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
-    "tags": [
-      "solve",
-      "society",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "Rev Simon Jones challenges the perception that opposition to female leadership in the Anglican Church stems from misogyny, arguing instead that traditionalists are driven by theological convictions about ministry's representative nature before God. He criticizes the Church of England's growing intolerance of theological differences, suggesting that true renewal lies in fostering gracious, intellectually rigorous unity. Jones calls for protecting conscience and allowing disagreement, proposing that such an approach could demonstrate Christianity's intellectual depth and moral seriousness to younger generations.",
-    "summary_zh": "西蒙·琼斯牧师反驳了安立甘宗教会反对女性领导是出于性别偏见的说法，认为传统派的立场源于对圣职本质的神学信念。他批评教会近年对神学差异的不宽容，呼吁新任大主教以宽容和神学素养为基础促进团结。琼斯强调保护良心和允许分歧的重要性，认为这才是教会复兴的真正途径，也能向年轻一代展现基督教的智慧深度和道德严肃性。",
-    "best_quote_en": "What has damaged the Church of England most in recent years is not honest theological difference but the intolerance of it.",
-    "best_quote_zh": "近些年最伤害英格兰教会的不是诚实的神学分歧，而是对分歧的不宽容。"
-  },
-  {
-    "id": 62,
-    "title": "The Two Kinds of Moderate",
-    "title_zh": "两种类型的温和派",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mod.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This essay brilliantly dissects the two types of political moderates: intentional and accidental. Intentional moderates maintain a middle position by design, adjusting their views to stay centered as political winds shift. They're not truly independent thinkers, as their opinions are collectively determined. Accidental moderates, however, arrive at the middle through genuine independent thought, often ignoring issues that extremes fixate on. The author argues these accidental moderates are the most courageous, facing criticism from both sides without the comfort of ideological groups. The piece also explores how ideological purity can hinder excellence in fields where ideas intersect with politics, suggesting true innovation requires intellectual independence.",
-    "summary_zh": "这篇文章深刻剖析了两种政治温和派：刻意和非刻意。刻意温和派通过调整观点保持中立，实则缺乏独立思考。非刻意温和派通过真正独立思考到达中间立场，常忽略极端关注的问题。作者认为他们最具勇气，面对双方批评却无意识形态群体庇护。文章还探讨了意识形态纯粹主义如何阻碍创新，强调思想独立对创新的重要性。",
-    "best_quote_en": "Nearly all the most impressive people I know are accidental moderates.",
-    "best_quote_zh": "我认识的最令人印象深刻的人几乎都是非刻意的温和派。"
-  },
-  {
     "id": 63,
     "title": "Current Language Models Struggle to Reason in Ciphered Language",
     "title_zh": "当前语言模型难以在密码语言中进行推理",
@@ -2348,5 +2252,99 @@
     "summary_zh": "文章呼吁增加科学研究资金以应对COVID-19，指出疫苗研发、有效治疗或公共卫生措施改善是恢复正常的三种途径。作者对政府资金不足表示失望，但赞扬了生物技术公司和研究机构的快速创新反应。文章号召投资者和捐赠者将资源转向与疫情相关的科学努力，强调实现意义重大且支持前沿创新的机会。作者认为科学投资既实用又令人满足，疫情可能成为全球卫生准备的转折点。",
     "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
     "best_quote_zh": "科学家能带领我们走出困境。他们需要的是资金和人脉。"
+  },
+  {
+    "id": 159,
+    "title": "Change Your Name",
+    "title_zh": "改名",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/name.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The article argues that startups should prioritize securing their .com domain name for credibility and strength, even if it requires changing their name. The author, Paul Graham, challenges founders' emotional attachment to their company names, suggesting this attachment is often irrational and based on identity rather than objective merit. He proposes practical solutions like hiring naming experts or systematically searching for available domains. The piece highlights the statistical correlation between successful startups and ownership of their .com domain, positioning this as a relatively easy fix with significant potential impact. Graham's perspective offers valuable advice for founders who may be overlooking this critical branding element.",
+    "summary_zh": "文章提出，初创公司应优先获得与公司名称相同的.com域名，以增强可信度和实力，必要时应改名。作者保罗·格雷厄姆挑战了创业者对公司名称的情感依恋，认为这种依恋往往是非理性的，基于身份认同而非客观价值。他建议通过聘请命名专家或系统性搜索可用域名来解决问题。文章强调成功初创公司与拥有.com域名之间的统计关联性，认为这是一个相对容易修复但潜在影响巨大的问题。格雷厄姆的观点为可能忽略这一关键品牌元素的创业者提供了宝贵建议。",
+    "best_quote_en": "The problem with not having the .com of your name is that it signals weakness. Unless you're so big that your reputation precedes you, a marginal domain suggests you're a marginal company.",
+    "best_quote_zh": "没有你的名字的.com域名的问题在于它传递了弱势信号。除非你已经足够大到名声在外，否则一个边缘域名会暗示你是一家边缘公司。"
+  },
+  {
+    "id": 160,
+    "title": "Joachim Trier Has Put Oslo on the Cinematic Map",
+    "title_zh": "约阿希姆·特里尔让奥斯陆进入电影地图",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/11/10/joachim-trier-profile",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "This profile of Joachim Trier explores how the Norwegian director has made Oslo a central character in his intimate, emotionally rich films. Through 'Sentimental Value' and his Oslo Trilogy, Trier captures the melancholy beauty of the city while delving into complex human relationships. His collaborative, empathetic approach to filmmaking—inspired by his background in skateboarding and his family's artistic legacy—creates deeply personal cinematic experiences. The article highlights Trier's unique ability to blend Oslo's urban landscape with profound explorations of love, loss, and identity, making his work universally resonant while maintaining a distinctly Norwegian soul.",
+    "summary_zh": "约阿希姆·特里尔通过其电影《情感价值》和奥斯陆三部曲，将挪威首都奥斯陆塑造成为其作品中的重要角色。他以独特的电影制作方式，捕捉到这座城市的忧郁之美，同时深入探索复杂的人际关系。受滑板运动背景和家庭艺术传承的影响，特里尔创造了深刻的电影体验。文章突出了他将城市景观与爱情、失落和身份的深刻探索相结合的能力，使其作品具有全球共鸣性，同时保持挪威独特的灵魂。",
+    "best_quote_en": "People say that movies are really all about space and the big picture and the wide shots, but I do feel that I’m deeply moved by being close to people in the cinema in a way that, socially, you are not allowed to be.",
+    "best_quote_zh": "人们常说电影真正关注的是空间、大场景和远景镜头，但我确实认为，电影能以一种在社交场合中不被允许的方式，让我们深刻地接近人物。"
+  },
+  {
+    "id": 161,
+    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+    "title_zh": "利用已有药物以新方式治疗和治愈大脑和身体的疾病 | 大卫·法金鲍姆博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "Dr. David Fajgenbaum's story is both personal and groundbreaking, revealing how approved medications can be repurposed to treat diseases beyond their original intent. His own battle with Castleman's disease led to the discovery of life-saving treatments using drugs approved for other conditions, demonstrating the vast untapped potential in existing pharmaceuticals. The conversation explores how this approach could revolutionize treatments for previously untreatable conditions, including cancers. Key insights include the critical role of mindset in battling diseases, the potential of compounds for health and longevity, and the importance of integrated medical databases and AI in accelerating drug repurposing. This discussion bridges the gap between cutting-edge medical research and practical applications, offering hope and actionable strategies for patients and researchers alike.",
+    "summary_zh": "大卫·法金鲍姆博士的故事既个人又前沿，揭示了已批准的药物如何被重新用于治疗其原始用途之外的疾病。他自己与卡斯尔曼病的斗争导致发现了利用其他用途批准的药物的救命治疗方法，展示了现有药物中的巨大潜力。对话探讨了这种方法如何可能彻底改变对包括癌症在内的此前无法治疗的疾病的治疗方法。关键见解包括战胜疾病时的心态的重要性，促进健康和长寿的化合物的潜力，以及整合医疗数据库和人工智能在加速药物再利用方面的重要性。这场讨论跨越了医学前沿研究与实际应用之间的鸿沟，为患者和研究人员提供了希望和可行的策略。",
+    "best_quote_en": "The most exciting part about drug repurposing is that it can transform how we approach diseases that have been deemed untreatable.",
+    "best_quote_zh": "药物再利用最令人兴奋的地方在于，它可以改变我们对那些被认为无法治疗的疾病的治疗方式。"
+  },
+  {
+    "id": 162,
+    "title": "The Tim Ferriss Show Transcripts: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
+    "title_zh": "蒂姆·费里斯秀访谈：杰克·坎菲尔德——销售超6亿本书，成功原则及他如何让《4小时工作周》实现",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/30/jack-canfield-transcript/",
+    "tags": [
+      "learn",
+      "education",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This transcript of Tim Ferriss's interview with Jack Canfield, America's #1 Success Coach, offers a masterclass in personal development and entrepreneurship. Canfield shares his journey from humble beginnings to selling over 600 million books, including the Chicken Soup for the Soul series. His insights on success principles, motivation, and overcoming obstacles are both inspiring and actionable. The discussion highlights Canfield's unique approach to teaching, his mentorship under W. Clement Stone, and the power of storytelling in education. His experiences in teaching, publishing, and personal growth provide valuable lessons for anyone looking to achieve their goals. The interview also touches on the importance of taking responsibility for one's life and the practical steps to achieve success. Canfield's anecdotes about his early struggles and triumphs make this a compelling listen for anyone interested in self-improvement and business success.",
+    "summary_zh": "杰克·坎菲尔德与蒂姆·费里斯的深度对谈，揭示了这位成功教练如何从贫寒背景成长为销售超6亿册图书的传奇人物。他的成功原则、激励人心的故事以及与导师W.克莱门特·斯通的学习经历，为追求卓越的听众提供了宝贵的智慧。杰克的教育经验、出版业生涯以及个人成长故事，充满启发。访谈中，他强调了对生命100%负责的重要性，以及实现目标的实际步骤。这些真实的经历对任何希望提升自我的人来说都是无价之宝。",
+    "best_quote_en": "You can leave now. The class is over.",
+    "best_quote_zh": "你可以离开了。课程结束了。"
   }
 ]
