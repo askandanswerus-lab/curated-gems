@@ -1,99 +1,5 @@
 [
   {
-    "id": 63,
-    "title": "Current Language Models Struggle to Reason in Ciphered Language",
-    "title_zh": "当前语言模型难以在密码语言中进行推理",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/Lz8cvGskgXmLRgmN4/current-language-models-struggle-to-reason-in-ciphered",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This study explores the limitations of large language models (LLMs) in performing reasoning tasks when information is encoded in various ciphers. The researchers fine-tuned and few-shot prompted models from Qwen 2.5 and GPT-4.1 families using math reasoning problems encoded in simple ciphers like base64, rot13, and others. Surprisingly, they found that LLMs only showed performance improvements for very simple ciphers, with no uplift for intermediate-difficulty ciphers they could translate back to English. This suggests that LLMs struggle with reasoning in encodings uncommon in their pretraining data. The research has important implications for understanding LLM capabilities, particularly in relation to cipher-based jailbreaks and the nature of their reasoning processes. It challenges the assumption that translation abilities equate to reasoning capabilities and highlights that current LLMs likely rely heavily on human-understandable content for their reasoning.",
-    "summary_zh": "该研究探讨了大型语言模型（LLMs）在处理密码编码信息时的推理能力限制。研究人员对Qwen 2.5和GPT-4.1系列模型进行了微调和少样本提示，使用base64、rot13等简单密码编码的数学推理问题。令人惊讶的是，他们发现LLMs仅在非常简单的密码中表现出性能提升，而在中等难度的密码中无法提升，即使它们能将密码解码回英语。这表明LLMs在预训练数据中不常见的编码中难以进行推理。该研究对理解LLMs能力具有重要意义，特别是关于基于密码的越狱和它们的推理过程本质。它挑战了翻译能力等同于推理能力的假设，并强调当前LLMs在推理中可能高度依赖人类可理解的内容。",
-    "best_quote_en": "Just because you see that models can translate from and to base64 or end-speak doesn’t mean you should be worried about CoT monitorability breaking.",
-    "best_quote_zh": "仅仅因为模型能够翻译base64或end-speak，并不意味着你应该担心CoT监控能力失效。"
-  },
-  {
-    "id": 64,
-    "title": "Why María Corina Machado Says That Trump Deserves Her Nobel Peace Prize",
-    "title_zh": "为什么玛丽亚·科里娜·马查多说特朗普应该获得她的诺贝尔和平奖",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/why-maria-corina-machado-says-that-donald-trump-deserves-her-peace-prize",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article explores the complex geopolitical dynamics between the US and Venezuela under Trump's administration, focusing on Machado's controversial Nobel Peace Prize win. It reveals the irony of Trump's simultaneous aggressive military actions and peace prize lobbying, while highlighting Machado's alignment with Trump's interventionist policies. The piece offers a nuanced look at Latin American politics, questioning the Nobel Committee's decision and the implications for regional stability. Machado's evangelical vision for post-Maduro Venezuela suggests a potential shift in the political landscape, though her alliance with Trump's controversial policies raises ethical concerns about the means versus the ends of achieving democratic change.",
-    "summary_zh": "这篇文章剖析了特朗普执政期间美委关系的复杂动态，聚焦马查多诺奖得主身份背后的矛盾。它揭示了特朗普军事强硬与和平奖追求的并存，以及马查多与其干预政策的不谋而合。文章深入探讨了拉美政治格局，质疑诺奖委员会的决定及其对地区稳定的影响。马查多对后马杜罗时代的热情愿景暗示政治变革可能性，但其与特朗普争议性政策的结盟，却让人质疑民主变革的道德代价。",
-    "best_quote_en": "The regime has committed a lot of errors. I feel that they have a disconnection with the reality of the country.",
-    "best_quote_zh": "政权犯了很多错误。我认为他们与国家现实脱节。"
-  },
-  {
-    "id": 65,
-    "title": "Kayaks",
-    "title_zh": "皮划艇",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/kayaks/",
-    "tags": [
-      "learn",
-      "education",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This article presents a comprehensive exploration of kayak building and usage, featuring two distinct approaches: the Pygmy Coho stitch-and-glue plywood kayak and the Advanced Elements inflatable kayak. The first section details the author's experience building a Coho kayak, highlighting its precision-cut parts, elegant design, and stability. The second section showcases an inflatable kayak that offers convenience and portability without sacrificing performance. Additionally, the article includes a detailed guide to constructing Coho boats, emphasizing the importance of a well-organized workspace and efficient building techniques. The content provides valuable insights for both novice and experienced kayak builders, offering practical advice on materials, tools, and construction methods.",
-    "summary_zh": "这篇文章详细介绍了两种皮划艇的制作和使用体验：精密切割的科霍锁边胶合木皮划艇和便携的充气皮划艇。作者分享了自己制作科霍皮划艇的过程，赞赏其精确的部件和稳定的设计。充气皮划艇则以其便捷性和灵活性吸引人。此外，文章还提供了详细的皮划艇制作指南，强调了工作台的重要性和高效的建造技巧。内容为初学者和有经验的皮划艇制作者提供了宝贵的实用建议，涵盖材料、工具和建造方法。",
-    "best_quote_en": "The eight panels in the hull of the Coho make it a multi-chine boat, sort of halfway between a strip construction and a four-panel hull.",
-    "best_quote_zh": "科霍皮划艇的船体由八块板组成，使其成为一种介于条形结构和四板船体之间的多舷型船。"
-  },
-  {
-    "id": 66,
-    "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
-    "title_zh": "从档案中：黑人母亲身份与我——播客",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/news/audio/2025/oct/15/from-the-archive-infertility-stung-me-black-motherhood-and-me-podcast",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This poignant podcast revisits a 2022 article by Edna Bonhomme, exploring her personal journey with infertility as a Black woman. The piece challenges the assumption of reproductive agency in modern society, particularly within marginalized communities. Bonhomme's narrative intertwines personal experience with broader discussions on race, feminism, and societal expectations around motherhood. The podcast format adds emotional depth, with Nerissa Bradley's reading enhancing the raw vulnerability of the original text. This content offers a critical perspective on how systemic barriers intersect with personal struggles, making it a valuable resource for those interested in reproductive justice and the lived experiences of Black women. The discussion of IVF and fertility challenges also provides practical insights for those navigating similar medical journeys.",
-    "summary_zh": "这期播客重温了2022年Edna Bonhomme的文章，探讨她作为黑人女性面对不孕问题的个人经历。她的叙述挑战了当代社会对生育自主权的假设，特别是在弱势群体中。本期节目以Nerissa Bradley的朗读为载体，深入展现了原文中赤裸裸的脆弱感。这段内容不仅是个人故事，更融合了种族、女性主义和社会对母性的期待等更广泛的话题。对于关注生殖公平和黑人女性真实生活的听众，这期节目提供了宝贵的视角。同时，对IVF和生育问题的讨论也为面临类似医疗挑战的人们提供了实用见解。",
-    "best_quote_en": "'Infertility stung me': a powerful metaphor that encapsulates the personal and societal pain of reproductive struggles.",
-    "best_quote_zh": "不孕像蜇人一样疼：一个生动的比喻，道出了生育困境中个人与社会层面的双重痛苦。"
-  },
-  {
     "id": 67,
     "title": "Fashionable Problems",
     "title_zh": "时尚的问题",
@@ -2346,5 +2252,97 @@
     "summary_zh": "杰克·坎菲尔德与蒂姆·费里斯的深度对谈，揭示了这位成功教练如何从贫寒背景成长为销售超6亿册图书的传奇人物。他的成功原则、激励人心的故事以及与导师W.克莱门特·斯通的学习经历，为追求卓越的听众提供了宝贵的智慧。杰克的教育经验、出版业生涯以及个人成长故事，充满启发。访谈中，他强调了对生命100%负责的重要性，以及实现目标的实际步骤。这些真实的经历对任何希望提升自我的人来说都是无价之宝。",
     "best_quote_en": "You can leave now. The class is over.",
     "best_quote_zh": "你可以离开了。课程结束了。"
+  },
+  {
+    "id": 163,
+    "title": "What Microsoft Is this the Altair Basic of?",
+    "title_zh": "微软是否是下一个阿尔泰尔BASIC？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/altair.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This insightful piece explores how many successful startups initially appear unpromising or even ridiculous. The author suggests that when evaluating seemingly lame startup ideas, one should ask 'What Microsoft is this the Altair Basic of?' - a question that reframes the idea as a puzzle to solve. The Altair BASIC interpreter, which seemed insignificant at first, grew into Microsoft, demonstrating how initial appearances can be deceiving. The author notes that founders often don't fully understand their idea's potential, driven instead by instinct and a sense of what's missing in the future. The piece encourages founders to trust their instincts, especially when multiple growth paths exist, as predicting a startup's ultimate size is impossible.",
+    "summary_zh": "这篇文章深刻探讨了许多成功初创企业最初看似平淡无奇甚至荒谬的现象。作者建议，面对看似平淡的创业想法时，应问自己“微软是否是下一个阿尔泰尔BASIC？”这一问题将想法转化为需要解决的谜题。阿尔泰尔BASIC解释器最初看似微不足道，却成长为微软，展示了初始印象可能具有欺骗性。作者指出，创始人往往无法完全理解其想法的潜力，而是凭借直觉和对未来缺失的感知前行。文章鼓励创始人信任直觉，尤其当存在多条增长路径时，因为预测初创企业的最终规模是不可能的。",
+    "best_quote_en": "They were living in the future and they sensed that something was missing.",
+    "best_quote_zh": "他们生活在未来，并感受到某种缺失。"
+  },
+  {
+    "id": 164,
+    "title": "What the Democrats’ Good Night Means for 2026 and Beyond",
+    "title_zh": "民主党的大好夜晚对2026年和之后意味着什么",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/what-the-democrats-good-night-means-for-2026-and-beyond",
+    "tags": [
+      "guide",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The 2025 election results show Democrats outperforming expectations in key races, suggesting their brand may not be as damaged as perceived. Sean Trende of RealClearPolitics argues that elections are referenda on the party in power, and Democrats benefit from Trump's absence on the ballot. The analysis highlights the shifting electorate dynamics, where turnout matters more than persuasion in a polarized environment. Moderate Democratic candidates performed well, but the analysis notes that radicalism's impact is limited. The conversation also touches on the challenges Democrats face in Senate races and the potential implications for 2028, where Trump's unique turnout abilities may be missed by Republicans.",
+    "summary_zh": "2025年大选结果显示民主党在多场关键选举中超出预期表现优异，这表明民主党的品牌可能并未受到想象中那么大的损害。RealClearPolitics的肖恩·特伦德认为，选举是对执政党的全民公投，民主党在特朗普不在票上的情况下受益。分析强调了选民动态的变化，在极度两极分化的环境中，动员支持者比说服中间选民更重要。温和派民主党候选人表现出色，但分析指出激进主义的影响有限。",
+    "best_quote_en": "It’s a bad night to be a Republican. It’s hard to see what the silver lining is when you have losses all over the place.",
+    "best_quote_zh": "这是一个共和党人的坏夜晚。当你到处都在输的时候，很难看到有什么积极的一面。"
+  },
+  {
+    "id": 165,
+    "title": "Free Press / Building Stories",
+    "title_zh": "自由媒体/建筑故事",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-press-building-stories/",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This content explores two distinct but equally compelling works: a visual history of underground newspapers from 1965-1975 and a groundbreaking graphic novel collection. The first, 'Free Press', serves as a vibrant time capsule of counterculture, showcasing radical design and bold activism through newspaper covers. It offers valuable insights into the visual language of social movements and the evolution of alternative media. The second, 'Building Stories', represents Chris Ware's masterful exploration of human isolation and mundane struggles through innovative comic formats. Both works challenge conventional storytelling, offering rich material for designers, historians, and anyone interested in alternative narrative forms. The inclusion of personal anecdotes from the reviewers adds a layer of authenticity and emotional resonance.",
+    "summary_zh": "这篇内容介绍了两本截然不同但同样精彩的作品：一本记录1965-1975年地下报纸的视觉史，以及一套开创性的图像小说集。前者《自由媒体》如同反文化运动的活化石，通过报纸封面展现激进的设计与大胆的倡议。后者《建筑故事》展现了克里斯·韦尔对人类孤独与平凡困境的深刻探索。两书都打破传统叙事方式，为设计师、历史学家及追求新型叙事形式的读者提供丰富素材。评论者的个人经历增添了真实感与情感共鸣。",
+    "best_quote_en": "'The covers of the papers were bold, experimental, and subversive.'",
+    "best_quote_zh": "这些报纸的封面大胆实验且具颠覆性。"
+  },
+  {
+    "id": 166,
+    "title": "The Tim Ferriss Show Transcripts: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
+    "title_zh": "蒂姆·费里斯播客转录：David Baszucki，Roblox联合创始人——通往1.5亿+日活用户的道路，关键商业决策，酮代谢疗法改善大脑健康，每日习惯，Roblox经济，以及更多 (#834)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/05/david-baszucki-roblox-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This transcript of Tim Ferriss's interview with David Baszucki, co-founder of Roblox, offers a fascinating dual narrative that bridges technology innovation with personal health breakthroughs. The conversation begins with Roblox's remarkable journey to 150M+ daily users, showcasing Baszucki's entrepreneurial insights and the platform's cultural impact. However, the most compelling portion reveals Baszucki's deeply personal struggle with his son's bipolar disorder and the transformative power of ketogenic therapy. The discussion of metabolic psychiatry provides a scientific framework for understanding how dietary changes can profoundly affect mental health, offering hope for those who've found conventional treatments ineffective. Baszucki's candid sharing of his family's ordeal humanizes the discussion about mental health, making complex medical concepts relatable. The interview also touches on the challenges of maintaining ketosis, practical dietary strategies, and the surprising cognitive benefits observed through personal experimentation. This content stands out for its unique combination of business innovation and personal health discovery, making it valuable for entrepreneurs, health enthusiasts, and anyone interested in the intersection of technology and wellness.",
+    "summary_zh": "蒂姆·费里斯与Roblox联合创始人David Baszucki的对话，揭示了科技创新与个人健康突破的双重叙事。从Roblox如何达到1.5亿日活用户开始，展现了Baszucki的创业洞察与平台的文化影响力。但最动人的部分是他讲述儿子患双相情感障碍的斗争，以及酮代谢疗法的神奇作用。关于代谢精神病学的讨论，为理解饮食如何深刻影响心理健康提供了科学框架，为传统治疗无效的人带来希望。Baszucki真实分享的家庭经历，使复杂的医学概念变得亲切易懂。对话还涉及维持酮症的挑战、实用饮食策略，以及通过个人实验发现的惊人认知益处。这段内容以其独特的商业创新与个人健康发现的结合，对创业者、健康爱好者以及对科技与健康交叉领域感兴趣的人具有价值。",
+    "best_quote_en": "How is it possible after eight years and hospitalizations and very difficult times and complete disruption and I would say possibly concerned, would our son ever go back to school? Would he ever work? Would he ever integrate? We worked with Dr. Palmer and others and he tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.",
+    "best_quote_zh": "经过八年的住院治疗和极其困难的时期，以及完全的中断，我必须说，我们可能会担心儿子是否还能回到学校？他还能工作吗？他还能融入社会吗？我们和帕尔默博士以及其他人合作，他尝试了生酮饮食，仅仅在三四周内，我们就看到了从未在任何药物或药物中看到的进展。这太不可思议了，真的，简直是一个奇迹。"
   }
 ]
