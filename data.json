@@ -1,123 +1,5 @@
 [
   {
-    "id": 67,
-    "title": "Fashionable Problems",
-    "title_zh": "时尚的问题",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fp.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This thought-provoking piece explores the phenomenon of 'fashionable problems' in various fields, where even innovative thinkers tend to work on similar, trendy topics. The author observes that many domains are only partially explored because of this collective focus. The key insight is that truly valuable discoveries often come from revisiting seemingly exhausted fields with new approaches. The article suggests that genuine passion for one's work may be the best defense against this conformist tendency, as it allows persistence even when a field appears marginal. This perspective challenges conventional wisdom about innovation and offers a counterintuitive path to breakthroughs.",
-    "summary_zh": "这篇文章深刻探讨了各领域普遍存在的“时尚问题”现象，即使是创新思维者也倾向于从事相似的热门课题。作者发现许多领域因集体关注而仅部分探索。核心观点是，真正有价值的发现往往来自用新方法重新审视看似已被耗尽的领域。文章建议，对工作的真诚热爱或许是抵御这种从众倾向的最佳防线，因为它能使人在领域看似边缘时仍坚持不懈。这一视角挑战了创新的常规认知，提出了一个逆向思维的突破路径。",
-    "best_quote_en": "The best protection against getting drawn into working on the same things as everyone else may be to genuinely love what you're doing.",
-    "best_quote_zh": "抵御被卷入与他人相同工作的最佳防线或许是真心热爱所做之事。"
-  },
-  {
-    "id": 68,
-    "title": "Gaza’s Broken Politics",
-    "title_zh": "加沙的破碎政治",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/essay/gazas-broken-politics",
-    "tags": [
-      "update",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "The essay examines the collapse of political structures in Gaza, highlighting the failures of Hamas, the Palestinian Authority, and other factions. It critically assesses Donald Trump's proposed plan for Gaza, which aims to manage the region through external oversight rather than local governance. The author argues that this plan risks entrenching a permanent occupation under the guise of temporary management. The piece also reflects on the broader historical context, including the Oslo Accords and the rise of Hamas, and calls for genuine Palestinian political agency in rebuilding Gaza. The author emphasizes the need for local leadership and the dangers of international trusteeship, urging Palestinians to reclaim their political future.",
-    "summary_zh": "文章分析了加沙政治体系的崩溃，指出哈马斯、巴勒斯坦权力机构及其他派系的失败。批判性地评估了特朗普提出的加沙计划，该计划旨在通过外部监督管理该地区，而非地方治理。作者认为，该计划可能使临时管理演变为永久占领。文章还回顾了更广泛的历史背景，包括奥斯陆协议和哈马斯的崛起，呼吁巴勒斯坦在重建加沙时拥有真正的政治自主权。作者强调需要本地领导层，并警惕国际托管，呼吁巴勒斯坦人民重新掌控自己的政治未来。",
-    "best_quote_en": "The cruellest occupation is not of land but of the imagination.",
-    "best_quote_zh": "最残酷的占领不是对土地的，而是对想象力的。"
-  },
-  {
-    "id": 69,
-    "title": "Donabe / We Stand on Guard",
-    "title_zh": "Donabe / 我们守卫",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/donabe-we-stand-on-guard/",
-    "tags": [
-      "inspire",
-      "politics",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This analysis presents two distinct works: a culinary exploration of Japanese donabe cooking and a political sci-fi graphic novel about Canada's defense against US aggression. The donabe book offers a cultural deep dive into traditional Japanese clay pot cooking, blending history, technique, and communal dining philosophy. Its strength lies in accessible recipes and personal anecdotes that make complex techniques approachable. The graphic novel We Stand on Guard presents a chilling near-future scenario where Canada must defend itself against US invasion, exploring themes of resource wars and national identity. Both works demonstrate how cultural artifacts can challenge our perspectives - one by expanding our culinary horizons, the other by forcing us to reconsider geopolitical dynamics. The donabe book succeeds as both educational resource and cultural bridge, while the graphic novel excels in political commentary through speculative fiction.",
-    "summary_zh": "本文分析了两部作品：一本关于日本陶锅烹饪的美食书籍，以及一部关于加拿大抵抗美国侵略的政治科幻漫画。陶锅烹饪书深入探讨了传统日式陶锅烹饪的历史、技巧和共享用餐文化，通过易于理解的食谱和个人轶事，使复杂的烹饪技术变得简单易懂。漫画《我们守卫》则展现了一个近未来的恐怖情景，加拿大不得不抵抗美国的入侵，探讨了资源战争和国家认同等主题。这两部作品都展示了文化艺术品如何挑战我们的视角：一本扩展了我们的美食视野，另一本则迫使我们重新考虑地缘政治动态。陶锅烹饪书在教育资源和文化桥梁方面表现出色，而漫画则在通过推测性小说进行政治评论方面表现突出。",
-    "best_quote_en": "Don't just drink up the broth, create yet another course!",
-    "best_quote_zh": "别只顾着喝汤，还可以再做一道菜！"
-  },
-  {
-    "id": 70,
-    "title": "Helion Needs You",
-    "title_zh": "Helion 需要你的加入",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion-needs-you",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2022-07-13",
-    "summary_en": "Helion's rapid progress in fusion energy promises to revolutionize global power generation, aiming for Q>1 fusion and mass-producible generators by 2024. The company's vision of $0.01 per kWh clean energy could transform economies and enable carbon capture. However, technical and engineering challenges remain, with talent acquisition now being the key to success. The article highlights specific engineering roles and emphasizes the need for diverse expertise to scale this potentially world-changing technology. This is a call to action for skilled professionals to join a mission that could redefine our energy future.",
-    "summary_zh": "Helion在核聚变能源领域的快速进展有望彻底改变全球电力生产格局，计划在2024年实现Q>1聚变和可量产的发电机。该公司提出的每千瓦时仅1美分的清洁能源目标，将彻底改变经济格局并促进碳捕捉技术。然而，技术和工程挑战仍然存在，人才引进成为成功关键。文章列出了具体工程岗位，强调需要多元专业人才来推动这项可能改变世界的技术。",
-    "best_quote_en": "If both things happen, it will transform the world. Abundant, clean, and radically inexpensive energy will elevate the quality of life for all of us.",
-    "best_quote_zh": "如果这两件事都能实现，将彻底改变世界。丰富、清洁且极其低廉的能源将提升我们所有人的生活品质。"
-  },
-  {
-    "id": 71,
-    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
-    "title_zh": "另一篇关于基拉·奈特利主演电影《客舱10号的女人》的卫报报道 | 简短来信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This brief article connects the film 'The Woman in Cabin 10' with the Guardian's legacy, highlighting the family connection between legendary journalist Norman Shrapnel and his grandson, the film's co-writer. The piece reflects on Shrapnel's influential style and includes reader letters on diverse topics from immigration policies to literary anecdotes. While short, it offers a glimpse into the Guardian's editorial culture and reader engagement. The mention of Shrapnel's impact underscores the enduring influence of quality journalism, while the reader letters demonstrate the paper's role as a platform for public discourse.",
-    "summary_zh": "这篇短文将电影《客舱10号的女人》与卫报的传统联系起来，突出了传奇记者诺曼·沙普内尔与其孙子（影片编剧）之间的家庭渊源。文章回顾了沙普内尔独特的写作风格对卫报记者的影响，并附带读者来信涵盖移民政策、文学趣事等多个话题。短小精悍中展现了卫报的编辑文化与读者互动，沙普内尔的影响力提醒我们优质新闻的持久价值，而读者来信则体现报纸作为公共讨论平台的作用。",
-    "best_quote_en": "'His ironic edge and sharp eye for social detail made him the much-imitated master of a whole generation of Guardian writers.'",
-    "best_quote_zh": "他的讽刺笔锋和对社会细节的锐利观察，使他成为一代卫报作家们效仿的典范。"
-  },
-  {
     "id": 72,
     "title": "Having Kids",
     "title_zh": "有孩子",
@@ -2344,5 +2226,117 @@
     "summary_zh": "蒂姆·费里斯与Roblox联合创始人David Baszucki的对话，揭示了科技创新与个人健康突破的双重叙事。从Roblox如何达到1.5亿日活用户开始，展现了Baszucki的创业洞察与平台的文化影响力。但最动人的部分是他讲述儿子患双相情感障碍的斗争，以及酮代谢疗法的神奇作用。关于代谢精神病学的讨论，为理解饮食如何深刻影响心理健康提供了科学框架，为传统治疗无效的人带来希望。Baszucki真实分享的家庭经历，使复杂的医学概念变得亲切易懂。对话还涉及维持酮症的挑战、实用饮食策略，以及通过个人实验发现的惊人认知益处。这段内容以其独特的商业创新与个人健康发现的结合，对创业者、健康爱好者以及对科技与健康交叉领域感兴趣的人具有价值。",
     "best_quote_en": "How is it possible after eight years and hospitalizations and very difficult times and complete disruption and I would say possibly concerned, would our son ever go back to school? Would he ever work? Would he ever integrate? We worked with Dr. Palmer and others and he tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.",
     "best_quote_zh": "经过八年的住院治疗和极其困难的时期，以及完全的中断，我必须说，我们可能会担心儿子是否还能回到学校？他还能工作吗？他还能融入社会吗？我们和帕尔默博士以及其他人合作，他尝试了生酮饮食，仅仅在三四周内，我们就看到了从未在任何药物或药物中看到的进展。这太不可思议了，真的，简直是一个奇迹。"
+  },
+  {
+    "id": 167,
+    "title": "Single mothers in China find a new kind of partner – other single mothers",
+    "title_zh": "中国单身母亲找到新伙伴——其他单身母亲",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers",
+    "tags": [
+      "solve",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This article explores a growing trend in China where single mothers are forming cohabitation arrangements to share child-rearing responsibilities and financial burdens. As divorce rates rise and economic pressures mount, these women are creating informal support networks that challenge traditional family structures. The piece highlights the practical benefits and emotional support these arrangements provide, while also acknowledging the social stigma and legal vulnerabilities they face. It's a compelling look at how women are navigating systemic challenges through grassroots solutions, offering insights into modern family dynamics in China.",
+    "summary_zh": "随着离婚率上升和生活成本增加，中国单身母亲正寻找新的生活伙伴——其他单身母亲。她们组成共同居住的家庭，分担抚养责任和经济压力。这种非正式的支持网络既给予实际帮助，也带来情感支持，尽管面临社会偏见和法律保障的缺失。文章深入探讨了这种现象背后的社会动因，展现了中国当代家庭关系的复杂变化。",
+    "best_quote_en": "'At the core, we both know very clearly why we’re together – it’s about sharing and managing the risks and pressures of life.'",
+    "best_quote_zh": "“我们在一起的核心原因很简单——是为了分担生活中的风险和压力。”"
+  },
+  {
+    "id": 168,
+    "title": "The Ronco Principle",
+    "title_zh": "罗恩·康威原则",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ronco.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The Ronco Principle explores how Ron Conway's benevolence has become a powerful advantage in the startup investment world. The piece argues that in today's transparent and unpredictable startup ecosystem, being genuinely good is not just morally right but strategically advantageous. Conway's success stems from his reputation for fairness and integrity, which attracts the best deals through referrals. The author suggests that the increasing transparency and rapid changes in the startup world make it impossible to seem good without actually being good. This principle extends beyond startups, as most industries are becoming more interconnected and unpredictable, favoring those who are genuinely ethical and upstanding.",
+    "summary_zh": "罗恩·康威的成功源于其善良本性，这种品质在透明且不确定的创业生态中成为强大的竞争优势。文章指出，在今天的创业世界，真诚的善意不仅是道德的选择，更是战略上的明智之举。康威的声誉吸引了最优质的投资机会，而这种趋势正在向其他行业扩展，因为世界变得更加互联和不可预测。",
+    "best_quote_en": "In a sufficiently connected and unpredictable world, you can't seem good without being good.",
+    "best_quote_zh": "在一个足够互联且不可预测的世界里，你无法装出善良的样子而不真正善良。"
+  },
+  {
+    "id": 169,
+    "title": "America Begins Clapping Back at Donald Trump",
+    "title_zh": "美国开始反击特朗普",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "Susan B. Glasser's analysis captures a pivotal moment in American politics where resistance to Donald Trump's presidency is gaining momentum. The article highlights Trump's unchecked behavior, from hosting a provocative Halloween party during a government shutdown to freezing critical infrastructure funding before elections. The Democratic victories in key races suggest growing voter backlash, though the extent of this opposition remains uncertain. Glasser notes Trump's characteristic response to setbacks—blame-shifting and distraction—which may only intensify as new political figures like Zohran Mamdani emerge. The passing of Dick Cheney and Nancy Pelosi's retirement underscore the generational shift in politics, signaling that Trump's influence may be waning. The piece thoughtfully explores whether this moment marks a broader repudiation of Trumpism or merely localized discontent.",
+    "summary_zh": "格拉斯的分析捕捉了美国政治的一个关键时刻，反特朗普的抵抗力量正在增强。文章突出了特朗普的无所顾忌行为，从在政府关门期间举办引发争议的万圣节派对，到选举前冻结关键基建资金。民主党在关键选举中的胜利表明选民反弹可能加剧，但这一趋势的深度仍存疑。格拉斯指出特朗普面对挫折的典型反应——转嫁责任和转移视线，这可能随着新政治人物如曼达尼的崛起而加剧。切尼的去世和佩洛西退休凸显了政治世代更迭，暗示特朗普的影响力可能减弱。文章深入探讨了这一时刻是否标志着对特朗普主义的全面否定，还是仅仅局部不满。",
+    "best_quote_en": "The retirement of Nancy Pelosi is a great thing for America... I'm very honored that she impeached me twice and failed miserably twice.",
+    "best_quote_zh": "佩洛西的退休是美国的一件好事... 我很荣幸她两次弹劾我都惨败收场。"
+  },
+  {
+    "id": 170,
+    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
+    "title_zh": "改善旅行体验的实用工具与趋势分析",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This newsletter offers practical travel solutions and insightful trends. The versatile travel pillow addresses common airplane discomforts with its adjustable design, while the pre-packed toiletry kit demonstrates smart preparation for frequent travelers. The data-backed travel trends reveal emerging destinations and unique travel patterns like 'set jetting.' The expat survey highlights Asia's growing appeal, particularly China, for its convenience. These insights cater to both practical travelers seeking solutions and those curious about global travel patterns.",
+    "summary_zh": "这封新闻稿提供了实用的旅行解决方案和洞察性趋势分析。多功能旅行枕头解决了飞行时的舒适性问题，而预装的洗漱套装展示了频繁旅行者的智慧准备。数据支持的旅行趋势揭示了新兴目的地和独特的旅行模式，如'场景旅行'。侨民调查凸显了亚洲日益增长的吸引力，尤其是中国，因其便利性。这些洞见既适合寻求实用解决方案的旅行者，也适合对全球旅行模式感兴趣的读者。",
+    "best_quote_en": "'Convenience is a recurring theme, with expats across China raving about fast public transportation to efficient online shopping.'",
+    "best_quote_zh": "“便利性是一个反复出现的主题，中国各地的侨民对快速公共交通和高效的网络购物赞不绝口。”"
+  },
+  {
+    "id": 171,
+    "title": "Funding for COVID-19 Projects",
+    "title_zh": "COVID-19项目资金",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2020-03-15",
+    "summary_en": "This post reflects a practical approach to combating COVID-19 through startup funding, highlighting four key areas where innovative solutions are needed. The author, leveraging their expertise in startup funding, identifies ventilator production, drug screening, novel vaccine approaches, and therapeutics as critical focus areas. The post demonstrates a problem-solving mindset, recognizing that engineering solutions can address immediate needs while scientific challenges require longer-term innovation. The author's hands-on approach, including direct outreach rather than relying on a public spreadsheet, shows a commitment to action. This content serves as both a call to action for innovators and a reflection on how to effectively mobilize resources during a crisis.",
+    "summary_zh": "这篇文章展示了通过资助创业项目来对抗COVID-19的务实方法，突出了四个需要创新解决方案的关键领域。作者利用其创业资助专长，将通风机生产、药物筛选、新型疫苗方法和治疗作为重点领域。文章展现了解决问题的思维，认识到工程解决方案可以解决紧迫需求，而科学挑战则需要长期创新。作者主动寻求合作的态度，以及选择直接联系而非依赖公共表格，体现了其行动力。该内容既是对创新者的号召，也是危机中如何有效动员资源的思考。",
+    "best_quote_en": "I think we will soon have enough testing capacity, so now I’d like to start funding more startups working on novel approaches to vaccines and therapeutics.",
+    "best_quote_zh": "我认为我们很快将拥有足够的检测能力，现在我想开始资助更多从事新型疫苗和治疗方法的初创企业。"
   }
 ]
