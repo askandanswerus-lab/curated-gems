@@ -1,123 +1,5 @@
 [
   {
-    "id": 72,
-    "title": "Having Kids",
-    "title_zh": "有孩子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kids.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This reflective piece explores the transformative experience of parenthood, challenging common misconceptions. The author shares how their perspective shifted from dread to deep appreciation, highlighting the chemical and emotional changes that occur. The essay reveals the author's initial biased observations of parenting, shaped by witnessing only difficult moments, and contrasts this with the quiet, profound joys of daily life with children. It acknowledges the challenges, including reduced productivity and shifted priorities, but ultimately concludes that the happiness and meaningful moments outweigh the sacrifices. The piece serves as both a personal testament and a broader commentary on the universal experience of parenthood.",
-    "summary_zh": "这篇文章深刻探讨了育儿的转变过程，挑战了人们对为人父母的常见误解。作者分享了从恐惧到深深欣赏的心路历程，强调了生育后的化学和情感变化。文章揭示了作者最初对育儿的偏见观察，仅看到困难时刻，与育儿日常生活中宁静而深刻的快乐形成对比。它承认了挑战，包括生产力下降和优先级转移，但最终认为幸福和有意义的时刻超越了牺牲。这篇文章既是个人见证，也是对普遍育儿经历的广泛评论。",
-    "best_quote_en": "I feel like they just got the best gift in the world.",
-    "best_quote_zh": "我感觉他们得到了世界上最好的礼物。"
-  },
-  {
-    "id": 73,
-    "title": "Among the Talibros",
-    "title_zh": "旅行博主的极端真实：阿富汗的“塔利班兄弟”现象",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/among-the-talibros",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This article explores the rise of 'alt-travel' influencers who present a provocative, often misleading view of dangerous destinations like Afghanistan. By using dark humor and irony, these creators challenge mainstream narratives but often oversimplify complex geopolitical realities. The piece highlights how influencers like Yosaf Aryubi and Addison Maalouf create content that appeals to young male audiences skeptical of traditional media, while ignoring historical context and human rights issues. The author critiques this trend as exploitative and harmful, contributing to a broader erosion of trust in expertise and facts.",
-    "summary_zh": "这篇文章探讨了“另类旅行”博主如何用黑色幽默和反讽呈现阿富汗等危险地点的“极端真实”。他们挑战主流叙事，但常常简化复杂的地缘政治现实。作者批评这种趋势是剥削性的，忽视了历史背景和人权问题，助长了年轻男性观众对传统媒体的怀疑，并加剧了对专家和事实的信任危机。",
-    "best_quote_en": "Instead of simply trying to uncover the truth, these influencers scramble people’s minds and make them question whether anything they’re being told is true.",
-    "best_quote_zh": "这些网红并非单纯试图揭露真相，而是让人们的思绪混乱，质疑自己所听到的一切是否属实。"
-  },
-  {
-    "id": 74,
-    "title": "What’s in my NOW? — Alison Qiu",
-    "title_zh": "我的现在有什么？ — 艾莉森·丘",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-alison-qiu/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Alison Qiu's 'What's in my NOW?' offers a refreshing blend of practical recommendations and introspective wisdom. Her curated list of physical, digital, and invisible tools reveals both her resourcefulness and her thoughtful approach to self-improvement. The physical items highlight her focus on health and creativity, while the digital tools demonstrate her innovative approach to mental well-being. The invisible quote encapsulates her growth mindset, making this a compelling mix of actionable advice and personal philosophy. It's particularly noteworthy how she bridges productivity with self-care in a way that feels both authentic and achievable.",
-    "summary_zh": "艾莉森·丘的“我的现在有什么？”展现了实用推荐与内省智慧的完美结合。她精心挑选的物理、数字和隐形工具既展现了她的务实精神，也体现了对自我提升的深刻思考。物理用品凸显了健康与创造力，数字工具则展现了她对心理健康的创新思维。那句“每个人都能教会你一些东西”道出了她的成长心态，使这份清单既有可操作性又富有哲理。她将效率与自我关怀的完美融合令人印象深刻。",
-    "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
-    "best_quote_zh": "每个人都能教会你一些东西。尽可能多地向他们学习。"
-  },
-  {
-    "id": 75,
-    "title": "DALL•E 2",
-    "title_zh": "DALL•E 2",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/dall-star-e-2",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2022-04-06",
-    "summary_en": "The launch of DALL•E 2 marks a significant milestone in AI-driven creativity tools. This advanced image generation system demonstrates remarkable capabilities in understanding and executing natural language instructions, potentially revolutionizing creative workflows. The author highlights its potential to enhance creativity while acknowledging its implications for labor markets. Notably, DALL•E 2 challenges conventional wisdom about AI development trajectories, suggesting that creative tasks may be automated before physical or cognitive ones. The incremental deployment strategy reflects a thoughtful approach to mitigating potential downsides. This tool exemplifies how AI can democratize creative expression while raising important questions about job relevance and ethical considerations.",
-    "summary_zh": "DALL•E 2的发布标志着AI驱动的创意工具发展的重要里程碑。这款先进的图像生成系统在理解和执行自然语言指令方面展现出了惊人的能力，可能彻底改变创意工作流程。作者强调了它增强创造力的潜力，同时也承认它对劳动力市场的影响。尤其值得注意的是，DALL•E 2颠覆了关于AI发展轨迹的传统观点，表明创意任务可能会在体力或认知任务之前被自动化。逐步部署策略体现了对潜在负面影响的谨慎考虑。这款工具展示了AI如何民主化创意表达，同时也提出了关于工作相关性和伦理问题的重要思考。",
-    "best_quote_en": "It’s a reminder that predictions about AI are very difficult to make. A decade ago, the conventional wisdom was that AI would first impact physical labor, and then cognitive labor, and then maybe someday it could do creative work. It now looks like it’s going to go in the opposite order.",
-    "best_quote_zh": "这提醒我们，关于AI的预测非常困难。十年前，人们普遍认为AI会先影响体力劳动，然后是认知劳动，或许某天才能做创意工作。现在看来，它可能会按照相反的顺序进行。"
-  },
-  {
-    "id": 76,
-    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
-    "title_zh": "杰斯·卡特纳-莫利关于时尚：这个冬天穿外套的第一规则——长款最重要",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Jess Cartner-Morley's fashion advice cuts through seasonal noise with a singular focus: this winter, coat length matters most. She argues that long coats, extending well below the knees, have become the definitive style indicator. This isn't just a passing trend but a response to looser trouser silhouettes and a broader shift in fashion aesthetics. The piece highlights how luxury brands like Burberry and MaxMara are embracing this trend with bold designs, proving that long coats can work for all body types. The analysis sparks reflection on how outerwear becomes a canvas for personal expression during colder months, challenging the notion that fashion trends are superficial.",
-    "summary_zh": "杰斯·卡特纳-莫利的时尚建议直击重点：今冬外套长度至关重要。她认为长及脚踝的大衣成为风格标志，这不仅是潮流，更是对宽松裤型的回应和时尚美学的整体变化。文中提到奢侈品牌Burberry和MaxMara推出的大胆设计，证明长款外套适合各种身材。分析引发对外套作为个人表达载体的思考，挑战了时尚趋势的肤浅印象。",
-    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news. If your coat reaches almost to your ankles, you will look as if you know your stuff style-wise.",
-    "best_quote_zh": "外套要长，这就是大新闻。如果你的外套几乎拖到脚踝，你看起来就会像懂时尚的人。"
-  },
-  {
     "id": 77,
     "title": "The Lesson to Unlearn",
     "title_zh": "需要重新学习的功课",
@@ -2338,5 +2220,121 @@
     "summary_zh": "这篇文章展示了通过资助创业项目来对抗COVID-19的务实方法，突出了四个需要创新解决方案的关键领域。作者利用其创业资助专长，将通风机生产、药物筛选、新型疫苗方法和治疗作为重点领域。文章展现了解决问题的思维，认识到工程解决方案可以解决紧迫需求，而科学挑战则需要长期创新。作者主动寻求合作的态度，以及选择直接联系而非依赖公共表格，体现了其行动力。该内容既是对创新者的号召，也是危机中如何有效动员资源的思考。",
     "best_quote_en": "I think we will soon have enough testing capacity, so now I’d like to start funding more startups working on novel approaches to vaccines and therapeutics.",
     "best_quote_zh": "我认为我们很快将拥有足够的检测能力，现在我想开始资助更多从事新型疫苗和治疗方法的初创企业。"
+  },
+  {
+    "id": 172,
+    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
+    "title_zh": "派对着装最意想不到的升级：鸡尾酒T恤",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
+    "tags": [
+      "inspire",
+      "design",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The cocktail T-shirt represents an intriguing evolution in party fashion, blending casual comfort with elevated elegance. This trend addresses multiple consumer needs: the desire for versatile pieces that transition between day and night wear, the demand for sustainable fashion solutions, and the need for inclusive sizing that accommodates diverse body types. The wool-based construction offers practical thermal regulation, making it ideal for unpredictable festive season weather. Designers like Prada are driving this trend with high-end interpretations, while high street brands are making it more accessible. The trend also challenges traditional party fashion norms by offering coverage alternatives to typical revealing options. This shift reflects broader fashion movements towards sustainability, versatility, and body positivity.",
+    "summary_zh": "鸡尾酒T恤将休闲舒适与高雅优雅结合，代表派对时尚的有趣演变。这一趋势满足多样消费需求：需求可在日夜间切换的百搭单品，追求可持续时尚解决方案，以及适应多样体型的包容性尺码。羊毛制成的款式提供实用的热调节功能，非常适合天气变化无常的节日季。设计师如普拉达推动这一趋势，而街头品牌则让其更易获得。这一趋势还挑战传统派对时尚规范，提供不同于常见暴露款式的覆盖选项，反映了更广泛的时尚运动，如可持续性、百搭性和身体积极性。",
+    "best_quote_en": "'They have that sort of understated look that a T-shirt tends to give the wearer, but unlike the way a cotton T-shirt sort of unravels by midday, the knit has a more polished effect.'",
+    "best_quote_zh": "它们具有T恤通常给穿着者带来的那种低调外观，但与棉T恤中午左右就会变得凌乱的情况不同，针织品更显精致。"
+  },
+  {
+    "id": 173,
+    "title": "What Doesn't Seem Like Work?",
+    "title_zh": "什么看起来不像工作？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/work.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "This essay explores the concept of finding work that doesn't feel like work by examining the author's father's passion for mathematics and problem-solving. It highlights how individual preferences can shape career paths and suggests that tasks others find tedious may reveal one's true calling. The author shares personal anecdotes about programming and writing papers for friends, emphasizing that unique tastes often indicate where one's strengths lie. The piece encourages readers to identify activities that feel rewarding to them but might seem like work to others, presenting this as a valuable heuristic for career choice.",
+    "summary_zh": "这篇文章通过作者父亲对数学的热爱与解决问题的热情，探讨了如何发现不觉得是工作的工作。它强调个人偏好如何塑造职业道路，并建议那些他人觉得枯燥的任务可能揭示你的天赋所在。作者分享了编程和为朋友写论文的个人轶事，指出独特的兴趣往往指向你的强项。文章鼓励读者找出那些对你有意义但他人觉得是工作的活动，将其作为职业选择的有价值指南。",
+    "best_quote_en": "If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.",
+    "best_quote_zh": "如果某件事对别人来说像工作，对你来说却不像工作，那么这就是你擅长的领域。"
+  },
+  {
+    "id": 174,
+    "title": "Review: Parsifal at the SF Opera",
+    "title_zh": "评论：旧金山歌剧院的《帕西法尔》",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/GxAQ4yeQHdj5f7LFW/review-parsifal-at-the-sf-opera",
+    "tags": [
+      "analyze",
+      "design",
+      "music-arts",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "音乐艺术",
+      "深度分析"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "The review of Wagner's Parsifal at the SF Opera offers a fascinating blend of cultural critique and personal reflection. The author explores the opera's reputation for being long and melodramatic, which might actually be seen as compliments in the opera world. The piece delves into Wagner's unique vision for the Bayreuth Festival and the deliberate discomfort of its seating, though the SF Opera's more comfortable seats are noted as a deviation. The review highlights the opera's complex symbolism and themes, drawing parallels to various religious traditions, including Judaism. The author's personal experience with the opera, including their Halloween costume mishap, adds a humorous and relatable touch. The piece ultimately reflects on the universal themes of guilt, redemption, and the human condition, making the opera's abstract concepts more accessible and thought-provoking.",
+    "summary_zh": "这篇对旧金山歌剧院《帕西法尔》的评论融合了文化批判与个人反思。作者探讨了这部歌剧因长且戏剧化而拥有的声誉，这在歌剧迷眼中反而可能是褒奖。文章深入分析了瓦格纳为拜罗伊特节设计的独特愿景和刻意不舒适的座椅，尽管旧金山歌剧院的座椅更舒适。评论突出了歌剧复杂的象征意义和主题，并将其与各种宗教传统，包括犹太教进行了比较。作者个人观看歌剧的经历，包括万圣节服装的失败尝试，为文章增添了幽默和亲切感。最终，文章反思了罪孽、救赎和人性等普遍主题，使歌剧的抽象概念更易于理解和思考。",
+    "best_quote_en": "The Bühnenweihfestspiel is consumed in parallel. It washes over you for four or five hours, and then you find yourself with new, inarticulable opinions on guilt, redemption, comparative religion, and magic dinnerware.",
+    "best_quote_zh": "拜伦韦节庆剧是并行消费的。它会持续四五个小时冲击你，然后你会发现自己对罪孽、救赎、比较宗教和魔法餐具有了新的、无法言喻的见解。"
+  },
+  {
+    "id": 175,
+    "title": "Rebels Post Videos of Mass Killings in Darfur as the World Watches",
+    "title_zh": "叛军在达尔富尔大规模屠杀视频曝光 世界袖手旁观",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-fall-of-el-fasher",
+    "tags": [
+      "solve",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This harrowing report exposes the brutal reality of the ongoing conflict in Darfur, Sudan, where the Rapid Support Forces (RSF) have taken control of El Fasher after a 500-day siege. The article presents chilling evidence of mass killings, including social media videos posted by militiamen showing executions of prisoners and satellite imagery revealing patterns of atrocities. Experts warn of a potential genocide unfolding, with tens of thousands already killed. The report highlights the international community's failure to act, despite clear evidence of war crimes and the involvement of foreign powers like the UAE in arming the RSF. The humanitarian crisis is dire, with famine, mass displacement, and systematic targeting of ethnic minorities. The piece critically examines the US administration's inadequate response, including hosting sanctioned RSF officials for ceasefire talks, and questions the global indifference to the escalating violence.",
+    "summary_zh": "这篇报道揭露了苏丹达尔富尔地区持续冲突的残酷现实，快速支持部队(RSF)在经过500天围城后接管了埃尔法舍尔。文章展示了令人毛骨悚然的大规模屠杀证据，包括武装分子发布的处决俘虏的社交媒体视频和显示大规模杀戮模式的卫星影像。专家警告正在上演的可能是种族灭绝，已有数万人遇难。报道强调国际社会未能采取行动，尽管明确证据表明发生战争罪行，并且外国势力如阿联酋向RSF提供武器。人道主义危机严重，饥荒、大规模流离失所和系统性针对少数民族的行为层出不穷。文章批评了美国政府的无力回应，包括接待受制裁的RSF官员进行停火谈判，并质疑全球对不断升级暴力的冷漠。",
+    "best_quote_en": "The world has just stood there watching, not taking any concrete action.",
+    "best_quote_zh": "世界只是袖手旁观，没有采取任何具体行动。"
+  },
+  {
+    "id": 176,
+    "title": "What’s in my NOW? — Ken Batchelor",
+    "title_zh": "What’s in my NOW? —— 肯·巴切勒",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-ken-batchelor/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Ken Batchelor's reflection on small, meaningful elements that enrich his daily life offers a refreshing perspective on mindfulness and intentional living. His focus on physical, digital, and invisible tools reveals how simple objects and practices can bring joy and purpose. The You Matter cards embody kindness in everyday interactions, while barefoot shoes represent a return to natural movement. Digital tools like LibraryThing and AlphaGuess highlight the value of organization and playful engagement. The reference to Philip K. Dick's meditation on listening to the subtle sounds of nature underscores the importance of mindfulness in reducing stress. Batchelor's writing encourages us to appreciate the small, often overlooked aspects of life that contribute to our well-being.",
+    "summary_zh": "肯·巴切勒通过分享日常生活中的小物件和习惯，展现了一种充满意趣的生活态度。从物理层面的「You Matter卡」传递关怀，到数字工具帮助整理生活，再到灵性层面对自然细微之美的捕捉，这些看似平凡的实践却蕴含着深刻的生活智慧。他的文字提醒我们，真正的幸福往往藏在生活的细节中，而在于我们是否有心去发现和珍惜。",
+    "best_quote_en": "Listening for the sound of the anklets on the feet of an insect as it walks.",
+    "best_quote_zh": "聆听昆虫行走时脚铃的声音。"
   }
 ]
