@@ -1,123 +1,5 @@
 [
   {
-    "id": 77,
-    "title": "The Lesson to Unlearn",
-    "title_zh": "需要重新学习的功课",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lesson.html",
-    "tags": [
-      "solve",
-      "education",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "The author argues that the most damaging lesson from school isn't from any specific class but the emphasis on grades over actual learning. This misalignment persists through higher education and professional life, where people are trained to 'hack' tests rather than engage in meaningful work. The article explores how this mindset affects startup founders, who initially seek shortcuts to success rather than focusing on building great products. The core insight is that many systems (education, corporate environments) reward test-hacking rather than genuine skill development, and recognizing this can liberate individuals to pursue more authentic, value-driven work.",
-    "summary_zh": "作者认为，学校最有害的教训不是某门课程的内容，而是将成绩与真正学习混为一谈。这种错误的认知贯穿于高等教育和职业生涯，让人们学会了如何“破解”考试而非真正学习。文章探讨了这种思维模式如何影响初创公司创始人，他们一开始就寻求成功的捷径，而非专注于打造优秀产品。核心观点是，许多体系（教育、企业环境）更青睐考试破解者而非真正的能力建设者，意识到这一点能帮助人们追求更真实、有价值的工作。",
-    "best_quote_en": "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades.",
-    "best_quote_zh": "你在学校学到的最有害的东西，不是某门课程的内容，而是学会如何拿到好成绩。"
-  },
-  {
-    "id": 78,
-    "title": "Stay-put Earbuds/Borderless Embassy/Growing Nomad Hotspots",
-    "title_zh": "稳固耳机/无国界大使馆/增长中的游牧者热点",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/stay-put-earbuds-borderless-embassy-growing-nomad-hotspots/",
-    "tags": [
-      "analyze",
-      "science",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This article presents a collection of insights for digital nomads and frequent travelers. The first piece offers a practical recommendation for earbuds that stay in place during travel, highlighting the Soundcore Sport X20's comfort, sound quality, and value. The second section introduces Safety Wing's pop-up embassy in San Francisco, a unique gathering space for digital nomads to connect and learn about borderless living. The third part analyzes the potential value of purchasing travel loyalty points, particularly Wyndham's current promotion. Lastly, the article identifies rising hotspots for remote workers based on Nomads.com data. Together, these pieces provide actionable advice, highlight emerging trends, and offer networking opportunities for the nomadic community.",
-    "summary_zh": "本文为数字游牧者和频繁旅行者提供了宝贵见解。第一部分推荐了一款不会掉落的耳机，突出了Soundcore Sport X20的舒适性、音质和性价比。第二部分介绍了Safety Wing在旧金山的流动大使馆，为游牧者提供了交流和学习无国界生活的平台。第三部分分析了购买旅行积分的潜在价值，特别是万豪集团当前的促销。最后，文章根据Nomads.com的数据识别了远程工作者的新兴热点。这些内容为游牧者社区提供了实用建议、趋势分析和网络机会。",
-    "best_quote_en": "So before a very long journey down to Patagonia I bought these Soundcore Sport X20 ones with active noise cancellation and they performed like a dream.",
-    "best_quote_zh": "所以在去巴塔哥尼亚的漫长旅途中，我买了这些带有主动噪音消除功能的Soundcore Sport X20耳机，它们表现得就像一场梦一样美好。"
-  },
-  {
-    "id": 79,
-    "title": "Helion",
-    "title_zh": "Helion",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/helion",
-    "tags": [
-      "analyze",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2021-11-05",
-    "summary_en": "The investment in Helion represents a significant step forward in fusion energy technology. The company's innovative approach, led by impressive founders David Kirtley and Chris Piche, stands out for its scientific rigor and cost optimization. Helion has already achieved the remarkable feat of building a generator that produces electricity with a clear path to net electricity by 2024. The potential implications are profound: not only could this technology address the climate crisis by enabling carbon capture, but it also promises to drastically reduce energy costs, leading to improved quality of life. The combination of startup culture and cutting-edge science makes Helion a compelling player in the future of energy.",
-    "summary_zh": "Helion的投资代表了聚变能源技术的重大突破。该公司由令人印象深刻的创始人大卫·基特利和克里斯·皮奇领导，以其科学严谨性和成本优化著称。Helion已经取得了令人惊叹的成就，即建造出能够产生电力的发电机，并计划在2024年实现净电力输出。其潜在影响深远：不仅能通过碳捕捉应对气候危机，还可能大幅降低能源成本，从而提高生活质量。结合初创企业文化与尖端科学，Helion成为能源未来的重要参与者。",
-    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long-term goal of delivering electricity for 1 cent per kilowatt-hour.",
-    "best_quote_zh": "Helion在2024年实现净电力输出有明确路径，长期目标是以每千瓦时1美分的价格提供电力。"
-  },
-  {
-    "id": 80,
-    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
-    "title_zh": "精要：大脑如何运作及感知世界 | 大卫·伯森博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
-    "tags": [
-      "inspire",
-      "science",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This Huberman Lab Essentials episode with Dr. David Berson offers a fascinating exploration of neurobiology, bridging fundamental research with practical applications. The discussion on visual processing reveals how photons are transformed into perception, with particular emphasis on the discovery of melanopsin and its role in circadian regulation. The episode's strength lies in its ability to make complex neuroscientific concepts accessible while maintaining scientific rigor. Particularly compelling is the examination of neuroplasticity in visual cortex recovery, offering hope for stroke patients. The practical tools for managing light exposure and motion sickness make this content highly actionable. This is expert insight at its finest, blending cutting-edge research with immediate applicability.",
-    "summary_zh": "伯森博士与哈伯曼的对话深入浅出地揭示了神经科学的奇妙世界。光感受细胞的发现不仅改变了我们对视觉的理解，更揭示了光对生物钟的调控作用。最令人震撼的是视觉皮层的可塑性研究，为中风患者带来了康复希望。这些科学发现不仅深化了我们对大脑的认知，更为日常生活提供了实用建议，如如何调节光照以改善睡眠、如何避免晕动症。这不仅是知识的传播，更是科学与生活智慧的完美结合。",
-    "best_quote_en": "The discovery of melanopsin fundamentally changed our understanding of how light affects not just vision, but our entire circadian system.",
-    "best_quote_zh": "黑素素的发现彻底改变了我们对光如何影响不仅仅是视觉，而是整个生物钟系统的理解。"
-  },
-  {
-    "id": 81,
-    "title": "Where do babies come from? Robert F Kennedy Jr doesn’t seem to know | Arwa Mahdawi",
-    "title_zh": "罗伯特·F·肯尼迪朱尼尔似乎不知道婴儿从哪里来 | 阿尔瓦·马哈威",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/15/where-do-babies-come-from-robert-f-kennedy-jr-doesnt-seem-to-know",
-    "tags": [
-      "solve",
-      "politics",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This opinion piece critiques the alarming lack of scientific literacy among some US politicians, particularly those influencing women's health policies. Arwa Mahdawi highlights Robert F Kennedy Jr's recent claim that fetuses develop in the placenta, demonstrating a fundamental misunderstanding of human biology. The article connects this to a broader pattern of Republican lawmakers making medically inaccurate statements about women's bodies, often while advocating for restrictive reproductive policies. The piece serves as a stark reminder of the dangers of science denial in politics and the importance of evidence-based policymaking.",
-    "summary_zh": "阿尔瓦·马哈威的评论文章揭露了美国部分政客对女性健康问题的无知。罗伯特·F·肯尼迪朱尼尔声称胎儿在胎盘中发育，暴露了其生物学知识的严重缺陷。文章将这一事件与共和党议员长期以来对女性身体的无知联系起来，这些议员经常在推动限制生育权的政策时发表医学错误言论。这篇文章警示我们，科学否定主义在政治中的危害，以及证据基础政策制定的重要性。",
-    "best_quote_en": "Foetuses, of course, develop in the uterus, not the placenta. It's possible, if we are being generous, that Kennedy misspoke.",
-    "best_quote_zh": "当然，胎儿是在子宫里发育，而不是在胎盘里。如果我们宽宏大量地认为，肯尼迪可能只是说错了。"
-  },
-  {
     "id": 82,
     "title": "Novelty and Heresy",
     "title_zh": "新颖与异端",
@@ -2336,5 +2218,123 @@
     "summary_zh": "肯·巴切勒通过分享日常生活中的小物件和习惯，展现了一种充满意趣的生活态度。从物理层面的「You Matter卡」传递关怀，到数字工具帮助整理生活，再到灵性层面对自然细微之美的捕捉，这些看似平凡的实践却蕴含着深刻的生活智慧。他的文字提醒我们，真正的幸福往往藏在生活的细节中，而在于我们是否有心去发现和珍惜。",
     "best_quote_en": "Listening for the sound of the anklets on the feet of an insect as it walks.",
     "best_quote_zh": "聆听昆虫行走时脚铃的声音。"
+  },
+  {
+    "id": 177,
+    "title": "Emma Barnett says she felt ‘mugged, robbed’ after perimenopause at 38",
+    "title_zh": "40岁的艾玛·巴尼特说自己38岁经历更年期后感到‘被抢劫、被剥夺’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/nov/07/emma-barnett-bbc-perimenopause",
+    "tags": [
+      "solve",
+      "medicine",
+      "society"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "社会议题"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "Emma Barnett's candid discussion about her perimenopause experience at 38 reveals the profound identity crisis many women face during this transition. Her raw description of feeling 'mugged and robbed' of her sense of self highlights the emotional turmoil that often goes unaddressed. The broader discussion raises critical questions about societal awareness and the commercialization of women's health. Barnett's call for normalization of these conversations is particularly compelling, as it reflects a growing movement to destigmatize perimenopause. The article also sheds light on the 'menopause gold rush', where unregulated information and profit-driven motives can obscure genuine health support. This piece serves as both a personal story and a call to action for better education and understanding of women's health issues.",
+    "summary_zh": "艾玛·巴尼特40岁时回忆38岁经历更年期的经历，揭示了许多女性在这个过渡期面临的深刻身份危机。她对‘被抢劫、被剥夺’自我感的生动描述凸显了常被忽视的情绪动荡。更广泛的讨论引发了社会对更年期认知的思考以及女性健康领域的商业化问题。巴尼特呼吁正常化这些对话的呼声特别有力，反映了去污名化更年期的日益增长的运动。文章还揭示了‘更年期淘金热’，其中未经规范的信息和以盈利为目的的动机可能掩盖真正的健康支持。这篇文章既是个人故事，也是对女性健康问题更好教育和理解的行动号召。",
+    "best_quote_en": "'I do feel there has been a theft. I do feel there’s no emergency number to call. 'I’d like to report a crime. Yeah, someone stole me.' There is no one to report this to.'",
+    "best_quote_zh": "‘我觉得确实发生了盗窃。我感觉没有急救电话可以打。我要报案。是的，有人偷走了我。’没有人可以报案。”"
+  },
+  {
+    "id": 178,
+    "title": "Don't Talk to Corp Dev",
+    "title_zh": "不要和企业发展部谈话",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/corpdev.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "leadership",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "领导管理",
+      "争议观点"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This article provides a stark warning to startup founders about the dangers of engaging with corporate development teams too early. The author argues that talking to 'corp dev' is generally a mistake unless you're ready to sell immediately. The piece highlights how these conversations can be distracting, demoralizing, and manipulative, often leading founders to consider selling prematurely. The author compares it to taking the first drink that could lead to addiction, suggesting founders should avoid initial meetings altogether if they're not ready to sell. The insights are particularly valuable for early-stage startups who might be flattered by acquisition interest but need to stay focused on growth.",
+    "summary_zh": "本文警告创业者不要过早与企业发展部门接触。作者认为，除非准备立即出售公司，否则与企业发展部门谈话通常是错误的。这些对话可能分散注意力、打击士气，甚至操控创业者过早考虑出售。作者将其比作第一口酒可能导致酗酒，建议创业者如果不准备出售就不要参加初步会议。这些见解对可能因并购兴趣而分心的初创企业尤为珍贵，提醒他们保持专注于成长。",
+    "best_quote_en": "If you get an offer at all, it will be at the end of a long and unbelievably distracting process. And if the offer is surprising, it will be surprisingly low.",
+    "best_quote_zh": "如果你能拿到报价，那也会是一个漫长且极度分心的过程。如果报价让你惊讶，那一定是惊人的低。"
+  },
+  {
+    "id": 179,
+    "title": "The General Social Survey and the ACX Survey",
+    "title_zh": "一般社会调查与ACX调查",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/xrazcGthGB4JB6hrp/the-general-social-survey-and-the-acx-survey",
+    "tags": [
+      "analyze",
+      "society",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This analysis compares the Astral Codex Ten (ACX) community with the general population using the General Social Survey (GSS) data. The author highlights significant demographic differences, including age (ACX is younger), gender (ACX is predominantly male), and education levels (ACX has a higher proportion of advanced degrees). The study also reveals that ACX respondents are less concerned about AI existential risk than the general population, though this discrepancy is explained by differing question framings. The analysis is marked by a self-aware approach, acknowledging potential data processing errors and the subjective nature of 'vibecoding'. The author's curiosity and willingness to engage with messy data make this a thought-provoking exploration of rationalist community demographics.",
+    "summary_zh": "该分析将ACX社区与一般人口进行比较，发现年龄更轻、性别比例失衡和教育水平更高等显著差异。对AI风险的担忧度也有所不同。作者坦承数据处理可能存在误差，分析充满好奇心与批判性思考。",
+    "best_quote_en": "I'm sorry, am I reading that right? The ACX community is less concerned about AI risk than general population?",
+    "best_quote_zh": "抱歉，我看得没错吗？ACX社区对AI风险的担忧程度反而低于一般人口？"
+  },
+  {
+    "id": 180,
+    "title": "Ecosphere",
+    "title_zh": "生态球",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/ecosphere/",
+    "tags": [
+      "solve",
+      "environment",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "环境科学",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The Ecosphere offers a fascinating glimpse into self-sustaining ecosystems through its sealed, maintenance-free micro-worlds. This thoughtfully designed product serves as both a decorative piece and an educational tool, demonstrating the intricate balance of life. The author highlights its practical benefits as a low-maintenance pet and its symbolic value in reminding us of our interdependence with nature. The piece also provides practical advice on setting up and maintaining these ecosystems, emphasizing their sensitivity to light and environmental conditions. Beyond its immediate appeal, the Ecosphere inspires contemplation about sustainability and the possibility of closed-loop systems, making it a unique intersection of art, science, and philosophy.",
+    "summary_zh": "生态球展示了一个封闭自给自足的微型世界，既是装饰品也是生态学教具，让人深思人与自然的互依关系。作者分享了实用建议，强调光照和环境条件对其影响，并探讨了可持续性的哲学意义。这种小巧的生态系统既实用又启发人思考。",
+    "best_quote_en": "They are completely carefree pets, living in a completely self-sustaining world.",
+    "best_quote_zh": "它们是完全无需照料的宠物，生活在一个完全自给自足的世界里。"
+  },
+  {
+    "id": 181,
+    "title": "David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
+    "title_zh": "David Baszucki, Roblox联合创始人 — 1.5亿日活用户之路，关键商业决策，酮症饮食改善大脑健康，日常习惯，Roblox经济及更多内容 (#834)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/04/david-baszucki-roblox/",
+    "tags": [
+      "analyze",
+      "medicine",
+      "health-wellness",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "健康养生",
+      "未来预测"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This interview with David Baszucki, CEO of Roblox, offers a fascinating look into the intersection of technology, health, and entrepreneurship. The conversation explores the transformative power of ketogenic diets in treating bipolar disorder, highlighting Baszucki's personal journey with his son's recovery. The discussion then shifts to Roblox's meteoric rise to 150 million daily users, focusing on the platform's safety infrastructure, the emergence of user-generated content, and its role in inspiring millions to explore STEM fields. Baszucki's insights into the future of virtual work and AI-driven 3D creation provide a compelling vision of how technology will shape human interaction. The interview also touches on the importance of metabolic health, with Baszucki sharing his company's initiatives like continuous glucose monitoring for employees. His reflections on leadership, innovation, and the inevitability of technological progress offer valuable lessons for entrepreneurs and tech enthusiasts alike.",
+    "summary_zh": "与Roblox联合创始人David Baszucki的对话，深入探讨了科技、健康与创业的交集。他分享了儿子通过酮症饮食治疗双相情感障碍的惊人经历，展现了饮食对心理健康的潜在影响。讨论还涵盖了Roblox如何发展至1.5亿日活用户，其安全基础设施、用户创造内容的生态系统以及激励数百万人探索STEM领域的作用。Baszucki对虚拟工作和AI驱动3D创作的未来展望，为我们描绘了技术如何重塑人类互动的蓝图。他还分享了公司推动员工代谢健康的举措，以及作为公众公司CEO的领导智慧。这场对话不仅揭示了创新的必然性，也为创业者和科技爱好者提供了宝贵的启示。",
+    "best_quote_en": "[Our son with bipolar] tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.",
+    "best_quote_zh": "我们试着让患有双相情感障碍的儿子尝试酮症饮食，仅仅三到四周后，我们就看到了从未在任何药物或治疗中见过的进展。这真的让我们大开眼界，简直是奇迹。"
   }
 ]
