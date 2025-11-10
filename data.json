@@ -1,121 +1,5 @@
 [
   {
-    "id": 82,
-    "title": "Novelty and Heresy",
-    "title_zh": "新颖与异端",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nov.html",
-    "tags": [
-      "solve",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略"
-    ],
-    "date": "2025-10-18",
-    "summary_en": "This essay explores the inevitable tension between innovation and established beliefs, suggesting that truly novel discoveries often challenge deeply held assumptions. The author argues that meaningful progress requires confronting 'heresies' - ideas that contradict popular but mistaken convictions. The piece presents a compelling framework for understanding resistance to new ideas while offering a practical approach to uncovering innovative thinking by examining what's currently dismissed as heretical. It's a thought-provoking examination of how cultural and organizational attitudes toward unconventional ideas can either stifle or stimulate progress.",
-    "summary_zh": "这篇文章探讨了创新与既有信念之间的必然张力，指出真正的新发现往往挑战根深蒂固的假设。作者认为，有意义的进步需要面对“异端”-那些与流行但错误的信念相矛盾的观点。文中提供了一个理解对新思想抵制的框架，同时提出了通过探索当前被视为异端的观点来发现新思想的实际方法。这是一篇关于文化和组织对非传统思想态度如何阻碍或促进进步的深刻分析。",
-    "best_quote_en": "When you suppress heresies, you don't just prevent people from contradicting the mistaken assumption you're trying to protect. You also suppress any idea that implies indirectly that it's false.",
-    "best_quote_zh": "当你压制异端时，你不仅阻止人们反驳你试图保护的错误假设，还压制了任何暗示它是错误的观点。"
-  },
-  {
-    "id": 83,
-    "title": "Russell Vought, Donald Trump’s Deep-State Wrecking Ball",
-    "title_zh": "唐纳德·特朗普的深层政府破坏者：拉塞尔·沃特",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/27/russell-vought-profile-donald-trump",
-    "tags": [
-      "update",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "This in-depth profile of Russell Vought reveals a technocrat with an ideological mission to dismantle the federal bureaucracy from within. As Trump's budget director, Vought has wielded unprecedented power to freeze spending, fire civil servants, and dismantle agencies, testing constitutional limits of executive authority. His actions during the government shutdown and his expansion of presidential power through impoundment tactics have sparked legal challenges and bipartisan criticism. Vought's Christian nationalist ideology and collaboration with Elon Musk's Department of Government Efficiency demonstrate a radical approach to governance that challenges traditional checks and balances. The article raises critical questions about the future of democratic institutions and the rule of law under Vought's influence.",
-    "summary_zh": "本文深入剖析了拉塞尔·沃特这一特朗普政府的幕后推手。他凭借预算办公室主任一职，以极端手段冻结政府资金、解雇公务员、拆分机构，挑战宪法赋予总统的权力边界。其在政府关闭期间的强硬举措和通过拖延战术扩大行政权力的做法，引发了法律挑战和两党批评。沃特的基督教民族主义意识形态与埃隆·马斯克的政府效率部门合作，展现了对传统制衡体系的彻底颠覆。这篇报道让人深思：在沃特的影响下，民主制度和法治的未来将走向何方？",
-    "best_quote_en": "Either this is the scene of a horrific crime or someone recently de-seeded a pomegranate.",
-    "best_quote_zh": "要么这里发生了可怕的犯罪，要么有人刚剥了颗石榴。"
-  },
-  {
-    "id": 84,
-    "title": "The Strength of Being Misunderstood",
-    "title_zh": "被误解的力量",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2020-12-01",
-    "summary_en": "This piece explores the nuanced relationship between personal perception and public opinion, challenging the notion of complete indifference. The author argues that caring about opinions is necessary but should be strategically focused on specific people and long-term perspectives. The most impressive individuals, according to the author, balance short-term misunderstanding with long-term validation, often achieving greatness through unconventional bets. The key insight is that being misunderstood can be a strength, providing space for innovative problem-solving that might otherwise be overlooked. The article blends psychological insight with practical advice for navigating social dynamics, particularly relevant for entrepreneurs and leaders.",
-    "summary_zh": "这篇文章探讨了个人与公众看法之间的微妙关系，质疑了完全不在意他人评价的观点。作者认为，关注他人意见是必要的，但应有策略地集中在特定人群和长期视角上。最令人印象深刻的人往往能平衡短期误解与长期认可，通过非主流的判断获得成功。核心观点是，被误解可能是一种优势，为创新解决问题提供空间。文章结合心理学洞察与实用建议，尤其适合创业者和领导者。",
-    "best_quote_en": "The most impressive people I know care a lot about what people think, even people whose opinions they really shouldn’t value... what makes them unusual is that they generally care about other people’s opinions on a very long time horizon—as long as the history books get it right, they take some pride in letting the newspapers get it wrong.",
-    "best_quote_zh": "我认识的最令人印象深刻的人非常在意他人看法，即使那些他们本不该在意的人... 但他们不同寻常之处在于，他们通常在意他人意见的长期影响——只要历史书写正确，他们甚至以让报纸误解为荣。"
-  },
-  {
-    "id": 85,
-    "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
-    "title_zh": "保护和改善听力与大脑健康 | 斯坦科维奇博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/protect-improve-your-hearing-brain-health-konstantina-stankovic",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "This episode with Dr. Konstantina Stankovic reveals the profound connection between hearing health and cognitive function, addressing a global issue affecting over 1.5 billion people. The discussion goes beyond basic hearing loss prevention, exploring how biological factors like menopause and environmental toxins contribute to auditory decline. Particularly insightful are the science-backed protocols for protecting hearing, such as using magnesium threonate and avoiding regular NSAID use. The conversation also delves into the emotional aspects of hearing, including tinnitus and hyperacusis, offering practical solutions. What stands out is the emphasis on auditory plasticity and the potential for recovery, challenging the notion that hearing loss is irreversible. The episode serves as both an educational resource and a call to action for proactive hearing care.",
-    "summary_zh": "斯坦科维奇博士的访谈揭示了听力健康与认知功能之间的深刻关联，解决了影响全球15亿人的听力问题。讨论超越了基本的听力保护，探讨了如更年期和环境毒素等生物因素如何导致听力下降。尤其值得关注的是，针对听力保护的科学方法，如使用磷酸镁和避免经常使用NSAID类药物。对话还深入探讨了听力的情感方面，包括耳鸣和过度敏感，提供了实用解决方案。令人惊讶的是，对听力可塑性的强调以及康复的可能性，挑战了听力损失不可逆的观念。该节目既是教育资源，也是对积极听力护理的号召。",
-    "best_quote_en": "Hearing loss isn't just about missing sounds—it's about losing connections to people and the world around us.",
-    "best_quote_zh": "听力下降不仅仅是错过声音，更是失去与他人和周围世界的联系。"
-  },
-  {
-    "id": 86,
-    "title": "Ditch ‘shrink it and pink it’ women’s trainer design, say experts",
-    "title_zh": "专家呼吁抛弃“缩小并粉色化”的女式跑鞋设计",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/oct/14/ditch-shrink-it-and-pink-it-womens-trainer-design-say-experts",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This article highlights a significant oversight in the sports footwear industry: the persistent design of women's running shoes based on male anatomy, a practice derisively termed 'shrink it and pink it'. The Canadian study reveals that women runners prioritize comfort, injury prevention, and performance, with specific needs for wider toe boxes, narrower heels, and more cushioning. The research underscores the industry's failure to address women's distinct anatomical and biomechanical requirements throughout their lives, from pregnancy to aging. The experts argue for sex- and gender-specific designs that evolve with women's changing needs, marking a critical shift from current one-size-fits-all approaches. This insight challenges the industry to move beyond superficial modifications and embrace truly inclusive design principles.",
-    "summary_zh": "这篇文章揭示了运动鞋行业的重大疏忽：女士跑鞋长期以男性脚型为基础设计，被讽刺为“缩小并粉色化”。加拿大研究发现，女性跑者更看重鞋子的舒适性、防伤性和性能，特别需要更宽的脚趾部位、更窄的后跟和更好的缓冲。研究指出，行业未能满足女性在不同生命阶段的独特需求。专家呼吁应设计符合女性生理特点和社会需求的专属跑鞋，而非简单缩小男性鞋款。这对行业提出了更包容的设计理念挑战。",
-    "best_quote_en": "While participants did not always report an inability to find footwear, their narratives reflected a process of trial-and-error adaptation, often without guidance or purpose-built solutions.",
-    "best_quote_zh": "参与者并非总是报告找不到合适的跑鞋，但他们的叙述反映出一种试错适应过程，往往缺乏指导或专门设计的解决方案。"
-  },
-  {
     "id": 87,
     "title": "Give Me Your Data: The Rationalist Mind Meld",
     "title_zh": "请给我你的数据：理性主义者的思维融合",
@@ -2336,5 +2220,123 @@
     "summary_zh": "与Roblox联合创始人David Baszucki的对话，深入探讨了科技、健康与创业的交集。他分享了儿子通过酮症饮食治疗双相情感障碍的惊人经历，展现了饮食对心理健康的潜在影响。讨论还涵盖了Roblox如何发展至1.5亿日活用户，其安全基础设施、用户创造内容的生态系统以及激励数百万人探索STEM领域的作用。Baszucki对虚拟工作和AI驱动3D创作的未来展望，为我们描绘了技术如何重塑人类互动的蓝图。他还分享了公司推动员工代谢健康的举措，以及作为公众公司CEO的领导智慧。这场对话不仅揭示了创新的必然性，也为创业者和科技爱好者提供了宝贵的启示。",
     "best_quote_en": "[Our son with bipolar] tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.",
     "best_quote_zh": "我们试着让患有双相情感障碍的儿子尝试酮症饮食，仅仅三到四周后，我们就看到了从未在任何药物或治疗中见过的进展。这真的让我们大开眼界，简直是奇迹。"
+  },
+  {
+    "id": 182,
+    "title": "Jess Cartner-Morley on fashion: introducing the twinset 2.0 – where practicality meets panache",
+    "title_zh": "杰斯·卡特纳-莫利关于时尚：引入双套装2.0——实用性与魅力的完美结合",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/05/jess-cartner-morley-winter-style-twinset-jumper-trend",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Jess Cartner-Morley's piece on the resurgence of the twinset offers a fascinating look at how fashion trends evolve while retaining their core appeal. By reimagining the traditional twinset as a more casual, layered look, she highlights the modern balance between comfort and style. The article beautifully captures the cultural shift from rigid minimalism to a more experimental, textured approach to fashion. What stands out is Cartner-Morley's ability to connect this trend to broader fashion history while making it feel fresh and accessible. The twinset 2.0 represents more than just a style choice; it's a statement about our current desire for cozy yet polished aesthetics. This analysis invites readers to reconsider their wardrobe choices and find creative ways to express themselves through layering.",
+    "summary_zh": "杰斯·卡特纳-莫利关于双套装2.0的文章，展现了时尚趋势如何在保持核心魅力的同时不断演变。通过将传统双套装重新诠释为更休闲的分层穿搭，她捕捉到了当代时尚中舒适与风格的平衡。文章精妙地将这一趋势与更广泛的时尚历史联系起来，同时让它显得新颖且易于接受。双套装2.0不仅仅是一种穿搭选择，更是对当前追求舒适又不失精致的审美的体现。这篇分析鼓励读者重新思考衣橱选择，通过分层穿搭找到表达自我的创意方式。",
+    "best_quote_en": "The new twinset is a way to experiment with texture, proportion and colour",
+    "best_quote_zh": "新双套装是一种实验纹理、比例和色彩的方式"
+  },
+  {
+    "id": 183,
+    "title": "Let the Other 95% of Great Programmers In",
+    "title_zh": "让其他95%的优秀程序员进入",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/95.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This thought-provoking essay argues that the US tech industry's demand for skilled programmers stems from a fundamental imbalance in global talent distribution. The author contends that only 5% of the world's exceptional programmers are born in the US, making immigration essential for maintaining technological competitiveness. The piece challenges anti-immigration narratives by highlighting that companies seek exceptional talent, not just cheaper labor, and warns that failing to attract top global talent could jeopardize America's position as a tech leader. The author's perspective raises important questions about talent distribution, immigration policy, and the future of technological innovation.",
+    "summary_zh": "这篇文章深刻指出，美国科技行业对程序员的需求源于全球优秀人才的不均衡分布。作者认为，仅有5%的世界级优秀程序员出生在美国，因此引进人才是维持技术领先地位的关键。文章反驳了反移民的论调，强调企业追求的是卓越人才而非低价劳动力，并警告若错失吸引全球顶尖人才的机会，可能动摇美国科技超级大国的地位。作者的观点引发了关于人才分配、移民政策与技术创新未来的深刻思考。",
+    "best_quote_en": "The US has less than 5% of the world's population. Which means if the qualities that make someone a great programmer are evenly distributed, 95% of great programmers are born outside the US.",
+    "best_quote_zh": "美国人口仅占全球5%，这意味着如果成为优秀程序员的素质均匀分布，95%的优秀程序员出生在国外。"
+  },
+  {
+    "id": 184,
+    "title": "The grapefruit juice effect",
+    "title_zh": "葡萄柚汁效应",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/4FSbEMvvQKcqYWZt2/the-grapefruit-juice-effect",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "This article explores the complex interactions between grapefruit juice and various medications, primarily through its impact on cytochrome P450 enzymes, particularly CYP3A4. The author delves into the scientific literature to uncover how furanocoumarins in grapefruit irreversibly inhibit these enzymes, leading to significant increases in drug concentrations in the bloodstream. The discussion extends to other citrus fruits, revealing that many contain similar compounds, though in varying amounts. The article also touches on the broader implications of these interactions, questioning whether current medical advice adequately addresses the complexity of these chemical interactions. The author's personal anecdotes and critical analysis of scientific papers make this a compelling read for anyone interested in pharmacology, health, or the science behind everyday dietary choices.",
+    "summary_zh": "这篇文章深入探讨了葡萄柚汁与各种药物之间的复杂相互作用，主要通过其对细胞色素P450酶（尤其是CYP3A4）的影响。作者通过查阅科学文献，揭示了葡萄柚中的毛果苷类化合物如何不可逆地抑制这些酶，导致血液中药物浓度显著增加。讨论还延伸到其他柑橘类水果，发现许多也含有类似成分，但含量各不相同。文章还涉及这些相互作用的更广泛影响，质疑当前的医疗建议是否足够全面。作者的个人轶事和对科学论文的批判性分析，使这篇文章成为任何对药理学、健康或日常饮食选择背后的科学感兴趣的人的精彩读物。",
+    "best_quote_en": "A single glass of single-strength GFJ is enough to have large effects in many cases.",
+    "best_quote_zh": "一杯普通浓度的葡萄柚汁就足以在许多情况下产生显著影响。"
+  },
+  {
+    "id": 185,
+    "title": "Hannah Goldfield on Anthony Bourdain’s “Don’t Eat Before Reading This”",
+    "title_zh": "汉娜·戈德菲尔德评安东尼·伯德恩的《吃饭前先读这个》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/hannah-goldfield-on-anthony-bourdains-dont-eat-before-reading-this",
+    "tags": [
+      "guide",
+      "writing-content",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "写作内容",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "Hannah Goldfield's reflection on Anthony Bourdain's seminal essay 'Don't Eat Before Reading This' reveals more than just culinary secrets. She traces Bourdain's evolution from underground food writer to cultural icon, emphasizing his unique ability to reveal the raw, unglamorous truths of the restaurant industry while maintaining poetic beauty. The piece highlights Bourdain's literary ambitions, his distinctive voice, and his lasting influence beyond the specific advice he once gave. Goldfield's analysis serves as both a tribute to Bourdain's legacy and a reminder of his enduring relevance in food writing and cultural criticism.",
+    "summary_zh": "汉娜·戈德菲尔德对安东尼·伯德恩经典文章《吃饭前先读这个》的评析，不仅揭示了餐饮行业的隐秘，更展现了伯德恩从地下食品作家到文化偶像的蜕变。她强调了伯德恩以诗意笔触揭露餐饮业不为人知的真相的独特能力。这篇文章不仅是对伯德恩遗产的致敬，也是对其在美食写作和文化批评领域持久影响力的提醒。",
+    "best_quote_en": "Good food, good eating, is all about blood and organs, cruelty and decay. It’s about sodium-loaded pork fat, stinky triple-cream cheeses, the tender thymus glands and distended livers of young animals. It’s about danger—risking the dark, bacterial forces of beef, chicken, cheese, and shellfish.",
+    "best_quote_zh": "美食、美食的本质在于血肉与内脏，残酷与腐烂。它涉及高盐猪油、臭气熏天的三重奶酪、幼畜的嫩胸腺和肿大的肝脏。它关乎危险——冒险面对牛肉、鸡肉、奶酪和贝类的黑暗、细菌力量。"
+  },
+  {
+    "id": 186,
+    "title": "Other minds / 102 lessons / No-hole poster hanging",
+    "title_zh": "其他心灵 / 102条教训 / 不破坏墙壁的海报挂法",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/other-minds-102-lessons-no-hole-poster-hanging/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-09",
+    "summary_en": "This eclectic collection of recommendations offers diverse insights across creativity, history, travel, and practical life hacks. Jane Friedman's Electric Speed newsletter stands out for its curated resources for creative professionals, highlighting the value of expert sharing in niche communities. The piece on Neanderthals challenges cultural stereotypes and draws intriguing parallels between ancient and modern encounters with other intelligences. Travel advice from Japan or Die emphasizes mindful time management during journeys, while the political thriller analysis critiques media storytelling conventions. The damage-free poster hanging tip demonstrates how simple solutions can solve common problems elegantly. The 102 Lessons from 102 Books section effectively synthesizes broad reading into actionable insights, particularly around focus and human connection. The content collectively encourages intellectual curiosity and practical application of knowledge.",
+    "summary_zh": "这份推荐集合涵盖了创意、历史、旅行和生活技巧等多个领域的精彩内容。简·弗里德曼的《电子速度》新闻简报因其为创意专业人士精心挑选的资源而脱颖而出，凸显了专家在细分领域中的分享价值。关于尼安德特人的内容挑战了文化刻板印象，并为我们与其他智慧生物的相遇提供了迷人的历史视角。来自《日本或死》的旅行建议强调了旅行中的时间管理意识，而政治惊悚片的分析则批评了媒体叙事的惯例。无损挂画的技巧展示了简单解决方案如何优雅地解决常见问题。102本书102条教训部分有效地将广泛阅读转化为可操作的见解，特别是关于专注和人际连接的方面。整体内容鼓励知识的探索与实践应用。",
+    "best_quote_en": "Friendliness is irrationally undersupplied. In one study, subjects were asked to either stay quiet or talk to a stranger during their commute. People predicted they’d prefer solitude, but they enjoyed the conversation more.",
+    "best_quote_zh": "友善是一种不合理的短缺。在一项研究中，受试者被要求在通勤时要么保持沉默，要么与陌生人交谈。人们预测自己会更喜欢独处，但他们更享受交谈。"
   }
 ]
