@@ -1,29 +1,5 @@
 [
   {
-    "id": 92,
-    "title": "The Bus Ticket Theory of Genius",
-    "title_zh": "公交车票理论与天才",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/genius.html",
-    "tags": [
-      "solve",
-      "education",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "The 'Bus Ticket Theory of Genius' proposes that great work requires three elements: natural ability, determination, and an obsessive interest in a seemingly pointless topic. The author argues that this disinterested obsession is crucial for discovery, as it allows individuals to explore unpromising paths that others ignore. The theory suggests that interest acts as a proxy for ability and a substitute for determination, making the work feel less like a chore. The article explores how this concept applies to historical figures like Darwin and Ramanujan, and discusses the implications for education and personal development. It also highlights the uncertainty of which paths will lead to great work, emphasizing the importance of taking risks and following genuine interests.",
-    "summary_zh": "公交车票理论提出，伟大的工作需要天赋、毅力和对看似无聊话题的狂热兴趣。这种无私的执着是发现的关键，因为它让人探索他人忽视的看似无望的道路。兴趣既是能力的代理，也是毅力的替代品，让工作不再像苦差事。文章探讨了达尔文和拉马努金等历史人物的例子，并分析了这一理论对教育和个人发展的启示，强调跟随真正兴趣的重要性。",
-    "best_quote_en": "To have a disinterested obsession with something that matters.",
-    "best_quote_zh": "对重要的事物保持无私的狂热兴趣。"
-  },
-  {
     "id": 93,
     "title": "A “New Middle East” Is Easier to Declare Than to Achieve",
     "title_zh": "一个“新中东”更容易宣告而难以实现",
@@ -2334,5 +2310,29 @@
     "summary_zh": "这篇文章展示了六种巧妙的厨房工具，它们通过创新设计解决了烹饪和储存中的常见问题。从防止划伤的鱼鳞刮刀到轻松去除顽固食物残渣的锅刮器，每种工具都展示了如何通过精心设计改善日常任务。面团刮刀证明了其超越烘焙的多功能性，而面粉撒器以简单机械实现完美均匀撒粉。便携式胡椒研磨器随时提供现磨胡椒，而香蕉保护套以巧妙方式防止香蕉受压。这些工具体现了小而精的工具如何通过解决具体痛点显著改善我们的日常生活。",
     "best_quote_en": "What would make you design a fish scaler with what looks like plastic hex-head bits loosely attached to the underside of a circular disc? It doesn’t make sense. But it works!",
     "best_quote_zh": "谁会想到要用看起来像塑料六角螺丝母松散地固定在圆盘底部的设计来做鱼鳞刮刀？这看起来不合理。但它真的有效！"
+  },
+  {
+    "id": 192,
+    "title": "Only What’s Necessary / The White Donkey",
+    "title_zh": "只有必要的东西 / 白驴",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/only-whats-necessary-the-white-donkey/",
+    "tags": [
+      "analyze",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This content presents two distinct books that explore different facets of human experience through comics. 'Only What’s Necessary' offers an in-depth look at the creation and cultural impact of the Peanuts comic strip, showcasing its artistic evolution and enduring appeal. The book's meticulous curation and high production values make it a treasure trove for both casual fans and serious scholars. In contrast, 'The White Donkey' delves into the harsh realities of military service through a raw, unflinching narrative. It explores themes of purpose, privilege, and the psychological toll of war, using minimalist art and stark color contrasts to amplify its emotional impact. Together, these books demonstrate the power of comics as a medium for both nostalgic reflection and hard-hitting social commentary.",
+    "summary_zh": "这篇内容介绍了两本截然不同的漫画书籍，分别探讨了人类经验的不同面向。《只有必要的东西》深入剖析了《花生先生》漫画的创作历程与文化影响，展示其艺术演变和持久魅力。书中精心策划和高品质制作使其成为粉丝和学者的宝藏。而《白驴》则以赤裸裸的叙事揭示军旅生活的残酷现实，探讨目的、特权和战争的心理创伤，通过简约的艺术风格和强烈的色彩对比加强情感冲击。这两本书共同证明了漫画作为媒介的力量，既能引发怀旧反思，也能进行尖锐的社会评论。",
+    "best_quote_en": "Necessary can also mean everything: every line needed to show the characters’ feelings and reactions, every word needed to express the artist’s vision.",
+    "best_quote_zh": "必要也可以意味着一切：每一条线条都需要表达角色的情感和反应，每一个字都需要表达艺术家的愿景。"
   }
 ]
