@@ -1,125 +1,5 @@
 [
   {
-    "id": 98,
-    "title": "Why Is the Drug Kingpin Daniel Kinahan Living Large in Dubai?",
-    "title_zh": "丹尼尔·基纳汉为何在迪拜过着奢华生活？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/27/the-cocaine-kingpin-living-large-in-dubai",
-    "tags": [
-      "solve",
-      "education",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "This investigative piece explores the enigmatic life of Daniel Kinahan, an Irish drug kingpin who operates a billion-dollar empire from Dubai while evading justice. The article reveals how Kinahan commands respect from other international criminals, hosts lavish weddings with notorious figures, and maintains a public presence despite being wanted by multiple law enforcement agencies. The piece delves into the Kinahan crime family's origins, their strategic expansion into cocaine trafficking, and their sophisticated money laundering operations. It also examines Dubai's role as a haven for organized crime, where Kinahan continues to operate with apparent impunity. The author raises critical questions about international cooperation in combating transnational crime and the challenges of bringing high-profile criminals to justice.",
-    "summary_zh": "这篇调查报道揭示了爱尔兰毒枭丹尼尔·基纳汉如何在迪拜操控一个价值数十亿美元的帝国，同时逃避法律制裁。文章描述了基纳汉如何赢得其他国际犯罪分子的尊重，在豪华婚礼上与臭名昭著的人物共聚，并保持公开露面，尽管多国执法机构在通缉他。报道还追溯了基纳汉犯罪家族的起源，以及他们如何战略性地扩展到可卡因走私，以及他们复杂的洗钱网络。同时，文章还探讨了迪拜作为犯罪天堂的角色，基纳汉在这里仍能肆无忌惮地活动。作者提出了关于国际合作打击跨国犯罪的关键问题，以及将高调犯罪分子绳之以法的挑战。",
-    "best_quote_en": "It’s all about Dan.",
-    "best_quote_zh": "这全是关于丹的。"
-  },
-  {
-    "id": 99,
-    "title": "Dehydrators",
-    "title_zh": "脱水机",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/dehydrators/",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "This article explores the practical applications of food dehydrators through firsthand experiences with different models. The Nesco and Excalibur dehydrators are compared, highlighting their advantages for home use and bulk drying needs. The Excalibur stands out for its larger capacity and uniform drying, while the Nesco offers affordability and expandability. Both are praised for their versatility in drying various foods, from mushrooms to fruits and vegetables. The article also touches on bulk dehydrated food suppliers like Honeyville and Harmony House Foods, which provide cost-effective options for outdoor enthusiasts. The insights emphasize how dehydrators can reduce food waste, create healthy snacks, and support long-term food storage, making them valuable tools for both everyday use and specialized applications.",
-    "summary_zh": "这篇文章通过对不同脱水机型号的实际体验，探讨了食品脱水机的实用应用。Nesco和Excalibur脱水机被对比，突出了它们在家庭使用和批量脱水中的优势。Excalibur以其更大的容量和均匀的脱水效果脱颖而出，而Nesco则以其经济实惠和可扩展性受到称赞。两者都因能脱水各种食品而备受推崇，从蘑菇到水果和蔬菜。文章还提到了批量脱水食品供应商如Honeyville和Harmony House Foods，为户外爱好者提供了经济实惠的选择。这些见解强调了脱水机如何减少食物浪费、制作健康零食，并支持长期食品储存，使其成为日常使用和专业应用的有价值工具。",
-    "best_quote_en": "The Nesco Food Dehydrator is a simple, affordable, and well-built tool for drying foods quickly and thoroughly. Though not an every-day-use item for most people, it becomes absolutely essential when it is needed.",
-    "best_quote_zh": "Nesco食品脱水机是一个简单、经济实惠且结构良好的工具，能够快速彻底地脱水食品。虽然对于大多数人来说，它不是每天都会用到的物品，但在需要的时候，它绝对是不可或缺的。"
-  },
-  {
-    "id": 100,
-    "title": "PG and Jessica",
-    "title_zh": "PG 和 Jessica",
-    "source": "Sam Altman",
-    "link": "https://blog.samaltman.com/pg-and-jessica",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2020-09-25",
-    "summary_en": "This insightful piece explores the unique factors behind Y Combinator's success, emphasizing the irreplaceable roles of Paul Graham (PG) and Jessica Livingston. It challenges the assumption that YC's model can be easily replicated, attributing its success to their personal qualities and actions rather than any magic formula. The authors' willingness to take risks on unknown founders, establish strong community norms, and prioritize long-term ecosystem building over short-term gains are highlighted as key elements. The article reflects on how their trust in their convictions and dedication to nurturing the startup community created a self-sustaining network that continues to benefit countless individuals. It's a compelling analysis of leadership, vision, and the often overlooked human factors in creating transformative organizations.",
-    "summary_zh": "这篇文章深入探讨了Y Combinator成功背后的独特因素，强调了保罗·格雷厄姆（PG）和杰西卡·利文斯顿不可替代的作用。它挑战了YC模式可以轻易复制的假设，将成功归因于他们的个人品质和行动，而非任何神奇配方。作者敢于冒险投资未知创业者、建立强大的社区规范，并将长期生态系统建设置于短期利益之上的决心被视为关键因素。文章反思了他们坚持信念和致力于培育创业社区如何创造了一个持续惠及无数人的自给自足网络。这是对领导力、远见和创造变革性组织中往往被忽视的人文因素的深刻分析。",
-    "best_quote_en": "The entire secret to YC getting going was PG and Jessica—there was no other magic trick.",
-    "best_quote_zh": "YC成功的全部秘诀就是PG和Jessica——没有其他魔法诀窍。"
-  },
-  {
-    "id": 101,
-    "title": "We were on the brink of a big bush revival - then Kim K released her pubic hair thong | Coco Khan",
-    "title_zh": "我们即将迎来大规模毛发复兴 - 然后金·卡戴珊发布了她的阴毛丁字裤 | 科科·卡汗",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/21/big-bush-revival-kim-kardashian-pubic-hair-thong",
-    "tags": [
-      "update",
-      "politics",
-      "marketing",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "市场营销",
-      "争议观点"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "Coco Khan's piece offers a sharp critique of the beauty industry's co-option of natural body trends, using Kim Kardashian's faux pubic hair thong as a case study. The author laments the missed opportunity for genuine body positivity in favor of commodified, performative versions of natural features. She highlights the industry's pattern of selling back ersatz versions of our own nature for profit, questioning why true natural beauty remains elusive. The article serves as both a cultural commentary and a call to action for more authentic body acceptance, with Khan suggesting that even Kardashian herself could be the catalyst for real change if she embraced her natural state.",
-    "summary_zh": "科科·卡汗的文章尖锐批判了美容行业如何将自然身材趋势商品化，以金·卡戴珊的假阴毛丁字裤为例。作者为真正的身材自信未能实现而惋惜，而代之以商业化、表演性的自然特征。她指出行业惯用的将我们的自然特征以高价售回给我们的模式，质疑为何真正的自然之美仍难以触及。这篇文章既是文化评论，也是对更真实身材接受的倡议，卡汗建议即使是卡戴珊本人，若回归自然状态，也可能成为真正变革的推动者。",
-    "best_quote_en": "The beauty industry has mastered selling us back an ersatz version of our own nature for enormous profit.",
-    "best_quote_zh": "美容行业已精通将我们的自然特征以高价售回给我们的商业模式。"
-  },
-  {
-    "id": 102,
-    "title": "Charisma / Power",
-    "title_zh": "魅力 / 权力",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pow.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This insightful piece explores the complex relationship between power and charisma, highlighting how those in power without charisma often face disproportionate criticism. The author uses examples like Hillary Clinton and builder-type CEOs to illustrate how societal perceptions can unfairly target competent leaders. The analysis suggests that this dynamic is inherent to human nature and offers a perspective shift: being criticized might actually signal that someone is the right person for the job. The piece encourages recognition of this phenomenon and a more nuanced understanding of leadership perception.",
-    "summary_zh": "这篇文章深刻探讨了权力与魅力之间的复杂关系，指出缺乏魅力的权力人物往往会成为批评的靶子。作者以希拉里·克林顿和注重建设的CEO为例，说明社会对有能力的领导者可能存在不公平的偏见。分析认为这种现象源于人性，并提出新视角：被批评可能正说明某人是适合岗位的人选。文章倡导我们认识这种现象，对领导者的评价更加理性。",
-    "best_quote_en": "being a magnet for criticism is sometimes a sign not that someone is the wrong person for a job, but that they're the right one.",
-    "best_quote_zh": "成为批评对象有时并非意味着某人不适合某个职位，反而说明他们是正确的人选。"
-  },
-  {
     "id": 103,
     "title": "The Real Target of Trump’s War on Drug Boats",
     "title_zh": "特朗普对毒品船只战争的真正目标",
@@ -2338,5 +2218,125 @@
     "summary_zh": "这期Huberman Lab Essentials节目与杰克·费尔德曼博士深入探讨呼吸科学，揭示呼吸模式如何深刻影响心理和身体健康。作为著名神经生物学家，费尔德曼解释了控制呼吸的复杂神经回路，并分享了如何通过呼吸技巧减轻焦虑、增强情绪韧性。节目不仅提供理论知识，还给出了盒式呼吸等实用工具，并探讨了镁酸镁对认知健康的作用。最引人深思的是，节目将古老的呼吸练习与现代神经科学相结合，展示了生理过程如叹气和嗅觉刺激如何影响自主神经系统。这期节目以前沿研究与立即可用的建议结合，对任何希望通过呼吸优化健康和表现的人都非常有价值。",
     "best_quote_en": "Breathing patterns profoundly influence mental states, including their role in reducing anxiety and enhancing emotional resilience.",
     "best_quote_zh": "呼吸模式对心理状态有着深远的影响，包括减轻焦虑和增强情绪韧性方面的作用。"
+  },
+  {
+    "id": 198,
+    "title": "’Tis the season for dubious TV adverts | Letters",
+    "title_zh": "圣诞广告季的可疑广告 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/business/2025/nov/14/tis-the-season-for-dubious-tv-adverts",
+    "tags": [
+      "update",
+      "marketing",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "市场营销",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This collection of letters critiques the John Lewis Christmas ad campaign, highlighting its manipulative tactics and societal implications. Readers express concerns about consumer manipulation, gender stereotypes, and the commercialization of holidays. The discussion reveals a growing skepticism toward corporate advertising that masks profit motives with emotional storytelling. The analysis also touches on historical context, questioning the ad's portrayal of masculinity and family roles. This content serves as a critical examination of modern advertising practices and their impact on consumer behavior and societal norms.",
+    "summary_zh": "读者来信批评约翰·刘易斯圣诞广告的操控手法和社会影响，揭露其掩盖利润动机的情感包装。人们对消费者操控、性别刻板印象和节日商业化表达担忧。讨论还涉及历史背景，质疑广告对男性气质和家庭角色的刻画。内容批判现代广告实践及其对消费行为和社会规范的影响。",
+    "best_quote_en": "This ad is a shameless attempt to make consumers think they are doing something worthwhile in buying overpriced gifts in a failing store that used to share its profits with staff but hasn't paid them any bonus in the past few years.",
+    "best_quote_zh": "这则广告无耻地试图让消费者认为，在一家曾与员工分享利润但多年来未支付奖金的失败商店购买高价礼物是值得的。"
+  },
+  {
+    "id": 199,
+    "title": "The Fatal Pinch",
+    "title_zh": "致命危机",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pinch.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "The article 'The Fatal Pinch' describes a critical juncture many startups face when they have substantial runway but are burning cash with little revenue growth. The author identifies a dangerous delusion among founders who assume they can raise more money to avoid failure. This 'fatal pinch' is exacerbated by three factors: increased spending, higher investor standards, and the perception of failure. The article advises founders to act as if their current funding is their last, emphasizing the importance of reaching profitability. If already in the pinch, options include shutting down, increasing revenue, or cutting expenses. The author suggests ruthless prioritization of revenue-generating activities and even temporary shifts to consulting work to survive. The piece concludes with a cautionary note about the slippery slope of consulting but offers hope that near-death experiences can lead to future success.",
+    "summary_zh": "这篇文章描述了许多初创公司面临的一个关键阶段，即他们拥有大量资金但仍在烧钱且收入增长乏力。作者指出，创始人常常错误地认为可以通过融资避免失败。这种“致命危机”由三个因素加剧：支出增加、投资者标准提高以及失败的标签。文章建议创始人应对待当前资金为最后一次融资，强调实现盈利的重要性。如果已经陷入困境，选择包括关闭公司、增加收入或削减开支。作者建议果断优先考虑收入生成活动，甚至暂时转向咨询工作以求生存。文章最后警告说咨询工作可能成为陷阱，但也指出几近死亡的经历可能带来未来的成功。",
+    "best_quote_en": "The probability is zero.",
+    "best_quote_zh": "概率为零。"
+  },
+  {
+    "id": 200,
+    "title": "\"Middlemarch\" is inane and also one of my favorite books",
+    "title_zh": "《米德尔马契》无聊却是我最喜欢的书之一",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/5pgpwshssLmA9kZGz/middlemarch-is-inane-and-also-one-of-my-favorite-books",
+    "tags": [
+      "solve",
+      "psychology",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "The essay explores the author's complex relationship with George Eliot's Middlemarch, finding profound value in its portrayal of idealism clashing with reality. The focus on Dorothea Brooke's character resonates deeply, particularly her struggle between principles and human desires. The author admires how the novel captures the universal experience of youthful idealism confronting harsh truths, a theme that mirrors their own personal growth. The detailed analysis of key passages reveals the author's appreciation for the book's psychological depth and its accurate depiction of human nature. This reflection on Middlemarch offers valuable insights into the tension between aspirations and reality, making it a compelling read for those interested in character development and personal evolution.",
+    "summary_zh": "作者深入分析了乔治·艾略特的《米德尔马契》，尽管对书中人物的生活感到乏味，但却发现其中蕴含着深刻的价值。多萝西娅·布鲁克这一角色的塑造尤为引人深思，她在原则与人性欲望之间的挣扎与作者产生了强烈共鸣。作者欣赏小说如何描绘了理想主义与现实碰撞的普遍经历，这与他们自身的成长历程不谋而合。对关键段落的详细解读展现了作者对书中心理深度和对人性准确描绘的赞赏。这篇关于《米德尔马契》的反思，为探索角色发展和个人成长的读者提供了有价值的见解。",
+    "best_quote_en": "'They are lovely,' said Dorothea, slipping the ring and bracelet on her finely-turned finger and wrist, and holding them toward the window on a level with her eyes. All the while her thought was trying to justify her delight in the colours by merging them in her mystic religious joy.",
+    "best_quote_zh": "'它们太美了！'多萝西娅说，将戒指和手镯戴在细长的手指和手腕上，举到窗口与眼睛齐平。她一边这样做，一边试图将对颜色的喜悦与她神秘的宗教欢乐融为一体。"
+  },
+  {
+    "id": 201,
+    "title": "The Liberal Scholars Who Influenced Trump’s Attack on Birthright Citizenship",
+    "title_zh": "影响特朗普限制出生公民权政策的自由派学者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-liberal-scholars-who-influenced-trumps-attack-on-birthright-citizenship",
+    "tags": [
+      "learn",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This article explores the unintended consequences of a 1985 academic work by two liberal Yale professors, Peter H. Schuck and Rogers M. Smith, which challenged the conventional understanding of birthright citizenship in the U.S. Their book, 'Citizenship Without Consent,' argued that the Fourteenth Amendment's Citizenship Clause might not automatically grant citizenship to children of undocumented immigrants. While their original intent was to provoke academic debate, their arguments were later weaponized by immigration restrictionists and white nationalists, eventually influencing President Trump's 2025 executive order attempting to restrict birthright citizenship. The piece highlights the complex journey of ideas from academic theory to political action, and the ethical responsibilities of scholars in shaping public policy. It also underscores the enduring power of the Fourteenth Amendment in American legal and political life, despite ongoing challenges to its interpretation.",
+    "summary_zh": "这篇文章探讨了1985年两位自由派耶鲁大学学者彼得·H·舒克和罗杰斯·M·史密斯的学术著作如何意外影响了特朗普政府的出生公民权政策。他们的著作《无同意的公民身份》质疑了第十四修正案的公民权条款，认为它可能不自动赋予非法移民子女公民身份。尽管原本只是学术讨论，但他们的观点后来被移民限制主义者和白人至上主义者利用，最终影响了特朗普2025年的行政命令。文章揭示了学术思想如何演变为政治行动，并强调学者在塑造公共政策时的伦理责任。同时，它凸显了第十四修正案在美国法律和政治生活中持久的力量，尽管其解释仍面临持续挑战。",
+    "best_quote_en": "It’s not a distinction that I am particularly proud to have.",
+    "best_quote_zh": "这不是我特别以之为荣的成就。"
+  },
+  {
+    "id": 202,
+    "title": "What’s in my NOW? — Rob Ray",
+    "title_zh": "What’s in my NOW? — Rob Ray",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-rob-ray-2/",
+    "tags": [
+      "inspire",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "Rob Ray's 'What's in my NOW?' offers a fascinating blend of practical recommendations and philosophical reflections. Physically, he highlights accessible tools like affordable 3D printers and metric system-friendly tape measures, emphasizing practicality and education. Digital tools like Plasticity and Godot showcase his focus on open-source solutions for creative and technical work. The invisible section delves into Afrofuturist mythology of Drexciya, illustrating how creative imagination can transform historical trauma into empowering narratives. This content bridges tangible recommendations with deeper cultural insights, making it valuable for both practical learners and those seeking inspirational perspectives.",
+    "summary_zh": "罗布·雷的《What’s in my NOW?》结合了实用推荐和哲学思考。物理部分推荐了实惠的3D打印机和便携测量工具，突出了实用性和教育价值。数字工具如Plasticity和Godot展示了他对开源解决方案的偏好。隐形部分探讨了非裔未来主义神话Drexciya，展示了如何通过创造性想象将历史创伤转化为鼓舞人心的叙事。这份内容既提供实用建议，又蕴含深层文化洞见，对实用学习者和寻求灵感的人都很有价值。",
+    "best_quote_en": "Drexciya is a mythic, Afrofuturist world imagined by Detroit’s electronic musicians, James Stinson and Gerald Donald, in the early 1990s. They envisioned an underwater kingdom born from the Middle Passage, where the unborn children of enslaved women threw or lost to the sea adapted to breathe underwater and created their own autonomous world.",
+    "best_quote_zh": "Drexciya是1990年代初底特律电子音乐人詹姆斯·斯蒂文森和杰拉尔德·唐纳德构想的一个神秘的非裔未来主义世界。他们想象了一个诞生于中间通道的水下王国，那里被奴役的妇女未出生的孩子们适应了水下呼吸并创造了自己的自治世界。"
   }
 ]
