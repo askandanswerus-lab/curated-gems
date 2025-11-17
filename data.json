@@ -1,75 +1,5 @@
 [
   {
-    "id": 108,
-    "title": "The Risk of Discovery",
-    "title_zh": "发现的风险",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/disc.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This essay challenges our perception of scientific discovery by examining how biographies distort our understanding of risk-taking in science. By focusing on Newton's work in physics while downplaying his pursuits in alchemy and theology, we create a misleading narrative of infallible genius. The author argues that these seemingly disparate fields were equally promising in Newton's time, highlighting how hindsight biases our view of risk. The key insight is that groundbreaking discoveries often come from betting on uncertain paths, and what appears as 'crazy' today might be the 'huge, if true' opportunities of our time. This perspective encourages us to reconsider how we evaluate risky ventures in science and beyond.",
-    "summary_zh": "这篇文章挑战了我们对科学发现的认知，揭示了传记如何扭曲我们对科学冒险精神的理解。通过聚焦牛顿的物理研究而忽略其炼金术和神学探索，我们构建了一个完美天才的虚假叙事。作者指出，这些看似截然不同的领域在牛顿时代同样充满希望，凸显了后见之明如何扭曲我们对风险的评估。核心观点是，突破性发现往往来自于在不确定道路上的投注，今天看似荒谬的事物可能正是我们时代的'如果成立则意义重大'的机遇。这一视角促使我们重新审视如何评估科学及其他领域中的冒险行为。",
-    "best_quote_en": "But maybe there is a simpler explanation. Maybe the smartness and the craziness were not as separate as we think.",
-    "best_quote_zh": "但或许有一个更简单的解释。或许聪明与疯狂并不像我们想象的那么分离。"
-  },
-  {
-    "id": 109,
-    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
-    "title_zh": "保护房屋免受灾难性火灾的新范式",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
-    "tags": [
-      "analyze",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This article explores the complex science of wildland-urban interface fires and challenges conventional wisdom about fire prevention. It reveals that most surviving homes owe their survival to firefighter actions rather than design choices. The piece highlights the critical role of embers in spreading fires and the need for comprehensive home hardening measures. Experts argue that partial fireproofing is ineffective, as even one unprotected element can lead to total destruction. The article also examines the cultural and practical challenges of implementing these measures, including the need for community-wide cooperation and government support. It offers a sobering look at the financial and emotional burden on homeowners trying to protect their properties in fire-prone areas.",
-    "summary_zh": "这篇文章深入探讨了野地-城市接合部火灾的复杂科学，并挑战了关于火灾预防的传统观点。它揭示了，大多数幸存的房屋得以保全更多是因为消防员的行动，而非设计选择。文章强调了火星在火灾蔓延中的关键作用，以及对全面加固房屋的必要性。专家认为，部分防火措施无效，因为任何一个未受保护的元素都可能导致整个房屋毁灭。该文还探讨了实施这些措施的文化和实际挑战，包括需要全社区合作和政府支持。它以一种严肃的方式，展示了火灾易发区的房主在保护财产时面临的财务和情感负担。",
-    "best_quote_en": "You cannot pick and choose. The science tells us you have to do everything.",
-    "best_quote_zh": "你不能挑挑拣拣。科学告诉我们，你必须做好所有事情。"
-  },
-  {
-    "id": 110,
-    "title": "What’s in my NOW? — Aishwarya Goel",
-    "title_zh": "我的现在是什么？ — 艾什瓦里娅·戈尔",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
-    "tags": [
-      "update",
-      "design",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This personal essay by Aishwarya Goel offers a refreshing glimpse into the tools and habits that shape her daily life. By categorizing her essentials into physical, digital, and invisible elements, she creates a framework for self-improvement that's both practical and inspiring. The physical items like the Philips Signe lamp and Uniqlo hoodie reveal her appreciation for thoughtful design that enhances both functionality and mood. The digital tools, particularly MyNetDiary and Bear Blog, demonstrate her commitment to health tracking and writing consistency. The inclusion of James Dyson's quote about excellence as the capacity to endure pain adds a profound layer to her philosophy. What makes this piece particularly valuable is how it transforms personal preferences into universal insights about productivity, well-being, and personal growth.",
-    "summary_zh": "艾什瓦里娅·戈尔的这篇个人随笔，以独特的视角展示了塑造她日常生活的工具和习惯。通过将必需品分为物理、数字和隐形三类，她构建了一个既实用又富有启发的自我提升框架。物理物品如菲利浦灯和优衣库卫衣，体现了她对提升功能性和情绪的精心设计的欣赏。数字工具特别是MyNetDiary和Bear Blog，展示了她对健康追踪和写作持续性的承诺。詹姆斯·迪森关于卓越是承受痛苦能力的名言，为她的哲学增添了深刻内涵。这篇文章的独特价值在于，如何将个人偏好转化为关于生产力、幸福和个人成长的普遍见解。",
-    "best_quote_en": "Excellence is the capacity to take pain.",
-    "best_quote_zh": "卓越的能力在于承受痛苦。"
-  },
-  {
     "id": 111,
     "title": "UK women in tech: we would like to hear from you",
     "title_zh": "英国女性在科技领域：我们想听到你们的声音",
@@ -2344,5 +2274,77 @@
     "summary_zh": "这篇文章颠覆了关于创业的常规认知，认为“艰难的创业”—那些需要大量资源、时间或技术突破的创业项目—往往比容易的创业项目更容易成功。作者强调，有才华的人更倾向于投身有意义的、具有挑战性的问题，而非琐碎的事情。艰难的创业项目能够产生顺风效应，吸引更优秀的人才、合作伙伴和资金。文章还指出长期承诺和复利优势的重要性，建议创业者要更加宏大，追求真正有影响力的工作，即使这意味着面对艰难的长期挑战。",
     "best_quote_en": "Few recruiting messages are as powerful (when true) as 'the world needs this, it won't happen any time soon if we don't do it, and we are much less likely to succeed if you don't join.'",
     "best_quote_zh": "没有比“真正需要这个，如果我们不做它，它不会在短时间内发生，而如果你不加入，我们成功的可能性会大大降低”更有力的招聘信息（当它是真实的时）。"
+  },
+  {
+    "id": 208,
+    "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
+    "title_zh": "关于我36岁冻卵的所有一切我希望曾经知道的事情",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
+    "tags": [
+      "update",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "This article provides a deeply personal yet informative exploration of egg freezing, a procedure increasingly chosen by women to preserve fertility. The author shares her journey, highlighting the emotional, physical, and financial aspects often overlooked in public discourse. Key insights include the importance of considering egg freezing as part of a potential IVF journey, the age-related success rates, and the necessity of thorough clinic research. The piece also debunks myths about the process, such as the assumption that one cycle is sufficient or that supplements significantly improve outcomes. The author's candid discussion about emotional challenges and lifestyle adjustments offers valuable perspective for others considering this path.",
+    "summary_zh": "这篇文章深入讲述了作者36岁冻卵的个人经历，揭示了这个越来越受女性选择的保存生育能力手段的情感、身体和经济方面的考量。核心见解包括将冻卵视为可能的IVF流程的一部分，年龄对成功率的影响，以及选择诊所的重要性。文章还纠正了许多误解，比如认为一次周期足够或补充剂能显著提高效果。作者坦诚讨论的情感挑战和生活方式调整，为考虑走这条路的女性提供了宝贵视角。",
+    "best_quote_en": "'It gives you another option to try to become a parent using your own genetic material, but in no way does it guarantee that will happen.' - Dr. Zeynep Gurtin",
+    "best_quote_zh": "‘这给了你用自身遗传材料尝试成为父母的另一种选择，但绝不保证能成功。’——泽奈普·古尔汀博士"
+  },
+  {
+    "id": 209,
+    "title": "Sunnyvale EA/LW/ACX meetup",
+    "title_zh": "Sunnyvale EA/LW/ACX 聚会",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/events/BPqueEgxmRCc4gKbK/sunnyvale-ea-lw-acx-meetup",
+    "tags": [
+      "update",
+      "society",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-17",
+    "summary_en": "The Sunnyvale EA/LW/ACX meetup announcement reveals an interesting community organizing strategy that balances structure with flexibility. The outdoor setting creates an informal, approachable atmosphere that encourages casual participation. The explicit mention of accommodating kids and dogs suggests a family-friendly environment, potentially broadening the demographic reach. The logistical details—like rain vulnerability and flexible attendance—show thoughtful planning while maintaining low-pressure engagement. This event format could serve as a model for other communities seeking to foster organic connections without rigid commitment.",
+    "summary_zh": "这个Sunnyvale EA/LW/ACX聚会通知展现了组织者平衡结构与灵活性的策略。户外场地营造出非正式、易于接近的氛围，鼓励自由参与。明确提到欢迎带孩子和宠物，暗示着亲子友好的环境，可能吸引更广泛的参与者。关于雨天取消和灵活参与的细节体现了周到的规划和低压力的参与方式。这种聚会形式或许能为其他社区提供参考，展示如何在不强制要求下促进自然人际联系。",
+    "best_quote_en": "Come join when you can and leave when you want.",
+    "best_quote_zh": "可以随时加入，想走就走。"
+  },
+  {
+    "id": 210,
+    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+    "title_zh": "如何构建你的思维以及如何塑造它们 | 杰尼弗·格罗医生",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
+    "tags": [
+      "solve",
+      "psychology",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Dr. Jennifer Groh's insights into how our brains integrate sensory information to shape thoughts offer a fascinating look at cognitive science. Her explanation of how focus determines thought patterns provides practical applications for improving concentration and happiness. The discussion on rewiring neural circuits for better attention control is particularly valuable, offering both scientific depth and actionable advice. The conversation also touches on the evolutionary aspects of sound and vision, adding an intriguing historical perspective. While the sponsor segments are necessary, they occasionally disrupt the flow of the scientific discussion. The practical tools mentioned, like bone conduction headphones and mental interval training, make this content highly actionable for listeners looking to enhance their cognitive performance.",
+    "summary_zh": "杰尼弗·格罗医生关于大脑如何整合感官信息构建思维的见解，为认知科学提供了令人着迷的视角。她解释专注如何决定思维模式，为提高专注力和幸福感提供了实际应用。关于重构神经回路以改善注意力控制的讨论尤为宝贵，既有科学深度，又有可操作的建议。关于声音和视觉的演化方面的讨论也增加了趣味性。赞助商环节虽然必要，但有时打断了科学讨论的流畅性。提到的实际工具如骨传导耳机和心理间隔训练，使内容对希望提升认知能力的听众极具实用价值。",
+    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
+    "best_quote_zh": "你关注的东西决定了你的思维，不仅仅是在当下，而且影响你未来的思维。"
   }
 ]
