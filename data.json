@@ -1,75 +1,5 @@
 [
   {
-    "id": 111,
-    "title": "UK women in tech: we would like to hear from you",
-    "title_zh": "英国女性在科技领域：我们想听到你们的声音",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
-    "tags": [
-      "analyze",
-      "leadership",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "The Lovelace Report 2025 highlights a critical issue in the UK tech sector: an annual loss of 40,000-60,000 women, costing the economy £2-3.5 billion. The exodus stems from career stagnation (25%), lack of recognition (17%), and pay inequity (15%). This exodus represents a significant loss of talent and economic potential. The Guardian seeks to amplify these voices, inviting women in tech to share their experiences. This call for participation offers a platform for women to voice their challenges and solutions, potentially influencing industry change. The report's findings underscore the urgent need for systemic changes to retain and advance women in tech.",
-    "summary_zh": "拉夫莱斯报告2025揭示了英国科技行业的严峻问题：每年流失4-6万女性，造成20-35亿英镑的经济损失。离职原因包括职业发展受限（25%）、缺乏认可（17%）和薪酬不公（15%）。这场人才流失不仅影响行业发展，也凸显性别平等的紧迫性。卫报的倾听倡议为女性提供了表达的平台，或许能推动行业改变。报告数据警示我们，必须系统性地解决女性在科技领域的发展障碍。",
-    "best_quote_en": "Between 40,000 and 60,000 women leave the UK's tech sector every year, costing the economy an estimated £2 billion to £3.5 billion annually.",
-    "best_quote_zh": "英国科技行业每年流失4万-6万女性，造成每年20亿-35亿英镑的经济损失。"
-  },
-  {
-    "id": 112,
-    "title": "How to Make Pittsburgh a Startup Hub",
-    "title_zh": "如何将匹兹堡打造成创业中心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pgh.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This insightful talk explores Pittsburgh's potential to become a startup hub by leveraging its unique advantages. The author, with personal connections to both Pittsburgh and Silicon Valley, identifies key factors like attracting young talent, preserving historic architecture, and fostering a tolerant culture. The analysis highlights Pittsburgh's youth-driven food boom as a promising indicator, suggesting that the city's affordability and charm make it an attractive destination for 25-29 year olds - the demographic most likely to found startups. The talk emphasizes the importance of organic growth, suggesting that Pittsburgh should focus on being an excellent place to live while startups naturally emerge. The author also notes the crucial role of Carnegie Mellon University and the need for a more robust investor community, though acknowledges that this will take time to develop. Ultimately, the piece presents an optimistic vision for Pittsburgh's future as a startup hub, rooted in its authentic strengths.",
-    "summary_zh": "这篇演讲深入分析了匹兹堡成为创业中心的潜力，作者以亲身经历为基础，指出年轻人涌入、保护历史建筑和包容文化是关键因素。文章以匹兹堡的年轻人主导的餐饮热潮为例，说明这座城市对25-29岁人群的吸引力，这一群体正是创业的主力军。作者建议匹兹堡应当以提升生活质量为核心，让创业自然涌现。同时强调卡内基梅隆大学的重要性，并指出需要培养投资者社区。文章最终以乐观的基调展望了匹兹堡成为创业中心的未来。",
-    "best_quote_en": "Imagine what it must have been like here a hundred years ago, when people were pouring in from twenty different countries. Tolerance was the only option.",
-    "best_quote_zh": "想象一百年前这里是什么样子，人们从二十个不同国家涌入。包容是唯一的选择。"
-  },
-  {
-    "id": 113,
-    "title": "Plan 1 and Plan 2",
-    "title_zh": "计划1和计划2",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/7xCxz36Jx3KxqYrd9/plan-1-and-plan-2",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The author critiques Max Tegmark's binary division of AI safety advocates into two camps, arguing this oversimplification is counterproductive. Instead, they propose a more nuanced framework with Plan 1 (international coordination to stop the AI race) and Plan 2 (making the transition to superintelligence safer if the race continues). The analysis highlights funding disparities between these approaches and warns against polarization. The author emphasizes the importance of productive dialogue between different factions, noting psychological factors that drive people to cluster around similar views. They express interest in 'model syncing' with Type 2 optimists and invite discussion about the relative merits of each plan.",
-    "summary_zh": "作者批判了特格马克将AI安全倡导者分为两个阵营的二元框架，认为这种简化不利于进步。提出更细致的方案1（国际协调阻止AI竞赛）和方案2（在竞赛继续的情况下确保过渡安全）。分析指出资金分配失衡，警惕两极化风险。强调不同阵营间建设性对话的重要性，指出心理因素导致观点聚集。作者希望与乐观派进行模型同步，并欢迎讨论各方案优劣。",
-    "best_quote_en": "We all want as many people as possible to have as accurate beliefs as possible. Let us try to engage in productive rational discussion with people who disagree with us, so we may destroy falsehoods within ourselves and become better able to achieve our goals.",
-    "best_quote_zh": "我们都希望尽可能多的人拥有尽可能准确的信念。让我们尝试与持不同意见的人进行建设性理性讨论，这样我们才能摒弃自身的谬误，更好地实现我们的目标。"
-  },
-  {
     "id": 114,
     "title": "Andrew Cuomo’s Long Goodbye",
     "title_zh": "安德鲁·库默的漫长告别",
@@ -2346,5 +2276,75 @@
     "summary_zh": "杰尼弗·格罗医生关于大脑如何整合感官信息构建思维的见解，为认知科学提供了令人着迷的视角。她解释专注如何决定思维模式，为提高专注力和幸福感提供了实际应用。关于重构神经回路以改善注意力控制的讨论尤为宝贵，既有科学深度，又有可操作的建议。关于声音和视觉的演化方面的讨论也增加了趣味性。赞助商环节虽然必要，但有时打断了科学讨论的流畅性。提到的实际工具如骨传导耳机和心理间隔训练，使内容对希望提升认知能力的听众极具实用价值。",
     "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
     "best_quote_zh": "你关注的东西决定了你的思维，不仅仅是在当下，而且影响你未来的思维。"
+  },
+  {
+    "id": 211,
+    "title": "Before the Startup",
+    "title_zh": "创业前",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/before.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This essay by Paul Graham offers counterintuitive insights about startups, emphasizing that conventional wisdom often leads founders astray. He compares starting a company to skiing, where natural instincts often lead to failure. The piece highlights six key points: startups are counterintuitive, expertise in startups isn't as important as understanding users, gaming the system doesn't work in startups, startups are all-consuming, you can't predict if you're cut out for one until you try, and good startup ideas form unconsciously through deep learning and working on interesting problems. Graham's advice is both practical and philosophical, urging would-be founders to focus on genuine curiosity and problem-solving rather than chasing startup-specific knowledge.",
+    "summary_zh": "保罗·格雷厄姆的这篇文章揭示了关于创业的六个反直觉真相。他指出，常规思维往往会让创业者误入歧途，创业就像滑雪一样，本能反应可能适得其反。文章强调，真正的创业成功者不是对创业本身有专业知识，而是对用户需求有深刻理解。创业不是游戏，不能通过投机取巧获得成功。创业会彻底改变你的生活，并持续占据你大量时间。是否适合创业，只有亲自尝试才能知道。最好的创业想法往往是在潜移默化中形成的，需要长期积累和对有趣问题的探索。格雷厄姆建议年轻人，与其急于创业，不如先专注于学习和探索。",
+    "best_quote_en": "If you're thinking about getting involved with someone — as a cofounder, an employee, an investor, or an acquirer — and you have misgivings about them, trust your gut.",
+    "best_quote_zh": "如果你在考虑与某人合作——无论是作为联合创始人、员工、投资者还是收购方——而你对他们有疑虑，就要相信你的直觉。"
+  },
+  {
+    "id": 212,
+    "title": "How To Invest In Startups",
+    "title_zh": "如何投资初创公司",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-01-13",
+    "summary_en": "This article provides a comprehensive guide for aspiring startup investors, offering practical advice on three key areas: gaining access to investment opportunities, making good investment decisions, and convincing promising startups to accept your investment. The author emphasizes the importance of hard work and networking to build relationships that lead to investment access. For making good decisions, the focus should be on identifying founders with high growth potential and understanding market dynamics. The article highlights that the best investments often come from founders who are scrappy, ambitious, and capable of rapid improvement. Finally, to close deals, investors should build a reputation for being helpful, decisive, and founder-friendly. The insights are valuable for both novice and experienced investors looking to improve their investment strategies.",
+    "summary_zh": "这篇文章为希望投资初创公司的投资者提供了全面指南，涵盖三个关键领域：获取投资机会、做出明智投资决策以及说服有前景的初创公司接受投资。作者强调通过努力工作和建立关系网络来获取投资机会的重要性。在做出明智决策方面，重点应放在识别具有高增长潜力的创始人和理解市场动态上。文章指出，最佳投资往往来自那些务实、有抱负且能够快速成长的创始人。最后，为了成功签约，投资者应建立一个乐于助人、果断和友好的声誉。这些见解对希望提升投资策略的新手和经验丰富的投资者都非常有价值。",
+    "best_quote_en": "The best investments will do quite well without you.",
+    "best_quote_zh": "最好的投资即使没有你的参与，也能取得很好的成绩。"
+  },
+  {
+    "id": 213,
+    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
+    "title_zh": "Essentials: 通过现代神经科学消除恐惧与创伤",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
+    "tags": [
+      "solve",
+      "psychology",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This episode of Huberman Lab Essentials dives deep into the neuroscience behind fear and trauma processing, offering actionable insights grounded in modern research. The key revelation is that effective fear treatment requires both extinguishing old fearful responses and replacing them with positive associations - a process that goes beyond mere cognitive reframing. The discussion highlights the critical neural circuits involving the amygdala, prefrontal cortex, and dopamine systems, explaining how detailed recounting of traumatic events can reduce their physiological impact over time. Particularly intriguing is the evidence supporting five minutes of daily cyclic hyperventilation to rewire fear responses, alongside the proven efficacy of therapies like prolonged exposure and cognitive behavioral therapy. The episode also underscores the vital role of social connection in trauma recovery and explores supplementation options for anxiety management. What makes this content particularly valuable is its blend of cutting-edge neuroscience with practical applications that anyone can incorporate into their lives.",
+    "summary_zh": "本期Huberman Lab Essentials深入探讨了恐惧与创伤处理的神经科学原理，提供了基于现代研究的实用见解。关键发现是有效的恐惧治疗需要同时消除旧有的恐惧反应并替换为积极联想，这超越了简单的认知重构。节目重点介绍了涉及杏仁核、前额叶皮层和多巴胺系统的关键神经回路，解释了详细回忆创伤事件如何逐渐减少其生理影响。特别值得关注的是，每天进行五分钟的循环性过度通气如何重塑恐惧反应，以及延长暴露疗法和认知行为疗法的证明有效性。节目还强调了社会连接在创伤恢复中的关键作用，并探讨了焦虑管理的补充方案。这期内容的价值在于将前沿神经科学与实际应用相结合，使每个人都能将其融入生活。",
+    "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
+    "best_quote_zh": "成功的恐惧治疗需要同时消除旧有的恐惧反应并替换为积极联想，而不仅仅是认知重构。"
   }
 ]
