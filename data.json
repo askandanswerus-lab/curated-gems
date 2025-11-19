@@ -1,99 +1,5 @@
 [
   {
-    "id": 114,
-    "title": "Andrew Cuomo’s Long Goodbye",
-    "title_zh": "安德鲁·库默的漫长告别",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This article dissects Andrew Cuomo's failed mayoral campaign, revealing a desperate attempt to cling to relevance. The piece highlights Cuomo's cynical tactics, from name-calling to baseless smears against opponent Zohran Mamdani. What's most revealing is how Cuomo has had to adopt Mamdani's progressive strategies to remain competitive, showing the former governor's political irrelevance. The article also exposes Cuomo's hypocrisy in blaming policies he himself enacted for the city's problems. This is less about Cuomo's campaign and more about the political exhaustion with his brand of power politics and the emergence of a new progressive movement in New York.",
-    "summary_zh": "这篇文章解剖了安德鲁·库默失败的市长竞选，揭示了他试图重返政坛的可悲尝试。文章突出了库默的狡辩策略，从辱骂到对对手Zohran Mamdani的恶意中伤。最引人深思的是，库默不得不借用Mamdani的进步政策来保持竞争力，这暴露了这位前州长的政治无能。文章还揭露了库默在指责自己曾推行的政策破坏了这座城市方面的虚伪。这不仅仅是关于库默竞选的故事，更是关于人们对权力政治疲惫的写照，以及纽约新进步运动的崛起。",
-    "best_quote_en": "Who was leading the state?",
-    "best_quote_zh": "是谁在领导这个州？"
-  },
-  {
-    "id": 115,
-    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
-    "title_zh": "数字入境欧洲/短信诈骗/孟买第二机场",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
-    "tags": [
-      "update",
-      "cybersecurity",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "网络安全",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This article presents four distinct global developments with practical travel implications. The introduction of Europe's EES border system promises faster immigration but raises privacy concerns. The exposé on 'pig butchering' scams reveals the alarming scale of cryptocurrency fraud, with a $15 billion Bitcoin seizure highlighting the need for digital vigilance. Mumbai's new airport offers relief to overwhelmed travelers, while Time Out's neighborhood list provides cultural insights for digital nomads. The content balances practical information with thought-provoking perspectives on modern travel challenges and opportunities.",
-    "summary_zh": "这篇文章涵盖了四个全球性的最新动态，对旅行者具有实用价值。欧洲的EES入境系统虽然加快了通关速度，却引发了隐私担忧。关于“杀猪盘”诈骗的揭露，揭示了加密货币诈骗的惊人规模，150亿美元比特币被扣押凸显了数字安全的重要性。孟买的新机场为旅行者提供了新选择，而Time Out的邻里名单为数字游牧者提供了文化洞察。内容兼顾实用信息与对现代旅行挑战的深刻思考。",
-    "best_quote_en": "places that represent the soul of our cities, while maintaining their own unique local character that draws people in to live, work and play",
-    "best_quote_zh": "这些地方体现了城市的灵魂，同时保持着独特的本地特色，吸引人们前来生活、工作和游玩"
-  },
-  {
-    "id": 116,
-    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
-    "title_zh": "每次出门，我首先想到的就是我的额头：接受头发移植的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
-    "tags": [
-      "solve",
-      "medicine",
-      "psychology",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "心理学",
-      "深度分析"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This article explores the growing trend of women undergoing hair transplants, a procedure once predominantly sought by men. The piece delves into the psychological and social pressures faced by women with hair loss, highlighting how societal beauty standards and the rise of social media have intensified anxieties about hairlines and volume. Through the stories of Aria, Harriet, and Beatrice, the article examines the emotional toll of hair loss, the high costs and risks of transplants, and the lack of awareness about female-specific hair loss conditions. It also sheds light on the unregulated nature of the hair transplant industry, where unqualified practitioners can cause irreparable damage. The article ultimately questions whether hair transplants are a solution or a reflection of deeper societal issues surrounding femininity and beauty.",
-    "summary_zh": "文章探讨了越来越多女性接受头发移植手术的现象，这种手术曾主要由男性接受。通过Aria、Harriet和Beatrice的故事，展现了女性脱发带来的心理和社会压力，以及社会审美标准和社交媒体的兴起加剧了对发际线和发量的焦虑。文章还揭示了脱发治疗的高昂费用和风险，以及对女性特有脱发问题的认知不足。同时，指出头发移植行业缺乏监管，不合格的医生可能造成无法挽回的损害。最终，文章质疑头发移植是否是解决方案，还是反映了更深层次的社会问题。",
-    "best_quote_en": "It’s just societal pressure. Where once we were obsessed with straight teeth, now it’s the perfect hairline.",
-    "best_quote_zh": "这只是社会压力。我们曾经痴迷于牙齿整齐，现在则是完美的发际线。"
-  },
-  {
-    "id": 117,
-    "title": "Life is Short",
-    "title_zh": "人生短暂",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/vb.html",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "This reflective piece explores the profound realization that life's brevity becomes tangible when measured in discrete moments with loved ones, particularly children. The author argues that recognizing life's shortness should motivate us to eliminate 'bullshit' - meaningless activities that steal our time, whether imposed by external circumstances or chosen unwittingly. The essay advocates for conscious time management, prioritizing meaningful experiences, and savoring the present. It's a poignant reminder to act on our aspirations rather than postponing them, and to cherish our time with those we love before it's too late. The author's personal reflections add emotional weight to these universal truths.",
-    "summary_zh": "这篇文章探讨了人生短暂的深刻体会，特别是通过与孩子相处的珍贵时刻。作者认为，意识到生命有限应激励我们摒弃无意义的琐事，无论是外界强加的还是自己主动选择的。文章倡导有意识的时间管理，优先选择有意义的经历，并珍惜当下。这是一个动人的提醒，要实现我们的愿望而非拖延，珍惜与亲人共处的时光，在它们消逝之前。作者的个人反思为这些普世真理增添了情感分量。",
-    "best_quote_en": "Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short.",
-    "best_quote_zh": "无情地剪除无意义的琐事，不要等待去做重要的事，并珍惜你所拥有的时间。这就是当生命短暂时你该做的。"
-  },
-  {
     "id": 118,
     "title": "Musings on Reported Cost of Compute (Oct 2025)",
     "title_zh": "关于报告的计算成本的思考（2025年10月）",
@@ -2346,5 +2252,101 @@
     "summary_zh": "本期Huberman Lab Essentials深入探讨了恐惧与创伤处理的神经科学原理，提供了基于现代研究的实用见解。关键发现是有效的恐惧治疗需要同时消除旧有的恐惧反应并替换为积极联想，这超越了简单的认知重构。节目重点介绍了涉及杏仁核、前额叶皮层和多巴胺系统的关键神经回路，解释了详细回忆创伤事件如何逐渐减少其生理影响。特别值得关注的是，每天进行五分钟的循环性过度通气如何重塑恐惧反应，以及延长暴露疗法和认知行为疗法的证明有效性。节目还强调了社会连接在创伤恢复中的关键作用，并探讨了焦虑管理的补充方案。这期内容的价值在于将前沿神经科学与实际应用相结合，使每个人都能将其融入生活。",
     "best_quote_en": "Successful fear treatment requires both extinction of the old fearful response and replacement with a new positive association—not just cognitive reframing.",
     "best_quote_zh": "成功的恐惧治疗需要同时消除旧有的恐惧反应并替换为积极联想，而不仅仅是认知重构。"
+  },
+  {
+    "id": 214,
+    "title": "Untie me! Why big bows are everywhere – feminine, ironic and strangely subversive",
+    "title_zh": "解开我！为什么大蝴蝶结无处不在——女性化、讽刺且奇怪的颠覆性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/18/big-bows-style-trend-feminine-ironic-strangely-subversive",
+    "tags": [
+      "guide",
+      "society",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This article explores the cultural phenomenon of oversized bows in fashion, examining their evolution from historical symbols of status to modern expressions of femininity and subversion. The analysis reveals how bows have become a versatile fashion statement, transcending gender norms and carrying deeper meanings about self-expression and societal shifts. From high fashion to everyday wear, bows serve as both decorative elements and powerful symbols of personal identity and resistance, challenging traditional notions of femininity and masculinity.",
+    "summary_zh": "本文探讨了大蝴蝶结在时尚界的文化现象，分析其从历史地位象征到现代女性主义表达的演变。分析揭示了蝴蝶结如何成为多功能的时尚陈述，超越性别规范，承载着自我表达和社会变迁的深层含义。从高级时装到日常穿搭，蝴蝶结既是装饰元素，也是个人身份和抵抗的强大象征，挑战传统的女性和男性观念。",
+    "best_quote_en": "A pretty bow worn in an unexpected context is subversive.",
+    "best_quote_zh": "在意想不到的场合穿着漂亮的蝴蝶结是颠覆性的。"
+  },
+  {
+    "id": 215,
+    "title": "The Creative Architect / How to Talk to Girls at Parties",
+    "title_zh": "创造性建筑师 / 如何在派对上与女孩交谈",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "This content presents two distinct but equally fascinating explorations of creativity and human interaction. The first piece, 'The Creative Architect,' reveals a groundbreaking 1950s study on mid-century architects, offering rare insights into the creative process. The study's findings—emphasizing self-expression, elegance in solutions, and resistance to conformism—resonate beyond architecture, providing valuable perspectives on creativity in any field. The second piece, 'How to Talk to Girls at Parties,' is a charming comic adaptation of Neil Gaiman's short story, masterfully illustrated by Fábio Moon and Gabriel Bá. It captures the universal awkwardness of youthful social interactions with a delightful sci-fi twist. Both works excel in their respective domains, offering either profound insights into creativity or relatable, humorous storytelling.",
+    "summary_zh": "这篇内容包含两个截然不同但同样引人入胜的创意与人际交往探索。第一部分《创造性建筑师》揭露了一个关于中世纪建筑师的开创性研究，为我们提供了关于创造力的罕见见解。研究得出的结论——强调自我表达、解决方案的优雅以及对思想行为的非 conformism 抵抗——超越了建筑领域，为任何领域的创造力提供了宝贵的视角。第二部分《如何在派对上与女孩交谈》是尼尔·盖曼短篇故事的动人漫画改编，由法比奥·穆恩和加布里埃尔·巴尔精妙绘制。它以迷人的科幻转折捕捉了青少年社交尴尬的普遍性。两部作品在各自领域都表现出色，提供了深刻的创意见解或可关联的幽默叙事。",
+    "best_quote_en": "'What propels creativity is the unfettered expression of the self'",
+    "best_quote_zh": "'推动创造力的正是自我表达的无拘无束'"
+  },
+  {
+    "id": 216,
+    "title": "How To Be Successful",
+    "title_zh": "如何取得成功",
+    "source": "Sam Altman",
+    "link": "https://blog.samaltman.com/how-to-be-successful",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2019-01-24",
+    "summary_en": "This article presents 13 insightful principles for achieving exceptional success, blending entrepreneurial wisdom with psychological and economic insights. The author emphasizes compounding effects in both personal growth and business, advocating for exponential thinking over linear progression. Self-belief emerges as a crucial factor, balanced by the ability to think independently and take calculated risks. The piece underscores the importance of sales skills, focus, and hard work as multipliers for success. Networking, ownership of valuable assets, and internal motivation are highlighted as key differentiators. The commentary challenges conventional career paths, encouraging boldness and persistence in pursuing meaningful work. The author's personal reflections add authenticity, making the advice both practical and philosophically rich.",
+    "summary_zh": "这篇文章提出了13个关于如何取得非凡成功的见解，将创业智慧与心理学和经济学观点相结合。作者强调个人成长和商业中复利效应的重要性，倡导指数级思维而非线性进步。自信被视为关键因素，同时需与独立思考和理性冒险相平衡。文中突出强调销售技巧、专注和努力工作是成功的放大器。网络构建、拥有有价值资产和内在动力被认为是关键区别。评论挑战了传统的职业道路，鼓励人们在追求有意义的工作时要勇敢和坚持不懈。作者的个人反思增添了真实性，使建议既实用又富有哲学意义。",
+    "best_quote_en": "Trust the exponential, be patient, and be pleasantly surprised.",
+    "best_quote_zh": "相信指数增长，保持耐心，并为惊喜感到愉悦。"
+  },
+  {
+    "id": 217,
+    "title": "‘You definitely felt disposable’: models – one 27, one 62 – discuss Botox, weight loss, creativity and the threat of AI",
+    "title_zh": "“你一定觉得自己被弃用了”：一位27岁、一位62岁的模特聊论肉毒杆菌、减肥、创造力及AI的威胁",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/nov/04/you-definitely-felt-disposable-models-one-27-one-62-discuss-botox-weight-loss-creativity-and-the-threat-of-ai",
+    "tags": [
+      "inspire",
+      "society",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "This article offers a compelling cross-generational perspective on the modeling industry, revealing its evolution and persistent challenges. Dee O and Danielle Mareka share candid insights about the pressures of maintaining physical standards, the impact of social media, and the emerging threats of AI models and weight-loss drugs. Their discussion highlights the mental health toll of the industry, predatory behavior, and the need for better representation and protection. The piece also touches on the broader societal issues of body image and the changing dynamics of fashion. It's a thought-provoking exploration of an industry that often remains behind the scenes.",
+    "summary_zh": "这篇文章从两代模特的视角，揭示了模特行业的演变与持续的挑战。迪和丹妮尔分享了关于维持体型压力、社交媒体影响及AI模特和减肥药物新兴威胁的真实见解。她们的对话凸显了行业对心理健康的影响、猎奇行为以及对更好的代表和保护的需求。文章还触及了社会更广泛的身体形象问题和时尚行业的变化动态。这是一个引人深思的探讨，揭示了一个常常隐藏在幕后的行业。",
+    "best_quote_en": "You definitely felt like you were disposable.",
+    "best_quote_zh": "你一定觉得自己被弃用了。"
   }
 ]
