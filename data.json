@@ -1,101 +1,5 @@
 [
   {
-    "id": 118,
-    "title": "Musings on Reported Cost of Compute (Oct 2025)",
-    "title_zh": "关于报告的计算成本的思考（2025年10月）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This analysis delves into the complex economics of AI compute infrastructure, revealing how different reporting methods can lead to vastly different perceptions of costs. The breakdown of capital expenditures (capex) for a 1 GW datacenter - from infrastructure to hardware to operational costs - exposes the intricacies behind seemingly straightforward figures. The author's insightful comparison between Nvidia and non-Nvidia hardware costs challenges common assumptions about GPU dominance in compute expenses. The projection for 2026 model sizes offers a fascinating glimpse into the future of AI scaling, suggesting that computational advances will enable both larger models and more efficient sparse architectures. This piece serves as both an educational primer on AI infrastructure economics and a thought-provoking analysis of industry trends.",
-    "summary_zh": "该分析深入探讨了AI计算基础设施的复杂经济学，揭示了不同报告方法如何导致对成本的截然不同的认知。1 GW数据中心的资本支出拆分——从基础设施到硬件再到运营成本——揭示了看似简单数字背后的复杂性。作者对Nvidia和非Nvidia硬件成本的深入比较，挑战了关于GPU在计算成本中主导地位的常见假设。2026年模型规模的预测，为AI规模化发展提供了一个引人深思的未来展望，暗示计算进步将使模型规模更大且架构更高效。这篇文章既是AI基础设施经济学的教学入门，也是行业趋势的深刻分析。",
-    "best_quote_en": "A $300bn contract then might mean about 5 GW of total capacity, while a $27bn datacenter site could simultaneously mean 2 GW of total capacity.",
-    "best_quote_zh": "一个3000亿美元的合同可能意味着大约5 GW的总容量，而一个270亿美元的数据中心可能同时意味着2 GW的总容量。"
-  },
-  {
-    "id": 119,
-    "title": "The Feds Who Kill Blood-Sucking Parasites",
-    "title_zh": "那些杀死吸血寄生生物的联邦官员",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-feds-who-kill-blood-sucking-parasites",
-    "tags": [
-      "solve",
-      "leadership",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This article explores the critical but often overlooked work of federal and Canadian teams combating invasive sea lampreys in the Great Lakes. The piece highlights the ecological and economic importance of this program, which has prevented the collapse of the region's fishing industry worth billions. It delves into the innovative methods used, including the discovery of lampricide (T.F.M.) and emerging AI-assisted solutions. The narrative also raises concerns about funding vulnerabilities under political changes, illustrating how success can make programs targets for budget cuts. The human element is vividly portrayed through the dedication of field workers like Ally Porter, whose nightly battles against lampreys showcase both the program's necessity and its precarious future.",
-    "summary_zh": "这篇文章描述了联邦和加拿大团队在大湖区对抗入侵性七鳃鳗的艰苦工作。它突出了这一项目的生态和经济重要性，该项目挽救了价值数十亿美元的渔业产业。文章探讨了创新方法，包括发现杀七鳃鳗剂（T.F.M.）和新兴的AI辅助解决方案。叙事还提出了在政治变化下资金脆弱性的担忧，说明成功可能使项目成为预算削减的目标。通过夜间与七鳃鳗作战的现场工作者如艾莉·波特的故事，生动展现了项目的必要性及其不确定的未来。",
-    "best_quote_en": "They’re just muscle and cartilage. No bones.",
-    "best_quote_zh": "它们只是肌肉和软骨。没有骨头。"
-  },
-  {
-    "id": 120,
-    "title": "Tales from Toddlerhood",
-    "title_zh": "幼儿趣事",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/10/toddler.html",
-    "tags": [
-      "update",
-      "science",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "This engaging personal narrative offers a candid look at the complexities of toddler parenthood, blending humor with insightful observations. The author shares eight revelations about raising a two-year-old, from the emotional whiplash of loving yet finding them boring to the bewildering contradictions of their intelligence. The piece explores the universal experience of parental judgment and offers a refreshing perspective on parenting philosophy. While entertaining, it also provides practical advice on nurturing curiosity and independence in young children. The author's self-deprecating humor and relatable anecdotes make this a valuable read for parents and anyone interested in child development.",
-    "summary_zh": "文章以幽默的视角描绘了育儿的真实挑战，从孩子既可爱又让人无奈的矛盾性，到家长们彼此评判的现象，作者用生动的故事和独特见解，展现了育儿过程中那些既滑稽又深刻的瞬间。这篇文章不仅让人会心一笑，更提供了关于培养孩子好奇心和独立性的实用建议，是育儿经验的真实写照。",
-    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
-    "best_quote_zh": "你可以同时对同一个人既着迷又无聊到极点。"
-  },
-  {
-    "id": 121,
-    "title": "Good news: men have stopped disrupting women’s sport with dildos. Bad news: now they’re betting on their periods | Arwa Mahdawi",
-    "title_zh": "好消息：男性不再用阴茎模型干扰女子体育比赛。坏消息：现在他们开始赌女子月经周期",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/14/good-news-men-have-stopped-disrupting-womens-sport-with-dildos-bad-news-now-theyre-betting-on-their-periods",
-    "tags": [
-      "update",
-      "society",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "This opinion piece by Arwa Mahdawi highlights the disturbing trend of period betting in women's sports, following the previous misogynistic disruption of WNBA games with dildos. The author critiques how women athletes continue to face invasive and sexist behaviors as their sports gain popularity. While acknowledging the growing interest in women's sports as a positive sign, Mahdawi emphasizes the need to address the underlying misogyny that persists. The piece also touches on the broader issue of women being punished for their success in male-dominated spaces, using examples from football and other sports. It's a thought-provoking exploration of gender dynamics in sports and society.",
-    "summary_zh": "阿尔瓦·马哈维的评论文章揭露了女子体育界令人不安的“经期下注”趋势，此前男性曾用阴茎模型干扰WNBA比赛。作者批评了女子运动员在体育事业兴起的同时仍面临侵犯和性别歧视行为。尽管承认女子体育受欢迎程度提高是积极信号，但马哈维强调需要解决根深蒂固的性别歧视问题。文章还涉及女性因成功而受惩罚的更广泛现象，引用了足球等运动中的例子。这是一篇探讨体育和社会中性别动态的深刻文章。",
-    "best_quote_en": "Whenever women are in the spotlight, though, there are people who punish them for it.",
-    "best_quote_zh": "但每当女性成为焦点，总有那么一些人要惩罚她们。"
-  },
-  {
     "id": 122,
     "title": "Economic Inequality",
     "title_zh": "经济不平等",
@@ -2348,5 +2252,99 @@
     "summary_zh": "这篇文章从两代模特的视角，揭示了模特行业的演变与持续的挑战。迪和丹妮尔分享了关于维持体型压力、社交媒体影响及AI模特和减肥药物新兴威胁的真实见解。她们的对话凸显了行业对心理健康的影响、猎奇行为以及对更好的代表和保护的需求。文章还触及了社会更广泛的身体形象问题和时尚行业的变化动态。这是一个引人深思的探讨，揭示了一个常常隐藏在幕后的行业。",
     "best_quote_en": "You definitely felt like you were disposable.",
     "best_quote_zh": "你一定觉得自己被弃用了。"
+  },
+  {
+    "id": 218,
+    "title": "Jess Cartner-Morley on fashion: how to do the country look – without being a flat cap cliche",
+    "title_zh": "杰斯·卡特纳-莫利关于时尚：如何打造乡村风格——避免变成平顶帽子的老套",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/19/jess-cartner-morley-on-fashion-how-to-do-the-country-look-without-being-a-flat-cap-cliche",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Jess Cartner-Morley's insightful piece dissects the urban fascination with countryside fashion, highlighting the paradox of city dwellers appropriating rural aesthetics. She argues that while the longing for wholesomeness and connection to nature is genuine, the execution often veers into cliche. The article offers practical advice on incorporating country elements into urban wardrobes without tipping into caricature, emphasizing functionality and personal style. Cartner-Morley's self-awareness about her own urban roots adds a layer of authenticity to her critique, making this a thoughtful exploration of fashion as both self-expression and cultural commentary.",
+    "summary_zh": "杰斯·卡特纳-莫利以幽默笔触剖析都市人对乡村风格的执念，揭示其背后的文化矛盾。她指出，虽然向往自然的本能真实存在，但盲目模仿乡村元素往往陷入刻板印象。文章提供了平衡城乡风格的实用建议，强调实用性与个性化。作者自嘲的都市根基使分析更显真实，将时尚话语提升为文化反思的高度。",
+    "best_quote_en": "The gravitational pull of this look is to do with our longing for wholesomeness, for slowing down in an era when life feels relentlessly digital and the future looks intimidating.",
+    "best_quote_zh": "这种风格的吸引力在于我们对纯真生活的渴望，在数字化生活和不确定未来的时代中，我们需要放慢脚步。"
+  },
+  {
+    "id": 219,
+    "title": "How to Raise Money",
+    "title_zh": "如何筹集资金",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fr.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "This comprehensive guide on startup fundraising from Y Combinator offers invaluable insights into the complex process of securing investment. It emphasizes that fundraising is both physically and mentally challenging, requiring strategic navigation of investor psychology. The essay breaks down the typical three-phase funding journey, focusing particularly on phase 2, where startups need to balance growth with capital acquisition. Key strategies include maintaining focus during fundraising, treating investors as saying 'no' until they make a definitive offer, and employing breadth-first search techniques to prioritize investor interactions. The guide warns against common pitfalls like overestimating valuation importance and falling for investor tactics that delay commitment. It also stresses the importance of having a plan for profitability and being cautious about how much equity to sell. The practical, no-nonsense advice is rooted in the understanding that fundraising is a means to an end, not the ultimate goal for startup success.",
+    "summary_zh": "Y Combinator 提供的这篇关于创业公司融资的全面指南，为筹集投资提供了宝贵的洞察。它强调融资既需要体力也需要智力，需要战略性地应对投资者的心理。该文章将典型的融资旅程分为三个阶段，特别是关注第二阶段，此时创业公司需要在增长与资本获取之间取得平衡。关键策略包括在融资期间保持专注，将投资者视为尚未明确表示愿意投资，并采用广度优先搜索技术来优先处理投资者互动。该指南警告不要犯常见的错误，比如高估估值的重要性，以及被投资者拖延承诺的策略所迷惑。它还强调了制定盈利计划的重要性，并谨慎出售股权。实用、不拐弯抹角的建议基于对融资是创业成功手段而非最终目标的理解。",
+    "best_quote_en": "Don't raise money unless you want it and it wants you.",
+    "best_quote_zh": "除非你想要融资且融资也想要你，否则不要融资。"
+  },
+  {
+    "id": 220,
+    "title": "The Sikh-Separatist Assassination Plot",
+    "title_zh": "锡克分裂主义者暗杀阴谋",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-sikh-separatist-assassination-plot",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "The article exposes a disturbing pattern of transnational violence orchestrated by Indian intelligence against Sikh separatists in Canada and the U.S. It reveals a sophisticated assassination plot involving Indian government agents, highlighting the escalating tensions between Sikh activists and the Indian state. The case of Hardeep Singh Nijjar's murder and the attempted assassination of Gurpatwant Singh Pannun exposes India's ruthless approach to suppressing Sikh separatism, even on foreign soil. This raises critical questions about international diplomacy, human rights, and the geopolitical implications of India's aggressive stance against its minorities. The article also explores the historical context of Sikh discrimination and violence, tracing back to Partition and recent Hindu nationalist policies under Modi. It's a chilling reminder of how state-sponsored repression can extend beyond borders, creating a climate of fear among diaspora communities.",
+    "summary_zh": "这篇文章揭露了印度情报机构针对加拿大和美国锡克分裂分子的跨国暴力模式，揭示了一个复杂的暗杀阴谋。它凸显了锡克活动人士与印度政府之间不断升级的紧张关系。哈里德普·辛格·尼贾尔遇害案和古尔帕特万·辛格·潘努暗杀未遂案，揭示了印度镇压锡克分裂主义的残酷手段。这引发了对国际外交、人权和印度对少数民族政策的严峻质疑。文章还探讨了锡克人遭受歧视和暴力的历史背景，追溯到印巴分治和莫迪政府下的印度教民族主义政策。这提醒我们，国家镇压如何超越国界，在流散社区中制造恐惧气氛。",
+    "best_quote_en": "He said that I needed to be careful, that I was in danger.",
+    "best_quote_zh": "他说我需要小心，我有危险。"
+  },
+  {
+    "id": 221,
+    "title": "What’s in my NOW? — Molly Harris",
+    "title_zh": "我的现在是什么？ — 莫莉·哈里斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-molly-harris/",
+    "tags": [
+      "inspire",
+      "medicine",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Molly Harris shares a personal, introspective look at tools and philosophies that help her navigate daily life. Her recommendations range from practical gadgets like a digital hygrometer for physical comfort to digital tools like Inoreader for information management and Tetr.io for stress relief. The piece also touches on invisible tools like the Persian proverb 'This too shall pass,' highlighting its dual role in appreciating good moments and enduring bad ones. This content serves as both a practical guide for personal well-being and a reflective piece on coping mechanisms in modern life.",
+    "summary_zh": "莫莉·哈里斯分享了帮助她应对日常生活的工具和哲学，从实用的数字湿度计到信息管理工具Inoreader，再到压力缓解游戏Tetr.io。文章还提到波斯谚语“此事终会过去”，强调其在珍惜美好时光和度过困难时刻中的双重作用。内容既是个人福祉的实用指南，也是现代生活应对机制的深刻思考。",
+    "best_quote_en": "This too shall pass.",
+    "best_quote_zh": "此事终会过去。"
   }
 ]
