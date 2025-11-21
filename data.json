@@ -1,53 +1,5 @@
 [
   {
-    "id": 122,
-    "title": "Economic Inequality",
-    "title_zh": "经济不平等",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ineq.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This thought-provoking piece challenges conventional views on economic inequality, arguing that it's a complex phenomenon with multiple causes, some beneficial and some harmful. The author, a startup founder, examines the moral and practical implications of wealth creation through startups versus wealth transfer through zero-sum games. He warns against oversimplifying inequality as a single issue, emphasizing the importance of distinguishing between wealth creation and wealth redistribution. The essay highlights how technological progress accelerates productivity variation, which inherently leads to economic inequality. The author advocates for focusing on addressing specific problems like poverty and lack of social mobility rather than targeting inequality itself. He concludes that while some aspects of inequality should be addressed, attempting to eliminate all wealth variation would stifle innovation and economic progress.",
-    "summary_zh": "这篇文章挑战了关于经济不平等的传统观点，认为它是一个有多种原因的复杂现象，其中一些是有益的，一些是有害的。作者作为创业公司的创始人，探讨了通过创业创造财富与通过零和游戏转移财富的道德和实践影响。他警告不要将不平等简化为一个问题，强调区分财富创造和财富再分配的重要性。文章指出技术进步加速了生产力的变化，这必然导致经济不平等。作者主张应该专注于解决具体问题，如贫困和社会流动性不足，而不是针对不平等本身。他得出结论，虽然应该解决一些不平等方面的问题，但试图消除所有财富差异会扼杀创新和经济进步。",
-    "best_quote_en": "The most common mistake people make about economic inequality is to treat it as a single phenomenon.",
-    "best_quote_zh": "人们关于经济不平等犯的最常见的错误是将其视为一个单一现象。"
-  },
-  {
-    "id": 123,
-    "title": "Seven-ish Words from My Thought-Language",
-    "title_zh": "我的思语七字词",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "This thought-provoking piece explores seven invented words that capture nuanced human experiences often missing in English. The author cleverly addresses cognitive and linguistic gaps, offering words like 'word-clogged' for mental overload and 'vanilla-obvious' for effortlessly correct choices. The essay reveals deep insights into human communication patterns and cognitive psychology. It's particularly fascinating how these concepts emerge independently across different domains, from mathematics to military strategy. The exploration of 'lantern-oil' as a metaphor for mental resources is especially compelling, blending philosophy with modern psychology. This content invites readers to reconsider language's limitations and the universality of certain human experiences.",
-    "summary_zh": "这篇文章探讨了七个虚构的词语，捕捉了英语中常缺失的微妙人类体验。作者巧妙地解决了认知和语言缺口，提出了'词堵塞'等词来描述心理过载。尤其令人着迷的是'灯油'作为心理资源的比喻，融合了哲学与现代心理学。这篇内容邀请读者重新思考语言的局限性和某些人类体验的普遍性。",
-    "best_quote_en": "'Lantern-oil': A knowingly-fictitious mental resource consumed for focus, commitment, and difficult decisions, with limited capacity that can be restored or depleted.",
-    "best_quote_zh": "灯油：一种有意虚构的心理资源，用于专注、承诺和做出艰难决定，容量有限，可以通过锻炼或消耗。"
-  },
-  {
     "id": 124,
     "title": "What if the Big Law Firms Hadn’t Caved to Trump?",
     "title_zh": "如果大型律师事务所没有向特朗普屈服会怎样？",
@@ -2346,5 +2298,53 @@
     "summary_zh": "莫莉·哈里斯分享了帮助她应对日常生活的工具和哲学，从实用的数字湿度计到信息管理工具Inoreader，再到压力缓解游戏Tetr.io。文章还提到波斯谚语“此事终会过去”，强调其在珍惜美好时光和度过困难时刻中的双重作用。内容既是个人福祉的实用指南，也是现代生活应对机制的深刻思考。",
     "best_quote_en": "This too shall pass.",
     "best_quote_zh": "此事终会过去。"
+  },
+  {
+    "id": 222,
+    "title": "Falls, feuds and fury: Miss Universe crowned after chaotic – and controversial – pageant",
+    "title_zh": "跌倒、争吵与愤怒：在混乱且争议中的选美比赛后，新一届环球小姐诞生",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/nov/21/miss-universe-2025-controversial-pageant-mexico-fatima-bosch-crowned",
+    "tags": [
+      "analyze",
+      "society",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "The 74th Miss Universe pageant in Bangkok was marred by controversy, from allegations of vote rigging and judge resignations to on-stage accidents and political tensions. Miss Mexico's Fatima Bosch was crowned after publicly accusing an organizer of disrespect, sparking a walkout by several contestants. The event highlighted systemic issues within pageants, including gender dynamics, cultural representation, and ethical concerns. While the organization defended its processes, the scandals overshadowed the celebration of diversity, raising questions about the industry's commitment to fairness and inclusivity.",
+    "summary_zh": "第74届环球小姐选美大赛在曼谷举行，但因选票舞弊指控、评委辞职、舞台意外和政治纠纷而陷入争议。墨西哥选手法蒂玛·博施在公开指控组织者不尊重她后被加冕，引发多位选手退赛。本次赛事揭露了选美行业的系统性问题，包括性别动态、文化代表性和伦理问题。尽管组织方为其流程辩护，但这些丑闻却掩盖了对多样性的庆祝，引发了对行业公平性和包容性承诺的质疑。",
+    "best_quote_en": "This is about women's rights. To trash another girl, it’s beyond disrespectful, and it’s nothing I’ve ever done. That’s why I’m taking my coat and I’m going.",
+    "best_quote_zh": "这是关于女性权利的问题。贬低另一个女孩，这不仅不尊重，而且是我从未做过的事情。这就是我为什么拿起我的外套离开。"
+  },
+  {
+    "id": 223,
+    "title": "Investor Herd Dynamics",
+    "title_zh": "投资者群体动态",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/herd.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-11-21",
+    "summary_en": "This essay explores the fascinating dynamics of investor herd behavior in startup funding. The author argues that while investor stampedes can occur, they're not necessarily indicative of a startup's long-term success. More importantly, understanding these dynamics can help founders navigate fundraising more effectively. The piece reveals how initial investor interest can reduce perceived risk, increase valuation, and boost founder confidence. It also warns about the pitfalls of valuation increases and the delicate dance of managing investor communications. The most insightful revelation is that mediocre investors often follow the herd due to their inability to properly evaluate startups, while top investors are more independent but may act due to practical deadlines. The essay offers practical advice on how to handle these situations without resorting to manipulation.",
+    "summary_zh": "这篇文章深入分析了创业融资中的投资者群体行为动态。作者指出，投资者的跟风现象虽然存在，但并非成功的必然标志。更为重要的是，理解这些动态有助于创始人更有效地进行融资。文中揭示了初期投资兴趣如何降低风险、提高估值并增强创始人的信心。同时也警示了估值上升的陷阱以及与投资者沟通的微妙之处。最有价值的见解是，普通投资者因难以准确评估初创企业而容易跟风，而顶尖投资者虽更独立但可能因实际压力被迫行动。文章提供了如何处理这些情况而不 resort to 1manipulation的实用建议。",
+    "best_quote_en": "The best investors aren't influenced much by the opinion of other investors. It would only dilute their own judgment to average it together with other people's.",
+    "best_quote_zh": "最优秀的投资者并不太受其他投资者意见的影响。将自己的判断与他人的平均起来只会稀释其价值。"
   }
 ]
